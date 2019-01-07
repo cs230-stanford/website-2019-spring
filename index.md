@@ -30,10 +30,7 @@ author:
 - All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments are listed in our [Syllabus](/syllabus)
 
-<<<<<<< HEAD
-=======
 Please make sure you join the [Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz) for the class to receive all course related announcements!
->>>>>>> 04bc82e58d56ea4185edd12f9a65361a01a14df8
 
 ## Course Assitants
 
@@ -53,7 +50,6 @@ Please make sure you join the [Piazza forum](https://piazza.com/class/jqlmsmrpya
 
 ## Course Information
 
-<<<<<<< HEAD
 This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 PM, NVIDIA Auditorium
 
 ## Course Materials
@@ -76,9 +72,8 @@ One module of the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning
  * Lecture videos which are organized in "weeks". You will have to watch around 10 videos (more or less 10min each) every week.
  * Quizzes (≈10-30min to complete) at the end of every week to assess your understanding of the material.
  * Programming assignments (≈2h per week to complete). The programming assignments will usually lead you to build concrete algorithms, you will get to see your own result after you've completed all the code. It's gonna be fun! For both assignment and quizzes, follow the deadlines on the Syllabus page, not on Coursera.
-=======
+
 # Course Information
->>>>>>> 04bc82e58d56ea4185edd12f9a65361a01a14df8
 
 
 ## Prerequisites
@@ -87,3 +82,29 @@ Students are expected to have the following background:
  * Familiarity with the probability theory. (CS 109 or STATS 116)
  * Familiarity with linear algebra (any one of Math 104, Math 113, or CS 205)
 
+# Grading
+
+We will use [Gradescope]() for all asignments.
+
+## Breakdown
+Below is the breakdown of class grade:
+ * 40%: Final project
+ * 25%: Midterm
+ * 25%: Programming assignment
+ * 8%: Quizzes
+ * 2%: Attendance (in-class lectures --if not SCPD--, sections, 15min weekly project mentorship.)
+
+**Note:** For project meetings, only the following meetings are mandatory for attendance:
+ * The first occurrence,
+ * The ocurrence after the project proposal,
+ * The ocurrence after the project milestone,
+ * The ocurrence before the final submission.
+
+## Submitting Assignments
+For this course, you will be invited to a private Coursera Session. In this session, you will be able to watch videos, do quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograder.
+
+## Late assignments
+Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment (which could be a programming assignment, a quiz or a project submission.) Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
+
+## Honor code
+We strongly encourage students to form study groups. Students may discuss and work on programming assignments and quizzes in groups. However, each student must write down the solutions independently, and without referring to written notes from the joint session. In other words, each student must understand the solution well enough in order to reconstruct it by him/herself. In addition, each student should submit his/her own code and mention anyone he/she collaborated with.
