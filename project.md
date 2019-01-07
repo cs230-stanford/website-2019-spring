@@ -7,7 +7,11 @@ comments: false
 # Hero section
 title: Project
 description: One of CS230's main goals is to prepare you to apply machine learning algorithms to real-world tasks, or to leave you well-qualified to start machine learning or AI research. The final project is intended to start you in these directions.
-
+buttons:
+    - icon: 
+      content: Past Projects
+      url: /past-projects
+      external_url: false
 
 
 # Micro navigation
@@ -106,12 +110,20 @@ The milestone will help you make sure you're on track, and should describe what 
 **Date:** March 19th, Tuesday 11:59pm
 **Location:** TBD 
 
-The class projects will be presented at a poster presentation on 03/20, at a location and time that can be found in our [syllabus page](/syllabus). Each team should prepare a poster, and be prepared to give a very short explanation, in front of the poster, about their work. At the poster session, you'll also have an opportunity to see what everyone else did for their projects. We will supply poster-boards and easels for displaying the posters.
+Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.
 
 ## Final Report
 
 **Deadline:**  March 19th, Tuesday 11:59pm
 
-Because the teaching staff will have only a few hours to see a large number of posters at the poster session, we'll only be able to get an overview of the work you did at the session. We know that most students work very hard on the final projects, and so we are extremely careful to give each writeup ample attention, and read and try very hard to understand everything you describe in it.
+The final report should contain a comprehensive account of your project. We expect the report to be thorough, yet concise. Broadly, we will be looking for the following:
 
-After the class, we will also post all the final writeups online so that you can read about each other's' work. If you do not want your write-up to be posted online, then please create a private Piazza post or contact us at cs230-project@cs.stanford.edu at least a week in advance of the final submission deadline.
+ * Good motivation for the project and an explanation of the problem statement
+ * A description of the data
+ * Any hyperparameter and architecture choices that were explored
+ * Presentation of results
+ * Analysis of results
+ * Any insights and discussions relevant to the project
+ * References
+
+ After the class, we will post all the final writeups online so that you can read about each other’s work. If you do not want your write-up to be posted online, then please create a private Piazza post. 

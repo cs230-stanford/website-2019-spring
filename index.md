@@ -12,8 +12,8 @@ buttons:
       url: '/syllabus'
       external_url: false
     - icon: 
-      content: Past Projects
-      url: /past-projects
+      content: Piazza
+      url: 'https://piazza.com/class/jqlmsmrpyak1oz'
       external_url: false
 
 # Author box
@@ -32,20 +32,26 @@ author:
 - The course content and deadlines for all assignments are listed in our [Syllabus](/syllabus)
 
 
-## Course Assitants
-
+## Course Staff
+{% include instructor.html name="Andrew Ng<br>(Instructor)" link="https://www.andrewng.org/" image="andrew.jpg" %} {% include instructor.html name="Kian Katanforoosh<br>(Instructor)" link="https://www.linkedin.com/in/kiankatan/" image="kian.jpg" %}
 {% include instructor.html name="Swati Dube<br>(Coordinator)" link="http://www.linkedin.com/in/swatidube/" image="swati.jpg"%}
 {% include instructor.html name="Abhijeet Shenoi<br>(Head TA)" link="https://www.linkedin.com/in/ashenoi/" image="abhijeet.jpg"%}
+
+#### On Campus Course Assistants
+
 {% include instructor.html name="Shervine Amidi" link="https://stanford.edu/~shervine/" image="shervine.jpg" %}
 {% include instructor.html name="Cristian Bartolome" link="https://www.linkedin.com/in/cristian-bartolom%C3%A9-ar%C3%A1mburu-66768056/en" image="cristian.jpg" %}
-{% include instructor.html name="Hojat Ghorbani<br>(Remote)" link="https://www.linkedin.com/in/hojat-ghorbanidehno/" image="hojat.jpg" %}
-{% include instructor.html name="Sagar Honnungar<br>(Remote)" link="https://www.linkedin.com/in/sagar-honnungar-1882b888/" image="sagar.jpg" %}
 {% include instructor.html name="Daniel Kunin" link="http://daniel-kunin.com" image="daniel.jpg" %}
 {% include instructor.html name="Ahmad Momeni" link="https://www.linkedin.com/in/ahmadreza-momeni-07a75589" image="ahmad.jpg" %}
 {% include instructor.html name="Sarah Najmark" link="https://www.linkedin.com/in/sarah-najmark-706b80131/" image="sarah.jpg" %}
-{% include instructor.html name="Ishan Patil<br>(Remote)" link="https://www.linkedin.com/in/ishan-patil-0805b364/" image="ishan.jpg" %}
 {% include instructor.html name="Hoormazd Rezaei" link="https://www.linkedin.com/in/hoormazd-rezaei/" image="hoormazd.jpg" %}
 {% include instructor.html name="Weini Yu" link="https://www.linkedin.com/in/weiniyu" image="weini.jpg" %}
+
+#### Off Campus Course Assistants
+{% include instructor.html name="Hojat Ghorbani" link="https://www.linkedin.com/in/hojat-ghorbanidehno/" image="hojat.jpg" %}
+{% include instructor.html name="Sagar Honnungar" link="https://www.linkedin.com/in/sagar-honnungar-1882b888/" image="sagar.jpg" %}
+{% include instructor.html name="Ishan Patil" link="https://www.linkedin.com/in/ishan-patil-0805b364/" image="ishan.jpg" %}
+
 
 ## Logistics
 
@@ -74,11 +80,11 @@ Students are expected to have the following background:
  * Familiarity with the probability theory. (CS 109 or STATS 116)
  * Familiarity with linear algebra (any one of Math 104, Math 113, or CS 205)
 
-# Grading
+## Grading
 
 Here's more information about the class grade:
 
-## Breakdown
+#### Breakdown
 Below is the breakdown of the class grade:
  * 40%: Final project
  * 25%: Midterm
@@ -87,18 +93,19 @@ Below is the breakdown of the class grade:
  * 2%: Attendance (e.g. in-class lectures --if not SCPD-- and project mentorship meetings.)
 
 **Note:** For project meetings, only the following meetings are mandatory for attendance:
- * The first occurrence,
- * The occurrence after the project proposal,
- * The occurrence after the project milestone,
- * The occurrence before the final submission.
+ * The first occurrence
+ * The occurrence after the project proposal
+ * The occurrence after the project milestone
 
-## Submitting Assignments
+#### Submitting Assignments
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
 
 You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope]().
 
-## Late assignments
+#### Late assignments
 Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment (which could be a programming assignment, a quiz or a project submission.) Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
 
-## Honor code
+**For example**, if one quiz and one programming assignment are submitted 3 hours after the deadline, this results in 2 late days being used.
+
+#### Honor code
 We strongly encourage students to form study groups. Students may discuss and work on programming assignments and quizzes in groups. However, each student must write down the solutions independently, and without referring to written notes from the joint session. In other words, each student must understand the solution well enough in order to reconstruct it by him/herself. In addition, each student should submit his/her own code and mention anyone he/she collaborated with.

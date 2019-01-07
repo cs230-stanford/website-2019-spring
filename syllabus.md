@@ -8,10 +8,7 @@ comments: false
 title: Syllabus
 description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are usually due every Tuesday, 30min before the class starts.
 buttons:
-    - icon: 
-      content: Piazza
-      url: 'https://piazza.com/class/jqlmsmrpyak1oz'
-      external_url: true
+
 
 
 # Micro navigation
@@ -80,7 +77,7 @@ micro_nav: false
             <td>
                 <strong>Project partners (due 01/15 at 10am):</strong>
                 <ul>
-                    <li>Find partner(s) for your final project and sign up here (link coming soon)</li>
+                    <li>Find partner(s) for your final project</li>
                 </ul>
                 <strong>Quizzes (due 01/15 at 10am):</strong>
                 <ul>
@@ -113,12 +110,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 11am):</strong>
+                <strong>Quizzes (due at 10am):</strong>
                 <ul>
                     <li>Shallow Neural Networks</li>
                     <li>Key concepts on Deep Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at 11am):</strong>
+                <strong>Programming Assignments (due at 10am):</strong>
                 <ul>
                     <li>Planar data classification with a hidden layer</li>
                     <li>Building your Deep Neural Network: step by step</li>
@@ -156,12 +153,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 11am):</strong>
+                <strong>Quizzes (due at 10am):</strong>
                 <ul>
                     <li>Practical aspects of deep learning</li>
                     <li>Optimization Algorithms</li>
                 </ul>
-                <strong>Programming Assignments (due at 11am):</strong>
+                <strong>Programming Assignments (due at 10am):</strong>
                 <ul>
                     <li>Initialization</li>
                     <li>Regularization</li>
@@ -194,13 +191,13 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 11am):</strong>
+                <strong>Quizzes (due at 10am):</strong>
                 <ul>
                     <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
                     <li>Bird recognition in the city of Peacetopia (case study)</li>
                     <li>Autonomous driving (case study)</li>
                 </ul>
-                <strong>Programming Assignments (due at 11am):</strong>
+                <strong>Programming Assignments (due at 10am):</strong>
                 <ul>
                     <li>Tensorflow</li>
                 </ul>
@@ -208,7 +205,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Midterm Review</td>
-            <td>TBD</td>
+            <td>02/08</td>
             <td><strong>Past midterms:</strong>
                 <ul>
                     <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="./files/cs230exam_win18_soln.pdf">with solutions</a></li>
@@ -239,12 +236,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 11am):</strong>
+                <strong>Quizzes (due at 10am):</strong>
                 <ul>
                     <li>The basics of ConvNets</li>
                     <li>Convolutional models</li>
                 </ul>
-                <strong>Programming Assignments (due at 11am):</strong>
+                <strong>Programming Assignments (due at 10am):</strong>
                 <ul>
                     <li>Convolutional Neural Network - Step by Step</li>
                     <li>Convolutional Neural Network - Application</li>
@@ -260,7 +257,7 @@ micro_nav: false
             <td>
                 <strong>Midterm</strong>
                 <ul>
-                    <li>Date: Feburary 02, 2018</li>
+                    <li>Date: Feburary 13, 2018</li>
                     <li>Time: TBD</li>
                     <li>Locations: TBD</li>
                 </ul>
@@ -291,12 +288,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 11am):</strong>
+                <strong>Quizzes (due at 10am):</strong>
                 <ul>
                     <li>Detection Algorithms</li>
                     <li>Special Applications: Face Recognition and Neural Style Transfer</li>
                 </ul>
-                <strong>Programming Assignments (due at 11am):</strong>
+                <strong>Programming Assignments (due at 10am):</strong>
                 <ul>
                     <li>Car Detection with YOLOv2</li>
                     <li>Art Generation with Neural Style Transfer</li>
@@ -340,11 +337,11 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 11am):</strong>
+                <strong>Quizzes (due at 10am):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at 11am):</strong>
+                <strong>Programming Assignments (due at 10am):</strong>
                 <ul>
                     <li>Building a Recurrent Neural Network - Step by Step</li>
                     <li>Dinosaur Land -- Character-level Language Modeling</li>
@@ -373,12 +370,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 11am):</strong>
+                <strong>Quizzes (due at 10am):</strong>
                 <ul>
                     <li>Natural Language Processing and Word Embeddings</li>
                     <li>Sequence Models and Attention Mechanism</li>
                 </ul>
-                <strong>Programming Assignments (due at 11am):</strong>
+                <strong>Programming Assignments (due at 10am):</strong>
                 <ul>
                     <li>Operations on Word Vectors - Debiasing</li>
                     <li>Emojify!</li>
