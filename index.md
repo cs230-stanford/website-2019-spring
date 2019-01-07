@@ -25,12 +25,12 @@ author:
 
 ---
 
-# Course Information
+## Course Information
 
+- This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 PM, NVIDIA Auditorium
 - All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments are listed in our [Syllabus](/syllabus)
 
-Please make sure you join the [Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz) for the class to receive all course related announcements!
 
 ## Course Assitants
 
@@ -47,20 +47,15 @@ Please make sure you join the [Piazza forum](https://piazza.com/class/jqlmsmrpya
 {% include instructor.html name="Hoormazd Rezaei" link="https://www.linkedin.com/in/hoormazd-rezaei/" image="hoormazd.jpg" %}
 {% include instructor.html name="Weini Yu" link="https://www.linkedin.com/in/weiniyu" image="weini.jpg" %}
 
-
-## Course Information
-
-This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 PM, NVIDIA Auditorium
-
-## Course Materials
+## Logistics
 
 #### Before the first class
 
-If you are enrolled in CS230, you will receive an email from Coursera before the first day of class to join a private session of the course "Neural Networks and Deep Learning". Follow the instructions to setup your Coursera account with your Stanford email.
+If you are enrolled in CS230, you will receive an email from Coursera the day before the first day of class to join a private session of the course "Neural Networks and Deep Learning". Follow the instructions to setup your Coursera account with your Stanford email.
 
 #### The flipped classroom format
 
-CS230 is a flipped-room, every week you will have:
+CS230 follows a flipped-classroom format, every week you will have:
 * In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts.
 * Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks. 
 * TA-led sections on Fridays: Teaching Assistants will teach you hands-on tips and tricks to succeed in your projects, but also theorethical foundations of deep learning.
@@ -73,9 +68,6 @@ One module of the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning
  * Quizzes (≈10-30min to complete) at the end of every week to assess your understanding of the material.
  * Programming assignments (≈2h per week to complete). The programming assignments will usually lead you to build concrete algorithms, you will get to see your own result after you've completed all the code. It's gonna be fun! For both assignment and quizzes, follow the deadlines on the Syllabus page, not on Coursera.
 
-# Course Information
-
-
 ## Prerequisites
 Students are expected to have the following background:
  * Knowledge of basic computer science principles and skills, at a level sufficient to write a reasonably non-trivial computer program.
@@ -84,7 +76,7 @@ Students are expected to have the following background:
 
 # Grading
 
-We will use [Gradescope]() for all asignments.
+Here's more information about the class grade:
 
 ## Breakdown
 Below is the breakdown of class grade:
@@ -96,12 +88,14 @@ Below is the breakdown of class grade:
 
 **Note:** For project meetings, only the following meetings are mandatory for attendance:
  * The first occurrence,
- * The ocurrence after the project proposal,
- * The ocurrence after the project milestone,
- * The ocurrence before the final submission.
+ * The occurrence after the project proposal,
+ * The occurrence after the project milestone,
+ * The occurrence before the final submission.
 
 ## Submitting Assignments
-For this course, you will be invited to a private Coursera Session. In this session, you will be able to watch videos, do quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograder.
+From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
+
+You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope]().
 
 ## Late assignments
 Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment (which could be a programming assignment, a quiz or a project submission.) Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
