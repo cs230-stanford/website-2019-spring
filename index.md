@@ -25,13 +25,11 @@ author:
 
 ---
 
-# Contact Information
+# Course Information
 
-If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
+- All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
+- The course content and deadlines for all assignments are listed in our [Syllabus](/syllabus)
 
-## Announcements
-
-Please make sure you join the [Piazza forum](https://piazza.com/class/jlokf3yiw4a86) for the class to receive all course related announcements!
 
 ## Course Assitants
 {% include instructor.html name="Swati Dube<br>(Coordinator)" link="http://www.linkedin.com/in/swatidube/" image="swati.jpg"%}
@@ -48,30 +46,35 @@ Please make sure you join the [Piazza forum](https://piazza.com/class/jlokf3yiw4
 {% include instructor.html name="Weini Yu" link="https://www.linkedin.com/in/weiniyu" image="weini.jpg" %}
 
 
+## Course Information
+
+This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 PM, NVIDIA Auditorium
+
+## Course Materials
+
+#### Before the first class
+
+If you are enrolled in CS230, you will receive an email from Coursera before the first day of class to join a private session of the course "Neural Networks and Deep Learning". Follow the instructions to setup your Coursera account with your Stanford email.
+
+#### The flipped classroom format
+
+CS230 is a flipped-room, every week you will have:
+* In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts.
+* Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks. 
+* TA-led sections on Fridays: Teaching Assistants will teach you hands-on tips and tricks to succeed in your projects, but also theorethical foundations of deep learning.
+* Project meeting with your TA mentor: CS230 is a project-based class. Through personalized guidance, TAs will help you succeed in implementing a successful deep learning project within a quarter.
 
 
+One module of the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera includes:
 
+ * Lecture videos which are organized in "weeks". You will have to watch around 10 videos (more or less 10min each) every week.
+ * Quizzes (≈10-30min to complete) at the end of every week to assess your understanding of the material.
+ * Programming assignments (≈2h per week to complete). The programming assignments will usually lead you to build concrete algorithms, you will get to see your own result after you've completed all the code. It's gonna be fun! For both assignment and quizzes, follow the deadlines on the Syllabus page, not on Coursera.
 
-# Course Information
-
-CS230 meets every week for lecture Wed 11:30 AM - 12:50 PM, NVIDIA Auditorium
 
 ## Prerequisites
 Students are expected to have the following background:
  * Knowledge of basic computer science principles and skills, at a level sufficient to write a reasonably non-trivial computer program.
  * Familiarity with the probability theory. (CS 109 or STATS 116)
  * Familiarity with linear algebra (any one of Math 104, Math 113, or CS 205)
-
-## Course Materials
-If you are enrolled in CS230, you must have received an email from Coursera confirming that you have been added to a private session of the course "Neural Networks and Deep Learning". Follow the instructions to setup your Coursera account with your Stanford email.
-
-On the Coursera platform, you will find:
- * Lecture videos which are organized in "weeks". You will have to watch around 10 videos (more or less 10min each) every week. Make sure you are up to date, to not lose the pace of the class.
- * Quizzes (≈10-30min to complete) at the end of every week. These quizzes are here to assess your understanding of the material.
- * Programming assignments (≈2h per week to complete). The programming assignments will usually lead you to build concrete algorithms, you will get to see your own result after you've completed all the code. It's gonna be fun! For both assignment and quizzes, follow the deadlines on the Syllabus page, not on Coursera.
-
-In addition to the content on Coursera, you will have:
- * In-class lectures on Wednesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts.
- * Sections on Fridays: Teaching Assistants will hold Hands-on Sections to teach you advanced materials including hands-on tips and tricks to succeed in your projects, or mathematical proofs.
- * 15min weekly project mentorship with your mentor TA: CS230 is a project-based class. Through personalized guidance, TAs will help you succeed in implementing a successful deep learning project within a quarter.
 
