@@ -56,7 +56,7 @@ If you are enrolled in CS230, you will receive an email from Coursera the day be
 #### The flipped classroom format
 
 CS230 follows a flipped-classroom format, every week you will have:
-* In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts.
+* In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts. If you are an SCPD student, you can access the in-class lecture videos on [Canvas](https://canvas.stanford.edu/).
 * Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks. 
 * TA-led sections on Fridays: Teaching Assistants will teach you hands-on tips and tricks to succeed in your projects, but also theorethical foundations of deep learning.
 * Project meeting with your TA mentor: CS230 is a project-based class. Through personalized guidance, TAs will help you succeed in implementing a successful deep learning project within a quarter.
@@ -79,12 +79,12 @@ Students are expected to have the following background:
 Here's more information about the class grade:
 
 ## Breakdown
-Below is the breakdown of class grade:
+Below is the breakdown of the class grade:
  * 40%: Final project
  * 25%: Midterm
  * 25%: Programming assignment
  * 8%: Quizzes
- * 2%: Attendance (in-class lectures --if not SCPD--, sections, 15min weekly project mentorship.)
+ * 2%: Attendance (e.g. in-class lectures --if not SCPD-- and project mentorship meetings.)
 
 **Note:** For project meetings, only the following meetings are mandatory for attendance:
  * The first occurrence,

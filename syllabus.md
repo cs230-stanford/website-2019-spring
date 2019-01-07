@@ -6,12 +6,8 @@ comments: false
 
 # Hero section
 title: Syllabus
-description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are usually due every Wednesday, 30min before the class starts.
+description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are usually due every Tuesday, 30min before the class starts.
 buttons:
-    - icon: 
-      content: Lectures
-      url: '#'
-      external_url: false
     - icon: 
       content: Piazza
       url: 'https://piazza.com/class/jqlmsmrpyak1oz'
@@ -41,7 +37,7 @@ micro_nav: false
     <tbody>
         <tr>
             <td id="Module_1" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Neural Networks and Deep Learning</strong> (Course 1)
+                <strong>Neural Networks and Deep Learning</strong> <a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">(Course 1)</a>
             </td>
         </tr>
         <tr>
@@ -100,7 +96,7 @@ micro_nav: false
         </tr>
         <tr>
             <td id="Module_2" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</strong> (Course 2)
+                <strong>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</strong> <a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">(Course 2)</a>
             </td>
         </tr>
         <tr>
@@ -176,7 +172,7 @@ micro_nav: false
         </tr>
         <tr>
             <td id="Module_3" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Structuring Machine Learning Projects</strong> (Course 3)
+                <strong>Structuring Machine Learning Projects</strong> <a href="https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning">(Course 3)</a>
             </td>
         </tr>
         <tr>
@@ -226,7 +222,7 @@ micro_nav: false
         </tr>
         <tr>
             <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Convolutional Neural Networks</strong> (Course 4)
+                <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
             </td>
         </tr>
         <tr>
@@ -319,7 +315,7 @@ micro_nav: false
         </tr>
         <tr>
             <td id="Module_5" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Sequence Models</strong> (Course 5)
+                <strong>Sequence Models</strong>  <a href="https://www.coursera.org/learn/nlp-sequence-models">(Course 5)</a>
             </td>
         </tr>
         <tr>

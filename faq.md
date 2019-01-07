@@ -22,12 +22,14 @@ Below is the breakdown of class grade:
  * 8%: Quizzes
  * 2%: Attendance
 
+
 ## What are the deliverables as part of the term project?
 The project has four deliverables:
  * Proposal
  * Milestone
  * Poster
  * Final report
+
 Deadlines are listed in the project page and on the schedule page of the website.
 
 ## Should final project use only methods taught in classroom?
@@ -79,5 +81,8 @@ You should reach out to your project mentor. You could either sign-up for on of 
 Not officially, but a great resource is [The Deep Learning book](http://www.deeplearningbook.org/). You can also find lecture videos from CS231N and CS224N on YouTube for free that might go a bit more in-depth with some of the concepts we will cover
 
 ## I want to do a project in NLP, computer vision, with GANs, etc but it wasn’t covered much in lecture. How can I get more resources?
-See the question above. You might have to learn some core concepts there on your own such as word2vec by checking out other course materials like 224N’s excellent videos describing word2vec. An excellent resource for GAN related content is CS236 lecture materials and the Awesome NLP GitHub repo
+See the question above. You might have to learn some core concepts there on your own such as doc2vec or auto-encoders by checking out research papers and other types of content (blog posts, courses, videos, etc.) to better grasp the content. Please ask for help, the TAs often have great content to direct you to. 
 
+## Can I audit CS230?
+
+ In general we welcome guests to sit-in on lectures if they are a member of the Stanford community (registered student, staff, and/or faculty). If the class is too crowded and we're out of space, we ask to give priority to enrolled students. To get access to the course materials (including the Coursera private sessions), you have to enroll in the class or be a Research Scientist, Visiting Scholar, Postdoctoral student, faculty or staff and have a SUNet ID. We do not give access to the Coursera platform to students who aren't in the above categories.
