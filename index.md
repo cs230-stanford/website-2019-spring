@@ -8,8 +8,8 @@ title: CS230 Deep Learning
 description: Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
 buttons:
     - icon: 
-      content: Schedule
-      url: '/schedule'
+      content: Syllabus
+      url: '/syllabus'
       external_url: false
     - icon: 
       content: Past Projects
@@ -18,8 +18,8 @@ buttons:
 
 # Author box
 author:
-    title: Schedule
-    title_url: '/schedule'
+    title: Syllabus
+    title_url: '/syllabus'
     external_url: false
     description: Wed 11:30 AM - 12:50 PM <br> NVIDIA Auditorium
 
@@ -30,8 +30,13 @@ author:
 - All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments are listed in our [Syllabus](/syllabus)
 
+<<<<<<< HEAD
+=======
+Please make sure you join the [Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz) for the class to receive all course related announcements!
+>>>>>>> 04bc82e58d56ea4185edd12f9a65361a01a14df8
 
 ## Course Assitants
+
 {% include instructor.html name="Swati Dube<br>(Coordinator)" link="http://www.linkedin.com/in/swatidube/" image="swati.jpg"%}
 {% include instructor.html name="Abhijeet Shenoi<br>(Head TA)" link="https://www.linkedin.com/in/ashenoi/" image="abhijeet.jpg"%}
 {% include instructor.html name="Shervine Amidi" link="https://stanford.edu/~shervine/" image="shervine.jpg" %}
@@ -48,6 +53,7 @@ author:
 
 ## Course Information
 
+<<<<<<< HEAD
 This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 PM, NVIDIA Auditorium
 
 ## Course Materials
@@ -70,6 +76,9 @@ One module of the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning
  * Lecture videos which are organized in "weeks". You will have to watch around 10 videos (more or less 10min each) every week.
  * Quizzes (≈10-30min to complete) at the end of every week to assess your understanding of the material.
  * Programming assignments (≈2h per week to complete). The programming assignments will usually lead you to build concrete algorithms, you will get to see your own result after you've completed all the code. It's gonna be fun! For both assignment and quizzes, follow the deadlines on the Syllabus page, not on Coursera.
+=======
+# Course Information
+>>>>>>> 04bc82e58d56ea4185edd12f9a65361a01a14df8
 
 
 ## Prerequisites

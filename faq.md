@@ -14,7 +14,6 @@ micro_nav: false
 
 ---
 
-
 ## What is the grading breakdown?
 Below is the breakdown of class grade:
  * 40%: Final project
