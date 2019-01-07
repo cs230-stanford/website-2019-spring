@@ -21,7 +21,7 @@ author:
     title: Syllabus
     title_url: '/syllabus'
     external_url: false
-    description: Wed 11:30 AM - 12:50 PM <br> NVIDIA Auditorium
+    description: Tue 10:30 AM - 11:50 AM <br> NVIDIA Auditorium
 
 ---
 
