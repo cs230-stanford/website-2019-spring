@@ -21,13 +21,13 @@ author:
     title: Syllabus
     title_url: '/syllabus'
     external_url: false
-    description: Wed 11:30 AM - 12:50 PM <br> NVIDIA Auditorium
+    description: Tue 10:30 AM - 11:50 PM <br> NVIDIA Auditorium
 
 ---
 
 ## Course Information
 
-- This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 PM, NVIDIA Auditorium
+- This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 AM, NVIDIA Auditorium
 - All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments are listed in our [Syllabus](/syllabus)
 
