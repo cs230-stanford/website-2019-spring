@@ -29,11 +29,7 @@ micro_nav: false
 
 ## SCPD Zoom IDs
 
- * Aarti - Huang Basement/Zoom ID (SCPD): 984-489-7098
  * Abhijeet - Huang Basement/Zoom ID (SCPD): 815 834 5827
  * Ahmad - Huang Basement/ Zoom ID (SCPD): 582-402-6341
  * Cristian - Huang Basement/Zoom ID(SCPD): 325-039-9239
  * Daniel - Huang Basement/ Zoom ID (SCPD): 305-628-5358
- * Jay - Huang Basement/Zoom ID (SCPD): 754-389-2619
- * Patrick - Huang Basement/Zoom ID (SCPD): 234-847-0469
- * Pedro - Lathrop tech hub/ Zoom ID (SCPD): 583-738-3292

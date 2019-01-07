@@ -14,8 +14,6 @@ micro_nav: false
 
 ---
 
-{% include toggle.html  "%}
-
 ## What is the grading breakdown?
 Below is the breakdown of class grade:
  * 40%: Final project

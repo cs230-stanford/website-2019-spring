@@ -7,8 +7,8 @@ doks:
             text: CS230
             image: true
         nav:
-            - item_name: Schedule
-              item_url: '/Schedule'
+            - item_name: Syllabus
+              item_url: '/syllabus'
             - item_name: Grading
               item_url: '/grading'
             - item_name: Office Hours
