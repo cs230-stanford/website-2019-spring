@@ -43,7 +43,7 @@ Once you have identified a topic of interest, it can be useful to look up existi
 
 Notes on a few specific types of projects:
 
- * **Computation power.** We will update you if we manage to get you free GPU credits but in any case both [Google Cloud](https://cloud.google.com/edu/) and [Microsoft Azure](https://azure.microsoft.com/en-us/education/) offer free academic units which you can apply to.
+ * **Computation power.** Amazon Web Services is sponsoring the CS230 projects by providing you with GPU credits to run your experiments! We will update regarding how to retrieve your GPU credits. Alternatively Google Cloud and Microsoft Azure offer free academic units which you can apply to.
  * **Preprocessed datasets.** While we don't want you to have to spend much time collecting raw data, the process of inspecting and visualizing the data, trying out different types of preprocessing, and doing error analysis is often an important part of machine learning. Hence if you choose to use preprepared datasets (e.g. from Kaggle, the UCI machine learning repository, etc.) we encourage you to do some data exploration and analysis to get familiar with the problem.
  * **Replicating results.** Replicating the results in a paper can be a good way to learn. However, we ask that instead of just replicating a paper, also try using the technique on another application, or do some analysis of how each component of the model contributes to final performance.
 
@@ -65,7 +65,7 @@ In order to highlight these components, it is important you present a solid disc
 
 ## Proposal
 
-**Deadline:** October 14th, Sunday 11:59 PM
+**Deadline:** January 22nd, Tuesday 11:59 PM
 
 In the project proposal, you'll pick a project idea to work on early and receive feedback from the TAs. If your proposed project will be done jointly with a different class' project, you should obtain approval from the other instructor and approval from us. Please come to the project office hours to discuss with us if you would like to do a joint project. You should submit your proposals on Gradescope. All students should already be added to the course page on Gradescope via your SUNet IDs. If you are not, please create an account with **your Stanford email** and enroll in CS230.
 
@@ -97,20 +97,20 @@ Presenting pointers to one relevant dataset and one example of prior research on
 
 ## Milestone
 
-**Deadline:** November 9th, Friday 11:59pm
+**Deadline:** February 19th, Tuesday 11:59pm
 
 The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the milestone (and final report) keeping in mind that the intended audience is Profs. Ng and Katanforoosh and the TAs. Thus, for example, you should not spend two pages explaining what logistic regression is. Your milestone should include the full names of all your team members and state the full title of your project. **Note:** We will expect your final writeup to be on the same topic as your milestone. In order to help you the most, we expect you to submit your running code. Your code should contain a baseline model for your application. Along with your baseline model, you are welcome to submit additional parts of your code such as data pre-processing, data augmentation, accuracy matric(s), and/or other models you have tried. Please clean your code before submitting, comment on it, and cite any resources you used. Please **do not submit your dataset**. However, you may include a few samples of your data in the report if you wish.
 
 ## Poster
 
-**Date:** December 14th, Friday (8:30am - 11:30am) 
+**Date:** March 19th, Tuesday 11:59pm
 **Location:** TBD 
 
-The class projects will be presented at a poster presentation, at a location and time that will be announced later. Each team should prepare a poster, and be prepared to give a very short explanation, in front of the poster, about their work. At the poster session, you'll also have an opportunity to see what everyone else did for their projects. We will supply poster-boards and easels for displaying the posters.
+The class projects will be presented at a poster presentation on 03/20, at a location and time that can be found in our [syllabus page](/syllabus). Each team should prepare a poster, and be prepared to give a very short explanation, in front of the poster, about their work. At the poster session, you'll also have an opportunity to see what everyone else did for their projects. We will supply poster-boards and easels for displaying the posters.
 
 ## Final Report
 
-**Deadline:**  December 16th, Sunday 11:59PM 
+**Deadline:**  March 19th, Tuesday 11:59pm
 
 Because the teaching staff will have only a few hours to see a large number of posters at the poster session, we'll only be able to get an overview of the work you did at the session. We know that most students work very hard on the final projects, and so we are extremely careful to give each writeup ample attention, and read and try very hard to understand everything you describe in it.
 
