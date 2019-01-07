@@ -1,0 +1,49 @@
+# Theme settings
+doks:
+    baseurl:
+    color_theme: red
+    header:
+        logo:
+            text: CS230
+            image: true
+        nav:
+            - item_name: Schedule
+              item_url: '/Schedule'
+            - item_name: Grading
+              item_url: '/grading'
+            - item_name: Office Hours
+              item_url: '/officehours'
+            - item_name: Project
+              item_url: '/project'
+            - item_name: Section
+              item_url: '/section'
+            - item_name: Blog
+              item_url: '/blog'
+            - item_name: FAQ
+              item_url: '/faq'
+    footer:
+        content:
+            logo:
+                text: 
+                image:
+            copyright: Copyright &copy; 2019. - Stanford University <br>All rights reserved.
+        social_list:
+            # - network_name: facebook
+            #   profile_url: '#'
+            # - network_name: twitter
+            #   profile_url: '#'
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: :compressed
+
+# Jekyll settings
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/
