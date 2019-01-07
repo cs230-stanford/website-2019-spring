@@ -9,8 +9,6 @@ doks:
         nav:
             - item_name: Syllabus
               item_url: '/syllabus'
-            - item_name: Grading
-              item_url: '/grading'
             - item_name: Office Hours
               item_url: '/officehours'
             - item_name: Project

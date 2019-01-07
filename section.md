@@ -12,10 +12,12 @@ buttons:
 # Grid navigation
 grid_navigation:
     - title: Week 1
-      excerpt: Section description
+      excerpt: Some interesting applications of deep learning!
       cta: Read more
       url: '#'
-    - title: Week 2
+---
+
+<!--     - title: Week 2
       excerpt: Section description
       cta: Read more
       url: '#'
@@ -46,5 +48,4 @@ grid_navigation:
     - title: Week 9
       excerpt: Section description
       cta: Read more
-      url: '#'
----
+      url: '#' -->
