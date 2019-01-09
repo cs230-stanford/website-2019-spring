@@ -27,9 +27,9 @@ author:
 
 ## Course Information
 
-- This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 AM, NVIDIA Auditorium
+- This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 AM, NVIDIA Auditorium.
 - All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
-- The course content and deadlines for all assignments are listed in our [Syllabus](/syllabus)
+- The course content and deadlines for all assignments are listed in our [syllabus](/syllabus).
 
 
 ## Course Staff
@@ -41,6 +41,8 @@ author:
 
 {% include instructor.html name="Shervine Amidi" link="https://stanford.edu/~shervine/" image="shervine.jpg" %}
 {% include instructor.html name="Cristian Bartolome" link="https://www.linkedin.com/in/cristian-bartolom%C3%A9-ar%C3%A1mburu-66768056/en" image="cristian.jpg" %}
+{% include instructor.html name="Gael Colas" link="https://www.linkedin.com/in/gael-colas/" image="gael.jpg" %}
+{% include instructor.html name="Farzan Farnia" link="https://linkedin.com/in/farzan-farnia-00798335" image="farzan.jpg" %}
 {% include instructor.html name="Daniel Kunin" link="http://daniel-kunin.com" image="daniel.jpg" %}
 {% include instructor.html name="Ahmad Momeni" link="https://www.linkedin.com/in/ahmadreza-momeni-07a75589" image="ahmad.jpg" %}
 {% include instructor.html name="Sarah Najmark" link="https://www.linkedin.com/in/sarah-najmark-706b80131/" image="sarah.jpg" %}

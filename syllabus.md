@@ -60,12 +60,7 @@ micro_nav: false
             <td>Lecture&nbsp;2</td>
             <td> 01/15 </td>
             <td>
-                <strong>Topic:</strong> Deep Learning Intuition <a href="/fall2018/slides_week2.pdf">(slides)</a>
-                <ul>
-                    <li>How to frame a machine learning problem?</li>
-                    <li>How to choose your loss function?</li>
-                    <li>Intuition behind various real-world application of deep learning.</li>
-                </ul>
+                <strong>Topic:</strong> Full-cycle of a deep learning project
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -100,7 +95,12 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 01/22 </td>
             <td>
-                <strong>Topic:</strong> Full-cycle of a deep learning project
+                <strong>Topic:</strong> Deep Learning Intuition <a href="/fall2018/slides_week2.pdf">(slides)</a>
+                <ul>
+                    <li>How to frame a machine learning problem?</li>
+                    <li>How to choose your loss function?</li>
+                    <li>Intuition behind various real-world application of deep learning.</li>
+                </ul>
             </td>
             <td>
                 <strong>Completed modules:</strong>

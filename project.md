@@ -107,7 +107,7 @@ The milestone will help you make sure you're on track, and should describe what 
 
 ## Poster
 
-**Date:** March 19th, Tuesday 11:59pm
+**Date:** March 20th, Wednesday 12:15pm-3:15pm
 **Location:** TBD 
 
 Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.

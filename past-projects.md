@@ -10,19 +10,19 @@ description: One of CS230's main goals is to prepare students to apply machine l
 buttons:
     - icon: 
       content: Fall 2017
-      url: '#fall-2017'
+      url: '/past-projects/#fall-2017'
       external_url: false
     - icon: 
       content: Winter 2018
-      url: '#winter-2018'
+      url: '/past-projects/#winter-2018'
       external_url: false
     - icon: 
       content: Spring 2018
-      url: '#spring-2018'
+      url: '/past-projects/#spring-2018'
       external_url: false
     - icon: 
       content: Fall 2018
-      url: '#fall-2018'
+      url: '/past-projects/#fall-2018'
       external_url: false
 
 
