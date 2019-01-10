@@ -11,10 +11,11 @@ buttons:
 
 # Grid navigation
 grid_navigation:
-    - title: Week 1
-      excerpt: Some interesting applications of deep learning!
+    - title: Section 1
+      excerpt: Applications of deep learning.
       cta: Read more
-      url: '#'
+      url: /section/1
+
 ---
 
 <!--     - title: Week 2

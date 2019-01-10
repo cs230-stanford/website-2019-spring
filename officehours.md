@@ -11,7 +11,7 @@ buttons:
     - icon: 
       content: QueueStatus
       url: https://queuestatus.com/queues/319
-      external_url: false
+      external_url: true
 
 
 # Micro navigation

@@ -14,7 +14,7 @@ buttons:
     - icon: 
       content: Piazza
       url: 'https://piazza.com/class/jqlmsmrpyak1oz'
-      external_url: false
+      external_url: true
 
 # Author box
 author:
