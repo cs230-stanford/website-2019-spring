@@ -5,14 +5,14 @@ keywords:
 
 # Hero section
 title: TA Sections
-description: 
+description: Sections are hourly seminars held every week by the course assistants on various topics in deep learning.  The topics are split between practice and theory.
 buttons:
 
 
 # Grid navigation
 grid_navigation:
     - title: Section 1
-      excerpt: Applications of deep learning.
+      excerpt: Getting started on your project.
       cta: Read more
       url: /section/1
 

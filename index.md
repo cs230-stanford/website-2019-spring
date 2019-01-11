@@ -41,6 +41,7 @@ author:
 
 {% include instructor.html name="Shervine Amidi" link="https://stanford.edu/~shervine/" image="shervine.jpg" %}
 {% include instructor.html name="Cristian Bartolome" link="https://www.linkedin.com/in/cristian-bartolom%C3%A9-ar%C3%A1mburu-66768056/en" image="cristian.jpg" %}
+{% include instructor.html name="Kaidi Cao" link="https://ai.stanford.edu/~kaidicao/" image="kaidi.jpg" %}
 {% include instructor.html name="Gael Colas" link="https://www.linkedin.com/in/gael-colas/" image="gael.jpg" %}
 {% include instructor.html name="Farzan Farnia" link="https://linkedin.com/in/farzan-farnia-00798335" image="farzan.jpg" %}
 {% include instructor.html name="Daniel Kunin" link="http://daniel-kunin.com" image="daniel.jpg" %}
@@ -94,10 +95,11 @@ Below is the breakdown of the class grade:
  * 8%: Quizzes
  * 2%: Attendance (e.g. in-class lectures --if not SCPD-- and project mentorship meetings.)
 
-**Note:** For project meetings, only the following meetings are mandatory for attendance:
+**Note:** For project meetings, only the following four meetings are mandatory for attendance:
  * The first occurrence
  * The occurrence after the project proposal
  * The occurrence after the project milestone
+ * The occurrence before the final submission
 
 #### Submitting Assignments
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
@@ -105,9 +107,11 @@ From the Coursera sessions (accessible from the invite you receive by email), yo
 You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope]().
 
 #### Late assignments
-Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment (which could be a programming assignment, a quiz or a project submission.) Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
+Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment (which could be a programming assignment, a quiz or a project submission.) 
 
 **For example**, if one quiz and one programming assignment are submitted 3 hours after the deadline, this results in 2 late days being used.
+
+Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
 
 #### Honor code
 We strongly encourage students to form study groups. Students may discuss and work on programming assignments and quizzes in groups. However, each student must write down the solutions independently, and without referring to written notes from the joint session. In other words, each student must understand the solution well enough in order to reconstruct it by him/herself. In addition, each student should submit his/her own code and mention anyone he/she collaborated with.
