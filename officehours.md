@@ -6,12 +6,12 @@ comments: false
 
 # Hero section
 title: Office Hours
-description: Times and locations may occasionally change each week so please check this page often. You will need to create an account on QueueStatus. When you wish to join the queue, click on the "Sign Up" button in the CS230-Fall Queue page. Be sure to properly enter all information needed in the menu when you sign up. This will enable the CAs to properly contact you. Also check "Announcements" and "chat" boxes reguarly for messages from CAs.
+description: Times and locations may occasionally change each week so please check this page often. You will need to create an account on QueueStatus. When you wish to join the queue, click on the "Sign Up" button in the CS230-Winter Queue page. Be sure to properly enter all information needed in the menu when you sign up. This will enable the CAs to properly contact you. Also check "Announcements" and "chat" boxes reguarly for messages from CAs.
 buttons:
     - icon: 
       content: QueueStatus
-      url: '#'
-      external_url: false
+      url: https://queuestatus.com/queues/319
+      external_url: true
 
 
 # Micro navigation

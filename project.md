@@ -41,7 +41,7 @@ Many fantastic class projects come from students picking either an application a
 
 ## Project Hints
 
-A very good CS230 project will be a publishable or nearly-publishable piece of work. Each year, some number of students continue working on their projects after completing CS230, submitting their work to a conferences or journals. Thus, for inspiration, you might also look at some recent deep learning research papers. Two of the main machine learning conferences are [ICML](https://icml.cc/) and [NIPS](https://nips.cc/). Finally, looking at class projects from previous years of CS230 ([Fall 2017](/past-project/#2017-fall), [Winter 2018](/past-projects/#2018-winter), [Spring 2018](/project/2018#spring), [Fall 2018](/project/2018#fall)) and other machine learning/ deep learning classes ([CS229](http://cs229.stanford.edu/), [CS229A](https://web.stanford.edu/class/cs229a/), [CS221](http://web.stanford.edu/class/cs221/), [CS224N](http://web.stanford.edu/class/cs224w/), [CS231N](http://cs231n.stanford.edu/)) is a good way to get ideas.
+A very good CS230 project will be a publishable or nearly-publishable piece of work. Each year, some number of students continue working on their projects after completing CS230, submitting their work to a conferences or journals. Thus, for inspiration, you might also look at some recent deep learning research papers. Two of the main machine learning conferences are [ICML](https://icml.cc/) and [NIPS](https://nips.cc/). Finally, looking at class projects from previous years of CS230 ([Fall 2017](/past-project/#2017-fall), [Winter 2018](/past-projects/#2018-winter), [Spring 2018](/project/2018#spring), [Fall 2018](/project/2018#fall)) and other machine learning/deep learning classes ([CS229](http://cs229.stanford.edu/), [CS229A](https://web.stanford.edu/class/cs229a/), [CS221](http://web.stanford.edu/class/cs221/), [CS224N](http://web.stanford.edu/class/cs224n/), [CS231N](http://cs231n.stanford.edu/)) is a good way to get ideas.
 
 Once you have identified a topic of interest, it can be useful to look up existing research on relevant topics by searching related keywords on an academic search engine such as: [http://scholar.google.com](http://scholar.google.com). Another important aspect of designing your project is to identify one or several datasets suitable for your topic of interest. If that data needs considerable pre-processing  to suit your task, or that you intend to collect the needed data yourself, keep in mind that this is only one part of the expected project work, but can often take considerable time. We still expect a solid methodology and discussion of results, so pace your project accordingly.
 
@@ -107,7 +107,7 @@ The milestone will help you make sure you're on track, and should describe what 
 
 ## Poster
 
-**Date:** March 19th, Tuesday 11:59pm
+**Date:** March 20th, Wednesday 12:15pm-3:15pm
 **Location:** TBD 
 
 Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.

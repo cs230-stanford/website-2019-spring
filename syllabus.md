@@ -60,12 +60,7 @@ micro_nav: false
             <td>Lecture&nbsp;2</td>
             <td> 01/15 </td>
             <td>
-                <strong>Topic:</strong> Deep Learning Intuition <a href="/fall2018/slides_week2.pdf">(slides)</a>
-                <ul>
-                    <li>How to frame a machine learning problem?</li>
-                    <li>How to choose your loss function?</li>
-                    <li>Intuition behind various real-world application of deep learning.</li>
-                </ul>
+                <strong>Topic:</strong> Full-cycle of a deep learning project
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -75,10 +70,6 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Project partners (due 01/15 at 10am):</strong>
-                <ul>
-                    <li>Find partner(s) for your final project</li>
-                </ul>
                 <strong>Quizzes (due 01/15 at 10am):</strong>
                 <ul>
                     <li>Introduction to deep learning</li>
@@ -100,7 +91,12 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 01/22 </td>
             <td>
-                <strong>Topic:</strong> Full-cycle of a deep learning project
+                <strong>Topic:</strong> Deep Learning Intuition <a href="/fall2018/slides_week2.pdf">(slides)</a>
+                <ul>
+                    <li>How to frame a machine learning problem?</li>
+                    <li>How to choose your loss function?</li>
+                    <li>Intuition behind various real-world application of deep learning.</li>
+                </ul>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -257,7 +253,7 @@ micro_nav: false
             <td>
                 <strong>Midterm</strong>
                 <ul>
-                    <li>Date: Feburary 13, 2018</li>
+                    <li>Date: Feburary 13, 2019</li>
                     <li>Time: TBD</li>
                     <li>Locations: TBD</li>
                 </ul>
@@ -265,7 +261,7 @@ micro_nav: false
             <td>
                 <strong>Alternate Midterm</strong>
                 <ul>
-                    <li>Date: February 14, 2018</li>
+                    <li>Date: February 14, 2019</li>
                     <li>Time: TBD</li>
                     <li>Location: TBD</li>
                 </ul>
