@@ -37,12 +37,19 @@ micro_nav: true
 
 ## Final Project Prize Winners
 
+<ul>
+    <li><strong>First place: </strong><a href="../projects_fall_2018/reports/12409058.pdf">Deep Energies for Estimating Three-Dimensional Facial Pose and Expression (Jane Hong Wu, Xinwei Yao)</a></li>
+    <li><strong>Second place: </strong><a href="../projects_fall_2018/reports/12447290.pdf">Realistic Image Synthesis and Classification  (Christopher Fontas, Emanuel Mendiola, Wendy Li)</a></li>
+    <li><strong>Third place: </strong><a href="../projects_fall_2018/reports/12365342.pdf">Human Portrait Super Resolution Using GANs  (Yujie Shu)</a></li>
+    <li><strong>Fourth place: </strong><a href="../projects_fall_2018/reports/12447446.pdf">Photorealistic Neural Style Transfer   (Richard Ruiqi Yang)</a></li>
+</ul>
+
 ## Outstanding Posters
 
 ## Submissions
 
 <ul>
-<li><strong>project_name</strong> by Jane Hong Wu: <a href="../projects_fall_2018/reports/12409058.pdf">report</a> <a href="../projects_fall_2018/posters/12230813.pdf">poster</a></li>
+<li><strong>project_name</strong> by Jane Hong Wu, Xinwei Yao: <a href="../projects_fall_2018/reports/12409058.pdf">report</a> <a href="../projects_fall_2018/posters/12230813.pdf">poster</a></li>
 <li><strong>project_name</strong> by Chenyu You, Linfeng Yang: <a href="../projects_fall_2018/reports/12353505.pdf">report</a> <a href="../projects_fall_2018/posters/12253328.pdf">poster</a></li>
 <li><strong>project_name</strong> by Evan Matthew Munro: <a href="../projects_fall_2018/reports/12436415.pdf">report</a> <a href="../projects_fall_2018/posters/12253350.pdf">poster</a></li>
 <li><strong>project_name</strong> by Ethan Oliver Nadler: <a href="../projects_fall_2018/reports/12406362.pdf">report</a> <a href="../projects_fall_2018/posters/12264334.pdf">poster</a></li>
@@ -53,7 +60,6 @@ micro_nav: true
 <li><strong>project_name</strong> by Mamoon Yunus: <a href="../projects_fall_2018/reports/12430526.pdf">report</a> <a href="../projects_fall_2018/posters/12307032.pdf">poster</a></li>
 <li><strong>project_name</strong> by Xiao Fei Yu: <a href="../projects_fall_2018/reports/12447267.pdf">report</a> <a href="../projects_fall_2018/posters/12312316.pdf">poster</a></li>
 <li><strong>project_name</strong> by Eddie Sun, Jorge Isaac Cordero Enriquez, Zoey Zhou: <a href="../projects_fall_2018/reports/12449209.pdf">report</a> <a href="../projects_fall_2018/posters/12314448.pdf">poster</a></li>
-<li><strong>project_name</strong> by Adam Keppler, Jennie Chen: <a href="../projects_fall_2018/reports/12438663.pdf">report</a> <a href="../projects_fall_2018/posters/12315395.pdf">poster</a></li>
 <li><strong>project_name</strong> by Vignesh Venkataraman: <a href="../projects_fall_2018/reports/12425483.pdf">report</a> <a href="../projects_fall_2018/posters/12316484.pdf">poster</a></li>
 <li><strong>project_name</strong> by Abraham Starosta: <a href="../projects_fall_2018/reports/12428084.pdf">report</a> <a href="../projects_fall_2018/posters/12327443.pdf">poster</a></li>
 <li><strong>project_name</strong> by Jie Chen, Junwen Bu, Yu Zhao: <a href="../projects_fall_2018/reports/12447240.pdf">report</a> <a href="../projects_fall_2018/posters/12328523.pdf">poster</a></li>
