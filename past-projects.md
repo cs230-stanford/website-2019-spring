@@ -45,7 +45,12 @@ micro_nav: true
 </ul>
 
 ## Outstanding Posters
-
+<ul>
+    <li><strong>First place: </strong><a href="../projects_fall_2018/posters/12366943.pdf">TimbreNet: A Convolutional Network for Blind Audio Source Separation (Nathaniel Jacob Okun, Scott Henry Reid)</a></li>
+    <li><strong>Second place: </strong><a href="../projects_fall_2018/posters/12350213.pdf">Direct Velocity estimation for seismic imaging using deep neural network (Abhishek Tapadar, Stuart Farris, Vishal Das)</a></li>
+    <li><strong>Third place: </strong><a href="../projects_fall_2018/posters/12405510.pdf">Advancing the Search for Dark Matter with Deep Convolutional Neural Networks (Ben Sorscher, Sebastian Matthias Wagner-Carena)</a></li>
+    <li><strong>Fourth place: </strong><a href="../projects_fall_2018/posters/12407489.pdf">Question Answering (Anuprit Kale, Edgar Gerardo Velasco)</a></li>
+</ul>
 ## Submissions
 
 <ul>
