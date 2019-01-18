@@ -254,16 +254,16 @@ micro_nav: false
                 <strong>Midterm</strong>
                 <ul>
                     <li>Date: Feburary 13, 2019</li>
-                    <li>Time: TBD</li>
-                    <li>Locations: TBD</li>
+                    <li>Time: 6 - 9pm</li>
+                    <li>Locations: Cubberley Aud. and Bishop Aud.</li>
                 </ul>
             </td>
             <td>
                 <strong>Alternate Midterm</strong>
                 <ul>
                     <li>Date: February 14, 2019</li>
-                    <li>Time: TBD</li>
-                    <li>Location: TBD</li>
+                    <li>Time: 6 - 9pm</li>
+                    <li>Location: 370-370</li>
                 </ul>
             </td>
         </tr>
