@@ -51,6 +51,7 @@ micro_nav: true
     <li><a href="../projects_fall_2018/posters/12405510.pdf">Advancing the Search for Dark Matter with Deep Convolutional Neural Networks (Ben Sorscher, Sebastian Matthias Wagner-Carena)</a></li>
     <li><a href="../projects_fall_2018/posters/12407489.pdf">Question Answering (Anuprit Kale, Edgar Gerardo Velasco)</a></li>
     <li><a href="../projects_fall_2018/posters/12264334.pdf">Efficient Neural Network Implementation of the UniverseMachine (Ethan Oliver Nadler, Chun-Hao To)</a></li>
+    <li><a href="../projects_fall_2018/posters/12266074.pdf">Human Portrait Super Resolution Using GANs  (Yujie Shu)</a></li>
 </ul>
 ## Submissions
 
