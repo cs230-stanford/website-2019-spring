@@ -38,18 +38,19 @@ micro_nav: true
 ## Final Project Prize Winners
 
 <ul>
-    <li><strong>First place: </strong><a href="../projects_fall_2018/reports/12409058.pdf">Deep Energies for Estimating Three-Dimensional Facial Pose and Expression (Jane Hong Wu, Xinwei Yao)</a></li>
-    <li><strong>Second place: </strong><a href="../projects_fall_2018/reports/12447290.pdf">Realistic Image Synthesis and Classification  (Christopher Fontas, Emanuel Mendiola, Wendy Li)</a></li>
-    <li><strong>Third place: </strong><a href="../projects_fall_2018/reports/12365342.pdf">Human Portrait Super Resolution Using GANs  (Yujie Shu)</a></li>
-    <li><strong>Fourth place: </strong><a href="../projects_fall_2018/reports/12447446.pdf">Photorealistic Neural Style Transfer   (Richard Ruiqi Yang)</a></li>
+    <li><a href="../projects_fall_2018/reports/12409058.pdf">Deep Energies for Estimating Three-Dimensional Facial Pose and Expression (Jane Hong Wu, Xinwei Yao)</a></li>
+    <li><a href="../projects_fall_2018/reports/12447290.pdf">Realistic Image Synthesis and Classification  (Christopher Fontas, Emanuel Mendiola, Wendy Li)</a></li>
+    <li><a href="../projects_fall_2018/reports/12365342.pdf">Human Portrait Super Resolution Using GANs  (Yujie Shu)</a></li>
+    <li><a href="../projects_fall_2018/reports/12447446.pdf">Photorealistic Neural Style Transfer   (Richard Ruiqi Yang)</a></li>
 </ul>
 
 ## Outstanding Posters
 <ul>
-    <li><strong>First place: </strong><a href="../projects_fall_2018/posters/12366943.pdf">TimbreNet: A Convolutional Network for Blind Audio Source Separation (Nathaniel Jacob Okun, Scott Henry Reid)</a></li>
-    <li><strong>Second place: </strong><a href="../projects_fall_2018/posters/12350213.pdf">Direct Velocity estimation for seismic imaging using deep neural network (Abhishek Tapadar, Stuart Farris, Vishal Das)</a></li>
-    <li><strong>Third place: </strong><a href="../projects_fall_2018/posters/12405510.pdf">Advancing the Search for Dark Matter with Deep Convolutional Neural Networks (Ben Sorscher, Sebastian Matthias Wagner-Carena)</a></li>
-    <li><strong>Fourth place: </strong><a href="../projects_fall_2018/posters/12407489.pdf">Question Answering (Anuprit Kale, Edgar Gerardo Velasco)</a></li>
+    <li><a href="../projects_fall_2018/posters/12366943.pdf">TimbreNet: A Convolutional Network for Blind Audio Source Separation (Nathaniel Jacob Okun, Scott Henry Reid)</a></li>
+    <li><a href="../projects_fall_2018/posters/12350213.pdf">Direct Velocity estimation for seismic imaging using deep neural network (Abhishek Tapadar, Stuart Farris, Vishal Das)</a></li>
+    <li><a href="../projects_fall_2018/posters/12405510.pdf">Advancing the Search for Dark Matter with Deep Convolutional Neural Networks (Ben Sorscher, Sebastian Matthias Wagner-Carena)</a></li>
+    <li><a href="../projects_fall_2018/posters/12407489.pdf">Question Answering (Anuprit Kale, Edgar Gerardo Velasco)</a></li>
+    <li><a href="../projects_fall_2018/posters/12264334.pdf">Efficient Neural Network Implementation of the UniverseMachine (Ethan Oliver Nadler, Chun-Hao To)</a></li>
 </ul>
 ## Submissions
 
@@ -57,7 +58,7 @@ micro_nav: true
 <li><strong>project_name</strong> by Jane Hong Wu, Xinwei Yao: <a href="../projects_fall_2018/reports/12409058.pdf">report</a> <a href="../projects_fall_2018/posters/12230813.pdf">poster</a></li>
 <li><strong>project_name</strong> by Chenyu You, Linfeng Yang: <a href="../projects_fall_2018/reports/12353505.pdf">report</a> <a href="../projects_fall_2018/posters/12253328.pdf">poster</a></li>
 <li><strong>project_name</strong> by Evan Matthew Munro: <a href="../projects_fall_2018/reports/12436415.pdf">report</a> <a href="../projects_fall_2018/posters/12253350.pdf">poster</a></li>
-<li><strong>project_name</strong> by Ethan Oliver Nadler: <a href="../projects_fall_2018/reports/12406362.pdf">report</a> <a href="../projects_fall_2018/posters/12264334.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ethan Oliver Nadler,  Chun-Hao To: <a href="../projects_fall_2018/reports/12406362.pdf">report</a> <a href="../projects_fall_2018/posters/12264334.pdf">poster</a></li>
 <li><strong>project_name</strong> by Yujie Shu: <a href="../projects_fall_2018/reports/12365342.pdf">report</a> <a href="../projects_fall_2018/posters/12266074.pdf">poster</a></li>
 <li><strong>project_name</strong> by Marcella Cindy Prasetio: <a href="../projects_fall_2018/reports/12447834.pdf">report</a> <a href="../projects_fall_2018/posters/12269503.pdf">poster</a></li>
 <li><strong>project_name</strong> by Paul Anthony Vicinanza: <a href="../projects_fall_2018/reports/12428876.pdf">report</a> <a href="../projects_fall_2018/posters/12280778.pdf">poster</a></li>
