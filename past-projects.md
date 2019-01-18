@@ -52,9 +52,9 @@ micro_nav: true
     <li><a href="../projects_fall_2018/posters/12407489.pdf">Question Answering (Anuprit Kale, Edgar Gerardo Velasco)</a></li>
     <li><a href="../projects_fall_2018/posters/12264334.pdf">Efficient Neural Network Implementation of the UniverseMachine (Ethan Oliver Nadler, Chun-Hao To)</a></li>
     <li><a href="../projects_fall_2018/posters/12266074.pdf">Human Portrait Super Resolution Using GANs  (Yujie Shu)</a></li>
+    <li><a href="../projects_fall_2018/posters/12390126.pdf">Human Trajectory Prediction in Socially Interacting Crowds  (Bilan Jackie Yang, Haruki Nishimura)</a></li>
 </ul>
 ## Submissions
-
 <ul>
 <li><strong>project_name</strong> by Jane Hong Wu, Xinwei Yao: <a href="../projects_fall_2018/reports/12409058.pdf">report</a> <a href="../projects_fall_2018/posters/12230813.pdf">poster</a></li>
 <li><strong>project_name</strong> by Chenyu You, Linfeng Yang: <a href="../projects_fall_2018/reports/12353505.pdf">report</a> <a href="../projects_fall_2018/posters/12253328.pdf">poster</a></li>
