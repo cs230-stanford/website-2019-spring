@@ -37,9 +37,167 @@ micro_nav: true
 
 ## Final Project Prize Winners
 
-## Outstanding Posters
+<ul>
+    <li><strong>First place: </strong><a href="../projects_fall_2018/reports/12409058.pdf">Deep Energies for Estimating Three-Dimensional Facial Pose and Expression (Jane Hong Wu, Xinwei Yao)</a></li>
+    <li><strong>Second place: </strong><a href="../projects_fall_2018/reports/12447290.pdf">Realistic Image Synthesis and Classification  (Christopher Fontas, Emanuel Mendiola, Wendy Li)</a></li>
+    <li><strong>Third place: </strong><a href="../projects_fall_2018/reports/12365342.pdf">Human Portrait Super Resolution Using GANs  (Yujie Shu)</a></li>
+    <li><strong>Fourth place: </strong><a href="../projects_fall_2018/reports/12447446.pdf">Photorealistic Neural Style Transfer   (Richard Ruiqi Yang)</a></li>
+</ul>
 
+## Outstanding Posters
+<ul>
+    <li><strong>First place: </strong><a href="../projects_fall_2018/posters/12366943.pdf">TimbreNet: A Convolutional Network for Blind Audio Source Separation (Nathaniel Jacob Okun, Scott Henry Reid)</a></li>
+    <li><strong>Second place: </strong><a href="../projects_fall_2018/posters/12350213.pdf">Direct Velocity estimation for seismic imaging using deep neural network (Abhishek Tapadar, Stuart Farris, Vishal Das)</a></li>
+    <li><strong>Third place: </strong><a href="../projects_fall_2018/posters/12405510.pdf">Advancing the Search for Dark Matter with Deep Convolutional Neural Networks (Ben Sorscher, Sebastian Matthias Wagner-Carena)</a></li>
+    <li><strong>Fourth place: </strong><a href="../projects_fall_2018/posters/12407489.pdf">Question Answering (Anuprit Kale, Edgar Gerardo Velasco)</a></li>
+</ul>
 ## Submissions
+
+<ul>
+<li><strong>project_name</strong> by Jane Hong Wu, Xinwei Yao: <a href="../projects_fall_2018/reports/12409058.pdf">report</a> <a href="../projects_fall_2018/posters/12230813.pdf">poster</a></li>
+<li><strong>project_name</strong> by Chenyu You, Linfeng Yang: <a href="../projects_fall_2018/reports/12353505.pdf">report</a> <a href="../projects_fall_2018/posters/12253328.pdf">poster</a></li>
+<li><strong>project_name</strong> by Evan Matthew Munro: <a href="../projects_fall_2018/reports/12436415.pdf">report</a> <a href="../projects_fall_2018/posters/12253350.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ethan Oliver Nadler: <a href="../projects_fall_2018/reports/12406362.pdf">report</a> <a href="../projects_fall_2018/posters/12264334.pdf">poster</a></li>
+<li><strong>project_name</strong> by Yujie Shu: <a href="../projects_fall_2018/reports/12365342.pdf">report</a> <a href="../projects_fall_2018/posters/12266074.pdf">poster</a></li>
+<li><strong>project_name</strong> by Marcella Cindy Prasetio: <a href="../projects_fall_2018/reports/12447834.pdf">report</a> <a href="../projects_fall_2018/posters/12269503.pdf">poster</a></li>
+<li><strong>project_name</strong> by Paul Anthony Vicinanza: <a href="../projects_fall_2018/reports/12428876.pdf">report</a> <a href="../projects_fall_2018/posters/12280778.pdf">poster</a></li>
+<li><strong>project_name</strong> by Megan Leanne Rowe, Naveen Rajeev Krishnamurthi, Puyang Ma: <a href="../projects_fall_2018/reports/12418781.pdf">report</a> <a href="../projects_fall_2018/posters/12286256.pdf">poster</a></li>
+<li><strong>project_name</strong> by Mamoon Yunus: <a href="../projects_fall_2018/reports/12430526.pdf">report</a> <a href="../projects_fall_2018/posters/12307032.pdf">poster</a></li>
+<li><strong>project_name</strong> by Xiao Fei Yu: <a href="../projects_fall_2018/reports/12447267.pdf">report</a> <a href="../projects_fall_2018/posters/12312316.pdf">poster</a></li>
+<li><strong>project_name</strong> by Eddie Sun, Jorge Isaac Cordero Enriquez, Zoey Zhou: <a href="../projects_fall_2018/reports/12449209.pdf">report</a> <a href="../projects_fall_2018/posters/12314448.pdf">poster</a></li>
+<li><strong>project_name</strong> by Vignesh Venkataraman: <a href="../projects_fall_2018/reports/12425483.pdf">report</a> <a href="../projects_fall_2018/posters/12316484.pdf">poster</a></li>
+<li><strong>project_name</strong> by Abraham Starosta: <a href="../projects_fall_2018/reports/12428084.pdf">report</a> <a href="../projects_fall_2018/posters/12327443.pdf">poster</a></li>
+<li><strong>project_name</strong> by Jie Chen, Junwen Bu, Yu Zhao: <a href="../projects_fall_2018/reports/12447240.pdf">report</a> <a href="../projects_fall_2018/posters/12328523.pdf">poster</a></li>
+<li><strong>project_name</strong> by Sundeep Kolliboyina:   <a href="../projects_fall_2018/posters/12329006.pdf">poster</a></li>
+<li><strong>project_name</strong> by Richard Ruiqi Yang: <a href="../projects_fall_2018/reports/12447446.pdf">report</a> <a href="../projects_fall_2018/posters/12329224.pdf">poster</a></li>
+<li><strong>project_name</strong> by Weijiang Zhou, Yanyan Zhao: <a href="../projects_fall_2018/reports/12443372.pdf">report</a> <a href="../projects_fall_2018/posters/12333446.pdf">poster</a></li>
+<li><strong>project_name</strong> by Andrew Zhang: <a href="../projects_fall_2018/reports/12449630.pdf">report</a> <a href="../projects_fall_2018/posters/12335367.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ianis Bougdal-Lambert, Malik Abdelkrim Boudiaf: <a href="../projects_fall_2018/reports/12445072.pdf">report</a> <a href="../projects_fall_2018/posters/12339527.pdf">poster</a></li>
+<li><strong>project_name</strong> by Alexis Goh Weiying, Jing Lim, Travis McGuire: <a href="../projects_fall_2018/reports/12437227.pdf">report</a> <a href="../projects_fall_2018/posters/12345332.pdf">poster</a></li>
+<li><strong>project_name</strong> by Yun Liao: <a href="../projects_fall_2018/reports/12447890.pdf">report</a> <a href="../projects_fall_2018/posters/12345829.pdf">poster</a></li>
+<li><strong>project_name</strong> by Albin Gustav Andersson Jagesten, Josef Malmström: <a href="../projects_fall_2018/reports/12446055.pdf">report</a> <a href="../projects_fall_2018/posters/12348073.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ashwin Sreenivas, Jessica Zhao: <a href="../projects_fall_2018/reports/12430489.pdf">report</a> <a href="../projects_fall_2018/posters/12348760.pdf">poster</a></li>
+<li><strong>project_name</strong> by Abhishek Tapadar, Stuart Farris, Vishal Das: <a href="../projects_fall_2018/reports/12385279.pdf">report</a> <a href="../projects_fall_2018/posters/12350213.pdf">poster</a></li>
+<li><strong>project_name</strong> by Christopher Fontas, Emanuel Mendiola, Wendy Li: <a href="../projects_fall_2018/reports/12447290.pdf">report</a> <a href="../projects_fall_2018/posters/12351662.pdf">poster</a></li>
+<li><strong>project_name</strong> by Matthew Feldman, Tushar Swamy: <a href="../projects_fall_2018/reports/12448584.pdf">report</a> <a href="../projects_fall_2018/posters/12353487.pdf">poster</a></li>
+<li><strong>project_name</strong> by Alan Dunetz: <a href="../projects_fall_2018/reports/12445636.pdf">report</a> <a href="../projects_fall_2018/posters/12357452.pdf">poster</a></li>
+<li><strong>project_name</strong> by Giacomo Lamberti, William Henry McCloskey: <a href="../projects_fall_2018/reports/12446990.pdf">report</a> <a href="../projects_fall_2018/posters/12357863.pdf">poster</a></li>
+<li><strong>project_name</strong> by Juliet Nkechiyere Okwara, Nicholas Brian Seay: <a href="../projects_fall_2018/reports/12446069.pdf">report</a> <a href="../projects_fall_2018/posters/12357939.pdf">poster</a></li>
+<li><strong>project_name</strong> by Logan O'Sullivan Bruns: <a href="../projects_fall_2018/reports/12448489.pdf">report</a> <a href="../projects_fall_2018/posters/12362034.pdf">poster</a></li>
+<li><strong>project_name</strong> by Gustavo Chau Loo Kung:   <a href="../projects_fall_2018/posters/12362476.pdf">poster</a></li>
+<li><strong>project_name</strong> by Molly Zhang: <a href="../projects_fall_2018/reports/12446724.pdf">report</a> <a href="../projects_fall_2018/posters/12362571.pdf">poster</a></li>
+<li><strong>project_name</strong> by Emiliano Leopoldino Rodrigues Jr: <a href="../projects_fall_2018/reports/12439411.pdf">report</a> <a href="../projects_fall_2018/posters/12363058.pdf">poster</a></li>
+<li><strong>project_name</strong> by Kevin Ming Yeun: <a href="../projects_fall_2018/reports/12445580.pdf">report</a> <a href="../projects_fall_2018/posters/12365224.pdf">poster</a></li>
+<li><strong>project_name</strong> by Gavin Zhang, Haojun Li: <a href="../projects_fall_2018/reports/12445853.pdf">report</a> <a href="../projects_fall_2018/posters/12365540.pdf">poster</a></li>
+<li><strong>project_name</strong> by Cara Gonzalez Welker, Jon Phillip Stingel, Vince Joseph Salpietro: <a href="../projects_fall_2018/reports/12446486.pdf">report</a> <a href="../projects_fall_2018/posters/12366250.pdf">poster</a></li>
+<li><strong>project_name</strong> by Cheng Chen, Pablo Gabriel Diaz-Hyland: <a href="../projects_fall_2018/reports/12449224.pdf">report</a> <a href="../projects_fall_2018/posters/12366775.pdf">poster</a></li>
+<li><strong>project_name</strong> by Nathaniel Jacob Okun, Scott Henry Reid: <a href="../projects_fall_2018/reports/12446128.pdf">report</a> <a href="../projects_fall_2018/posters/12366943.pdf">poster</a></li>
+<li><strong>project_name</strong> by Evan Taylor Ragosa Rosenman: <a href="../projects_fall_2018/reports/12444265.pdf">report</a> <a href="../projects_fall_2018/posters/12367019.pdf">poster</a></li>
+<li><strong>project_name</strong> by Alexander Uhunoma Iyabor: <a href="../projects_fall_2018/reports/12372950.pdf">report</a> <a href="../projects_fall_2018/posters/12367064.pdf">poster</a></li>
+<li><strong>project_name</strong> by Amita Chandrakant Patil, Rudra Bandhu: <a href="../projects_fall_2018/reports/12449275.pdf">report</a> <a href="../projects_fall_2018/posters/12367195.pdf">poster</a></li>
+<li><strong>project_name</strong> by Aditya Dusi, Asish Koruprolu, HITHA REVALLA: <a href="../projects_fall_2018/reports/12447402.pdf">report</a> <a href="../projects_fall_2018/posters/12367677.pdf">poster</a></li>
+<li><strong>project_name</strong> by Paul Go Lim, Steve Wallace Mims: <a href="../projects_fall_2018/reports/12449374.pdf">report</a> <a href="../projects_fall_2018/posters/12367687.pdf">poster</a></li>
+<li><strong>project_name</strong> by Chenduo Huang, Christina Montefalcon Ramsey, Daniel Joseph Costa: <a href="../projects_fall_2018/reports/12441334.pdf">report</a> <a href="../projects_fall_2018/posters/12368907.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ritu Bajpai:   <a href="../projects_fall_2018/posters/12368984.pdf">poster</a></li>
+<li><strong>project_name</strong> by Antariksh De, Srinivasa Rao: <a href="../projects_fall_2018/reports/12446379.pdf">report</a> <a href="../projects_fall_2018/posters/12369880.pdf">poster</a></li>
+<li><strong>project_name</strong> by Karthikeyan Kalaiarasan, Nagendra Prasad Kamalapuri, Songyang Yu: <a href="../projects_fall_2018/reports/12406830.pdf">report</a> <a href="../projects_fall_2018/posters/12369987.pdf">poster</a></li>
+<li><strong>project_name</strong> by Doug Chang, Shiyuan Gu: <a href="../projects_fall_2018/reports/12447287.pdf">report</a> <a href="../projects_fall_2018/posters/12370256.pdf">poster</a></li>
+<li><strong>project_name</strong> by Caroline Cin-kay Ho, Cole Orr Thomson: <a href="../projects_fall_2018/reports/12438634.pdf">report</a> <a href="../projects_fall_2018/posters/12370300.pdf">poster</a></li>
+<li><strong>project_name</strong> by Yi He:   <a href="../projects_fall_2018/posters/12370309.pdf">poster</a></li>
+<li><strong>project_name</strong> by Can Jin:   <a href="../projects_fall_2018/posters/12370419.pdf">poster</a></li>
+<li><strong>project_name</strong> by Luyao Hou, Yiqing Ding: <a href="../projects_fall_2018/reports/12439806.pdf">report</a> <a href="../projects_fall_2018/posters/12370642.pdf">poster</a></li>
+<li><strong>project_name</strong> by Bernardo Ramos, Imanol Arrieta Ibarra: <a href="../projects_fall_2018/reports/12448732.pdf">report</a> <a href="../projects_fall_2018/posters/12370835.pdf">poster</a></li>
+<li><strong>project_name</strong> by Cynthia Hua, Hiroshi Mendoza: <a href="../projects_fall_2018/reports/12440521.pdf">report</a> <a href="../projects_fall_2018/posters/12370987.pdf">poster</a></li>
+<li><strong>project_name</strong> by Kumar Kallurupalli, Nicholas Tan, Shalini Keshavamurthy: <a href="../projects_fall_2018/reports/12449273.pdf">report</a> <a href="../projects_fall_2018/posters/12371196.pdf">poster</a></li>
+<li><strong>project_name</strong> by George Gui: <a href="../projects_fall_2018/reports/12449171.pdf">report</a> <a href="../projects_fall_2018/posters/12371380.pdf">poster</a></li>
+<li><strong>project_name</strong> by Andrew Osceola Narcomey, Angela Jessica Gu: <a href="../projects_fall_2018/reports/12449264.pdf">report</a> <a href="../projects_fall_2018/posters/12371497.pdf">poster</a></li>
+<li><strong>project_name</strong> by Samuel Frishman, Wilson Ruotolo: <a href="../projects_fall_2018/reports/12434932.pdf">report</a> <a href="../projects_fall_2018/posters/12371655.pdf">poster</a></li>
+<li><strong>project_name</strong> by Samuel Marshall Premutico: <a href="../projects_fall_2018/reports/12447361.pdf">report</a> <a href="../projects_fall_2018/posters/12371728.pdf">poster</a></li>
+<li><strong>project_name</strong> by Henry Wang: <a href="../projects_fall_2018/reports/12449240.pdf">report</a> <a href="../projects_fall_2018/posters/12371976.pdf">poster</a></li>
+<li><strong>project_name</strong> by Suofei Feng: <a href="../projects_fall_2018/reports/12448681.pdf">report</a> <a href="../projects_fall_2018/posters/12372280.pdf">poster</a></li>
+<li><strong>project_name</strong> by Elbert Lin, Kevin Chen: <a href="../projects_fall_2018/reports/12447633.pdf">report</a> <a href="../projects_fall_2018/posters/12372870.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ryan Wang Gao: <a href="../projects_fall_2018/reports/12449291.pdf">report</a> <a href="../projects_fall_2018/posters/12372988.pdf">poster</a></li>
+<li><strong>project_name</strong> by Mengfan Zhang, WEN-YI Yen: <a href="../projects_fall_2018/reports/12449392.pdf">report</a> <a href="../projects_fall_2018/posters/12373025.pdf">poster</a></li>
+<li><strong>project_name</strong> by Sneha Venkataramana: <a href="../projects_fall_2018/reports/12449218.pdf">report</a> <a href="../projects_fall_2018/posters/12373041.pdf">poster</a></li>
+<li><strong>project_name</strong> by Iason Solomos:   <a href="../projects_fall_2018/posters/12373061.pdf">poster</a></li>
+<li><strong>project_name</strong> by Chuanqi Chen: <a href="../projects_fall_2018/reports/12450428.pdf">report</a> <a href="../projects_fall_2018/posters/12373064.pdf">poster</a></li>
+<li><strong>project_name</strong> by Somnath Purkayastha : <a href="../projects_fall_2018/reports/12392489.pdf">report</a> <a href="../projects_fall_2018/posters/12373107.pdf">poster</a></li>
+<li><strong>project_name</strong> by Simerjot Kaur: <a href="../projects_fall_2018/reports/12446738.pdf">report</a> <a href="../projects_fall_2018/posters/12373132.pdf">poster</a></li>
+<li><strong>project_name</strong> by Dan Xia, Hongwei Zhang, Kegang Xu: <a href="../projects_fall_2018/reports/12447812.pdf">report</a> <a href="../projects_fall_2018/posters/12373205.pdf">poster</a></li>
+<li><strong>project_name</strong> by Matt Roche: <a href="../projects_fall_2018/reports/12447173.pdf">report</a> <a href="../projects_fall_2018/posters/12373381.pdf">poster</a></li>
+<li><strong>project_name</strong> by Swarna Saraf: <a href="../projects_fall_2018/reports/12449389.pdf">report</a> <a href="../projects_fall_2018/posters/12373382.pdf">poster</a></li>
+<li><strong>project_name</strong> by Raul Rojas-Gonzalez: <a href="../projects_fall_2018/reports/12446957.pdf">report</a> <a href="../projects_fall_2018/posters/12373396.pdf">poster</a></li>
+<li><strong>project_name</strong> by Muhammad Ayub, Sean Thomas Fitzgerald: <a href="../projects_fall_2018/reports/12449269.pdf">report</a> <a href="../projects_fall_2018/posters/12373486.pdf">poster</a></li>
+<li><strong>project_name</strong> by David James Bell Esq, Indrasen Bhattacharya, Sara Nasiri Amini: <a href="../projects_fall_2018/reports/12449642.pdf">report</a> <a href="../projects_fall_2018/posters/12374569.pdf">poster</a></li>
+<li><strong>project_name</strong> by Boxiao Pan, Pragya Mishra, Soutik Chakraborty: <a href="../projects_fall_2018/reports/12449632.pdf">report</a> <a href="../projects_fall_2018/posters/12374570.pdf">poster</a></li>
+<li><strong>project_name</strong> by Chaonan Ye, Vera Lin, Zijian Wang: <a href="../projects_fall_2018/reports/12449244.pdf">report</a> <a href="../projects_fall_2018/posters/12374576.pdf">poster</a></li>
+<li><strong>project_name</strong> by Dongkai Chen, Yixiao Song: <a href="../projects_fall_2018/reports/12446931.pdf">report</a> <a href="../projects_fall_2018/posters/12374617.pdf">poster</a></li>
+<li><strong>project_name</strong> by Wenyi Tian Jones: <a href="../projects_fall_2018/reports/12426386.pdf">report</a> <a href="../projects_fall_2018/posters/12374811.pdf">poster</a></li>
+<li><strong>project_name</strong> by Wael Abid: <a href="../projects_fall_2018/reports/12439176.pdf">report</a> <a href="../projects_fall_2018/posters/12374927.pdf">poster</a></li>
+<li><strong>project_name</strong> by Salman H Naqvi, Tyler Joseph Sellmayer: <a href="../projects_fall_2018/reports/12449638.pdf">report</a> <a href="../projects_fall_2018/posters/12374928.pdf">poster</a></li>
+<li><strong>project_name</strong> by Max Norris: <a href="../projects_fall_2018/reports/12445556.pdf">report</a> <a href="../projects_fall_2018/posters/12375284.pdf">poster</a></li>
+<li><strong>project_name</strong> by Jingyue Zhang, Yi Jiang: <a href="../projects_fall_2018/reports/12444910.pdf">report</a> <a href="../projects_fall_2018/posters/12375484.pdf">poster</a></li>
+<li><strong>project_name</strong> by Isaiah Loren Brandt-Sims, Thunder Justice Keck: <a href="../projects_fall_2018/reports/12449200.pdf">report</a> <a href="../projects_fall_2018/posters/12375494.pdf">poster</a></li>
+<li><strong>project_name</strong> by Laura Victoria Cruz-Albrecht: <a href="../projects_fall_2018/reports/12447507.pdf">report</a> <a href="../projects_fall_2018/posters/12375496.pdf">poster</a></li>
+<li><strong>project_name</strong> by Dennis Chang, Ye Akira Wang, Yong-hun Kim: <a href="../projects_fall_2018/reports/12445992.pdf">report</a> <a href="../projects_fall_2018/posters/12375499.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ashwin Neerabail, Joseph Gilles Ballouz, William Park: <a href="../projects_fall_2018/reports/12450431.pdf">report</a> <a href="../projects_fall_2018/posters/12375511.pdf">poster</a></li>
+<li><strong>project_name</strong> by Chunya Hua, David Joseph Rendleman: <a href="../projects_fall_2018/reports/12448250.pdf">report</a> <a href="../projects_fall_2018/posters/12375885.pdf">poster</a></li>
+<li><strong>project_name</strong> by Andy Kim, Miguel Ferrer Avila: <a href="../projects_fall_2018/reports/12444022.pdf">report</a> <a href="../projects_fall_2018/posters/12375983.pdf">poster</a></li>
+<li><strong>project_name</strong> by Daria Reshetova, Nivedita Rahurkar: <a href="../projects_fall_2018/reports/12447971.pdf">report</a> <a href="../projects_fall_2018/posters/12376051.pdf">poster</a></li>
+<li><strong>project_name</strong> by Silei Xu: <a href="../projects_fall_2018/reports/12444179.pdf">report</a> <a href="../projects_fall_2018/posters/12376398.pdf">poster</a></li>
+<li><strong>project_name</strong> by Oghenetegiri Edward Sido: <a href="../projects_fall_2018/reports/12449878.pdf">report</a> <a href="../projects_fall_2018/posters/12376537.pdf">poster</a></li>
+<li><strong>project_name</strong> by Meeran Ismail: <a href="../projects_fall_2018/reports/12449623.pdf">report</a> <a href="../projects_fall_2018/posters/12376797.pdf">poster</a></li>
+<li><strong>project_name</strong> by Albert Zheng, Jeffrey Gu: <a href="../projects_fall_2018/reports/12450134.pdf">report</a> <a href="../projects_fall_2018/posters/12376989.pdf">poster</a></li>
+<li><strong>project_name</strong> by Evgeny Moshkovich, Rohan Reddy Challa, Seb Jocelyn Goddijn: <a href="../projects_fall_2018/reports/12445633.pdf">report</a> <a href="../projects_fall_2018/posters/12377361.pdf">poster</a></li>
+<li><strong>project_name</strong> by Pascal Pompey:   <a href="../projects_fall_2018/posters/12377502.pdf">poster</a></li>
+<li><strong>project_name</strong> by Jacob George: <a href="../projects_fall_2018/reports/12449262.pdf">report</a> <a href="../projects_fall_2018/posters/12377654.pdf">poster</a></li>
+<li><strong>project_name</strong> by Anton Ponomarev: <a href="../projects_fall_2018/reports/12449268.pdf">report</a> <a href="../projects_fall_2018/posters/12377658.pdf">poster</a></li>
+<li><strong>project_name</strong> by Lee Michael Arthurs: <a href="../projects_fall_2018/reports/12445370.pdf">report</a> <a href="../projects_fall_2018/posters/12377743.pdf">poster</a></li>
+<li><strong>project_name</strong> by Hodges Haywood: <a href="../projects_fall_2018/reports/12443349.pdf">report</a> <a href="../projects_fall_2018/posters/12377777.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ekaterina Kastrama, Karina Giselle Samuel-Gama, Robert Pinkerton: <a href="../projects_fall_2018/reports/12449174.pdf">report</a> <a href="../projects_fall_2018/posters/12377987.pdf">poster</a></li>
+<li><strong>project_name</strong> by Abhishek Rawat, Dibyajyoti Ghosh, Shweta Karwa: <a href="../projects_fall_2018/reports/12449289.pdf">report</a> <a href="../projects_fall_2018/posters/12377991.pdf">poster</a></li>
+<li><strong>project_name</strong> by Charles Huang:   <a href="../projects_fall_2018/posters/12378000.pdf">poster</a></li>
+<li><strong>project_name</strong> by Qiwen Wang, Xinshuo Zhang: <a href="../projects_fall_2018/reports/12449627.pdf">report</a> <a href="../projects_fall_2018/posters/12385375.pdf">poster</a></li>
+<li><strong>project_name</strong> by Anran Lu, Huanzhong Xu, Zeyu Wang: <a href="../projects_fall_2018/reports/12450133.pdf">report</a> <a href="../projects_fall_2018/posters/12388253.pdf">poster</a></li>
+<li><strong>project_name</strong> by Bilan Jackie Yang, Haruki Nishimura: <a href="../projects_fall_2018/reports/12450132.pdf">report</a> <a href="../projects_fall_2018/posters/12390126.pdf">poster</a></li>
+<li><strong>project_name</strong> by Hasna Rtabi, Katherine Irena Kowalski, Noah Abraham Jacobson: <a href="../projects_fall_2018/reports/12438703.pdf">report</a> <a href="../projects_fall_2018/posters/12390284.pdf">poster</a></li>
+<li><strong>project_name</strong> by Raphael Andreas Rene Abbou: <a href="../projects_fall_2018/reports/12445601.pdf">report</a> <a href="../projects_fall_2018/posters/12390530.pdf">poster</a></li>
+<li><strong>project_name</strong> by Bo Yoo, Tiffany Yonaha Eulalio: <a href="../projects_fall_2018/reports/12446500.pdf">report</a> <a href="../projects_fall_2018/posters/12391148.pdf">poster</a></li>
+<li><strong>project_name</strong> by David Wei Liang, Kais Ajmal Kudrolli, Nathan Dass: <a href="../projects_fall_2018/reports/12449637.pdf">report</a> <a href="../projects_fall_2018/posters/12394904.pdf">poster</a></li>
+<li><strong>project_name</strong> by David Uvalle, Madhulima Pandey: <a href="../projects_fall_2018/reports/12449281.pdf">report</a> <a href="../projects_fall_2018/posters/12395713.pdf">poster</a></li>
+<li><strong>project_name</strong> by Aamir Abdur Rasheed, Dunia Hakim: <a href="../projects_fall_2018/reports/12449252.pdf">report</a> <a href="../projects_fall_2018/posters/12396827.pdf">poster</a></li>
+<li><strong>project_name</strong> by Yu-Shun Cheng: <a href="../projects_fall_2018/reports/12448733.pdf">report</a> <a href="../projects_fall_2018/posters/12397039.pdf">poster</a></li>
+<li><strong>project_name</strong> by Jiajing Wang, Yixin Shi: <a href="../projects_fall_2018/reports/12448503.pdf">report</a> <a href="../projects_fall_2018/posters/12400971.pdf">poster</a></li>
+<li><strong>project_name</strong> by Sahil Nayyar: <a href="../projects_fall_2018/reports/12449189.pdf">report</a> <a href="../projects_fall_2018/posters/12401130.pdf">poster</a></li>
+<li><strong>project_name</strong> by Brian Chan: <a href="../projects_fall_2018/reports/12449649.pdf">report</a> <a href="../projects_fall_2018/posters/12401999.pdf">poster</a></li>
+<li><strong>project_name</strong> by Jin Huang: <a href="../projects_fall_2018/reports/12445558.pdf">report</a> <a href="../projects_fall_2018/posters/12404187.pdf">poster</a></li>
+<li><strong>project_name</strong> by Gael Gurvan Colas, Kevin Lee, Rafael Mitkov Rafailov: <a href="../projects_fall_2018/reports/12444081.pdf">report</a> <a href="../projects_fall_2018/posters/12404894.pdf">poster</a></li>
+<li><strong>project_name</strong> by Chen Huang: <a href="../projects_fall_2018/reports/12449276.pdf">report</a> <a href="../projects_fall_2018/posters/12404935.pdf">poster</a></li>
+<li><strong>project_name</strong> by Melissa Ann Boswell, Scott David Uhlrich: <a href="../projects_fall_2018/reports/12449648.pdf">report</a> <a href="../projects_fall_2018/posters/12405056.pdf">poster</a></li>
+<li><strong>project_name</strong> by Harry Leighton Emeric, Jason Qin: <a href="../projects_fall_2018/reports/12446000.pdf">report</a> <a href="../projects_fall_2018/posters/12405218.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ben Sorscher, Sebastian Matthias Wagner-Carena: <a href="../projects_fall_2018/reports/12449235.pdf">report</a> <a href="../projects_fall_2018/posters/12405510.pdf">poster</a></li>
+<li><strong>project_name</strong> by Mayukh Majumdar: <a href="../projects_fall_2018/reports/12449390.pdf">report</a> <a href="../projects_fall_2018/posters/12406122.pdf">poster</a></li>
+<li><strong>project_name</strong> by Di Bai, Wantong Jiang, Yipeng He: <a href="../projects_fall_2018/reports/12439222.pdf">report</a> <a href="../projects_fall_2018/posters/12406333.pdf">poster</a></li>
+<li><strong>project_name</strong> by Jordan Trent Smart: <a href="../projects_fall_2018/reports/12447828.pdf">report</a> <a href="../projects_fall_2018/posters/12407041.pdf">poster</a></li>
+<li><strong>project_name</strong> by Arturo Garrido Contreras, Masoud Charkhabi:   <a href="../projects_fall_2018/posters/12407269.pdf">poster</a></li>
+<li><strong>project_name</strong> by Anuprit Kale, Edgar Gerardo Velasco: <a href="../projects_fall_2018/reports/12449644.pdf">report</a> <a href="../projects_fall_2018/posters/12407489.pdf">poster</a></li>
+<li><strong>project_name</strong> by Picha Shunhavanich: <a href="../projects_fall_2018/reports/12450429.pdf">report</a> <a href="../projects_fall_2018/posters/12407606.pdf">poster</a></li>
+<li><strong>project_name</strong> by Gitanjali Bhattacharjee: <a href="../projects_fall_2018/reports/12449879.pdf">report</a> <a href="../projects_fall_2018/posters/12407637.pdf">poster</a></li>
+<li><strong>project_name</strong> by Harold WANG: <a href="../projects_fall_2018/reports/12437786.pdf">report</a> <a href="../projects_fall_2018/posters/12446740.pdf">poster</a></li>
+<li><strong>project_name</strong> by Jesus Mendez: <a href="../projects_fall_2018/reports/12450131.pdf">report</a> <a href="../projects_fall_2018/posters/12446884.pdf">poster</a></li>
+<li><strong>project_name</strong> by Christopher Philip James Pearce, Jose Bolorinos: <a href="../projects_fall_2018/reports/12447504.pdf">report</a> <a href="../projects_fall_2018/posters/12447509.pdf">poster</a></li>
+<li><strong>project_name</strong> by Lea-Tereza Tenekedjieva: <a href="../projects_fall_2018/reports/12449371.pdf">report</a> <a href="../projects_fall_2018/posters/12449368.pdf">poster</a></li>
+<li><strong>project_name</strong> by Fangqin Dai, Xiaomeng Shen: <a href="../projects_fall_2018/reports/12450440.pdf">report</a> <a href="../projects_fall_2018/posters/12450641.pdf">poster</a></li>
+<li><strong>project_name</strong> by Lorraine Lin: <a href="../projects_fall_2018/reports/12449388.pdf">report</a> <a href="../projects_fall_2018/posters/12465117.pdf">poster</a></li>
+<li><strong>project_name</strong> by Kun Fang, Xihui Wu: <a href="../projects_fall_2018/reports/12449194.pdf">report</a> <a href="../projects_fall_2018/posters/12465120.pdf">poster</a></li>
+<li><strong>project_name</strong> by Ramy El Garawany: <a href="../projects_fall_2018/reports/12450427.pdf">report</a> <a href="../projects_fall_2018/posters/12469375.pdf">poster</a></li>
+<li><strong>project_name</strong> by Charles Huang, Gustavo Chau Loo Kung: <a href="../projects_fall_2018/reports/12364025.pdf">report</a>  </li>
+<li><strong>project_name</strong> by Chen Ji: <a href="../projects_fall_2018/reports/12415661.pdf">report</a>  </li>
+<li><strong>project_name</strong> by Iason Solomos, Pascal Pompey: <a href="../projects_fall_2018/reports/12418109.pdf">report</a>  </li>
+<li><strong>project_name</strong> by Can Jin, Yi He: <a href="../projects_fall_2018/reports/12447384.pdf">report</a>  </li>
+<li><strong>project_name</strong> by Ritu Bajpai, Sundeep Kolliboyina: <a href="../projects_fall_2018/reports/12448890.pdf">report</a>  </li>
+<li><strong>project_name</strong> by Arturo Garrido Contreras, Deepak Bansal, Masoud Charkhabi: <a href="../projects_fall_2018/reports/12450435.pdf">report</a>  </li>
+</ul>
 
 # Spring 2018
 

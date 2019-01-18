@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Introduction to Tensorflow
-description: Page description
+description: 
 
 
 # Micro navigation
@@ -16,7 +16,7 @@ micro_nav: true
 page_nav:
     next:
         content: Next page
-        url: '#'
+        url: '/blog/MoreTensorflow'
 ---
 
 In this hands-on session, you will use two files:
