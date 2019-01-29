@@ -1,4 +1,4 @@
 <table class="image">
-<caption align="bottom"><small>{{ include.description }} (<a href="{{ include.link }}">source</a>)</small></caption>
+{% if include.caption == "true" %}<caption align="bottom"><small>{{ include.description }} (<a href="{{ include.link }}">source</a>)</small></caption> {% endif %}
 <tr><td><img src="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/doks-theme/assets/images/{{ include.image }}" style="width: 100%" /></td></tr>
 </table>

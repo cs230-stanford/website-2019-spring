@@ -15,6 +15,14 @@ grid_navigation:
       excerpt: Getting started on your project.
       cta: Read more
       url: /section/1
+    - title: Section 2
+      excerpt: Going from an idea to an implementation. 
+      cta: Read more
+      url: /section/2
+    - title: Section 3
+      excerpt: A quick introduction to gradient descent and backpropagation.
+      cta: Read more
+      url: /section/3
 
 ---
 
