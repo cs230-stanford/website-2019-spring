@@ -15,7 +15,7 @@ micro_nav: true
 page_nav:
     next:
         content: Next page
-        url: '/blog/HandSigns'
+        url: '/blog/handsigns'
 ---
 This post follows the [main](https://cs230-stanford.github.io/project-code-examples.html) post announcing the CS230 Project Code Examples. Here we explain some details of the PyTorch part of the code from our [github repository](https://github.com/cs230-stanford/cs230-code-examples).
 
@@ -61,23 +61,23 @@ evaluate.py
 utils.py
 ```
 
-- model/net.py: specifies the neural network architecture, the loss function and evaluation metrics
-- model/data_loader.py: specifies how the data should be fed to the network
-- train.py: contains the main training loop
-- evaluate.py: contains the main loop for evaluating the model
-- utils.py: utility functions for handling hyperparams/logging/storing model
+- `model/net.py`: specifies the neural network architecture, the loss function and evaluation metrics
+- `model/data_loader.py`: specifies how the data should be fed to the network
+- `train.py`: contains the main training loop
+- `evaluate.py`: contains the main loop for evaluating the model
+- `utils.py`: utility functions for handling hyperparams/logging/storing model
 
-We recommend reading through train.py to get a high-level overview.
+We recommend reading through `train.py` to get a high-level overview.
 
 Once you get the high-level idea, depending on your task and dataset, you might want to modify
-- model/net.py to change the model, i.e. how you transform your input into your prediction as well as your loss, etc.
-- model/data_loader.py to change the way you feed data to the model.
-- train.py and evaluate.py to make changes specific to your problem, if required
+- `model/net.py` to change the model, i.e. how you transform your input into your prediction as well as your loss, etc.
+- `model/data_loader.py` to change the way you feed data to the model.
+- `train.py` and `evaluate.py` to make changes specific to your problem, if required
 
 Once you get something working for your dataset, feel free to edit any part of the code to suit your own needs.
 
 ## **Tensors and Variables**
-Before going further, I strongly suggest you go through this 60 Minute Blitz with PyTorch to gain an understanding of PyTorch basics. Here’s a sneak peak.
+Before going further, I strongly suggest you go through this [60 Minute Blitz with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) to gain an understanding of PyTorch basics. Here’s a sneak peak.
 
 PyTorch Tensors are similar in behaviour to NumPy’s arrays.
 
@@ -135,12 +135,12 @@ loss.backward()        # compute gradients of all variables wrt loss
 optimizer.step()       # perform updates using calculated gradients
 ```
 
-Each of the variables train_batch, labels_batch, output_batch and loss is a PyTorch Variable and allows derivates to be automatically calculated.
+Each of the variables `train_batch`, `labels_batch`, `output_batch` and `loss` is a PyTorch Variable and allows derivates to be automatically calculated.
 
 All the other code that we write is built around this- the exact specification of the model, how to fetch a batch of data and labels, computation of the loss and the details of the optimizer. In this post, we’ll cover how to write a simple model in PyTorch, compute the loss and define an optimizer. The subsequent posts each cover a case of fetching data- one for image data and another for text data.
 
 ## **Models in PyTorch**
-A model can be defined in PyTorch by subclassing the torch.nn.Module class. The model is defined in two steps. We first specify the parameters of the model, and then outline how they are applied to the inputs. For operations that do not involve trainable parameters (activation functions such as ReLU, operations like maxpool), we generally use the torch.nn.functional module. Here’s an example of a single hidden layer neural network borrowed from here:
+A model can be defined in PyTorch by subclassing the `torch.nn.Module class`. The model is defined in two steps. We first specify the parameters of the model, and then outline how they are applied to the inputs. For operations that do not involve trainable parameters (activation functions such as ReLU, operations like maxpool), we generally use the `torch.nn.functional` module. Here’s an example of a single hidden layer neural network borrowed from [here](https://github.com/jcjohnson/pytorch-examples#pytorch-custom-nn-modules):
 
 ```python
 import torch.nn as nn
@@ -171,7 +171,7 @@ def forward(self, x):
         return y_pred
 ```
 
-The __init__ function initialises the two linear layers of the model. PyTorch takes care of the proper initialization of the parameters you specify. In the forward function, we first apply the first linear layer, apply ReLU activation and then apply the second linear layer. The module assumes that the first dimension of x is the batch size. If the input to the network is simply a vector of dimension 100, and the batch size is 32, then the dimension of x would be 32,100. Let’s see an example of how to define a model and compute a forward pass:
+The `__init__ `function initialises the two linear layers of the model. PyTorch takes care of the proper initialization of the parameters you specify. In the `forward` function, we first apply the first linear layer, apply ReLU activation and then apply the second linear layer. The module assumes that the first dimension of `x` is the batch size. If the input to the network is simply a vector of dimension 100, and the batch size is 32, then the dimension of `x` would be 32,100. Let’s see an example of how to define a model and compute a forward pass:
 
 ```python
 #N is batch size; D_in is input dimension;
@@ -192,7 +192,7 @@ More complex models follow the same layout, and we’ll see two of them in the s
 
 ## **Loss Function**
 
-PyTorch comes with many standard loss functions available for you to use in the torch.nn module. Here’s a simple example of how to calculate Cross Entropy Loss. Let’s say our model solves a multi-class classification problem with C labels. Then for a batch of size N, out is a PyTorch Variable of dimension NxC that is obtained by passing an input batch through the model. We also have a target Variable of size N, where each element is the class for that example, i.e. a label in [0,...,C-1]. You can define the loss function and compute the loss as follows:
+PyTorch comes with many standard loss functions available for you to use in the `torch.nn` [module](https://pytorch.org/docs/master/nn.html#loss-functions). Here’s a simple example of how to calculate Cross Entropy Loss. Let’s say our model solves a multi-class classification problem with `C` labels. Then for a batch of size `N`, `out` is a PyTorch Variable of dimension `NxC` that is obtained by passing an input batch through the model. We also have a `target` Variable of size `N`, where each element is the class for that example, i.e. a label in `[0,...,C-1]`. You can define the loss function and compute the loss as follows:
 
 ```python
 loss_fn = nn.CrossEntropyLoss()
@@ -209,11 +209,11 @@ def myCrossEntropyLoss(outputs, labels):
     return -torch.sum(outputs)/num_examples
 ```
 
-This was a fairly simple example of writing our own loss function. In the section on NLP, we’ll see an interesting use of custom loss functions.
+This was a fairly simple example of writing our own loss function. In the section on [NLP](/blog/NameEntity), we’ll see an interesting use of custom loss functions.
 
 ## **Optimizer**
 
-The torch.optim [package](https://pytorch.org/docs/master/optim.html) provides an easy to use interface for common optimization algorithms. Defining your optimizer is really as simple as:
+The `torch.optim` [package](https://pytorch.org/docs/master/optim.html) provides an easy to use interface for common optimization algorithms. Defining your optimizer is really as simple as:
 
 ```python
 #pick an SGD optimizer
@@ -225,15 +225,15 @@ optimizer = torch.optim.Adam(model.parameters(), lr = 0.0001)
 
 You pass in the parameters of the model that need to be updated every iteration. You can also specify more complex methods such as per-layer or even per-parameter learning rates.
 
-Once gradients have been computed using loss.backward(), calling optimizer.step() updates the parameters as defined by the optimization algorithm.
+Once gradients have been computed using `loss.backward()`, calling `optimizer.step()` updates the parameters as defined by the optimization algorithm.
 
 ## **Training vs Evaluation**
 
-Before training the model, it is imperative to call model.train(). Likewise, you must call model.eval() before testing the model. This corrects for the differences in dropout, batch normalization during training and testing.
+Before training the model, it is imperative to call `model.train()`. Likewise, you must call `model.eval()` before testing the model. This corrects for the differences in dropout, batch normalization during training and testing.
 
 ## **Computing Metrics**
 
-By this stage you should be able to understand most of the code in train.py and evaluate.py (except how we fetch the data, which we’ll come to in the subsequent posts). Apart from keeping an eye on the loss, it is also helpful to monitor other metrics such as accuracy and precision/recall. To do this, you can define your own metric functions for a batch of model outputs in the model/net.py file. In order to make it easier, we convert the PyTorch Variables into NumPy arrays before passing them into the metric functions. For a multi-class classification problem as set up in the section on Loss Function, we can write a function to compute accuracy using NumPy as:
+By this stage you should be able to understand most of the code in `train.py` and `evaluate.py` (except how we fetch the data, which we’ll come to in the subsequent posts). Apart from keeping an eye on the loss, it is also helpful to monitor other metrics such as accuracy and precision/recall. To do this, you can define your own metric functions for a batch of model outputs in the `model/net.py` file. In order to make it easier, we convert the PyTorch Variables into NumPy arrays before passing them into the metric functions. For a multi-class classification problem as set up in the section on Loss Function, we can write a function to compute accuracy using NumPy as:
 
 ```python
 def accuracy(out, labels):
@@ -241,7 +241,7 @@ def accuracy(out, labels):
     return np.sum(outputs==labels)/float(labels.size)
 ```
 
-You can add your own metrics in the model/net.py file. Once you are done, simply add them to the metrics dictionary:
+You can add your own metrics in the `model/net.py` file. Once you are done, simply add them to the `metrics` dictionary:
 
 ```python
 metrics = { 'accuracy': accuracy,
@@ -251,7 +251,7 @@ metrics = { 'accuracy': accuracy,
 
 ## **Saving and Loading Models**
 
-We define utility functions to save and load models in utils.py. To save your model, call:
+We define utility functions to save and load models in `utils.py`. To save your model, call:
 
 ```python
 state = {'epoch': epoch + 1,
@@ -262,7 +262,7 @@ utils.save_checkpoint(state,
                       checkpoint=model_dir) # path to folder
 ```
 
-utils.py internally uses the torch.save(state, filepath) method to save the state dictionary that is defined above. You can add more items to the dictionary, such as metrics. The model.state_dict() stores the parameters of the model and optimizer.state_dict() stores the state of the optimizer (such as per-parameter learning rate).
+`utils.py` internally uses the `torch.save(state, filepath)` method to save the state dictionary that is defined above. You can add more items to the dictionary, such as metrics. The `model.state_dict()` stores the parameters of the model and `optimizer.state_dict()` stores the state of the optimizer (such as per-parameter learning rate).
 
 To load the saved state from a checkpoint, you may use:
 
@@ -270,7 +270,7 @@ To load the saved state from a checkpoint, you may use:
 utils.load_checkpoint(restore_path, model, optimizer)
 ```
 
-The optimizer argument is optional and you may choose to restart with a new optimizer. load_checkpoint internally loads the saved checkpoint and restores the model weights and the state of the optimizer.
+The `optimizer` argument is optional and you may choose to restart with a new optimizer. `load_checkpoint` internally loads the saved checkpoint and restores the model weights and the state of the optimizer.
 
 ## **Using the GPU**
 
@@ -283,13 +283,13 @@ Interspersed through the code you will find lines such as:
     batch_data, batch_labels = batch_data.cuda(), batch_labels.cuda()
 ```
 
-PyTorch makes the use of the GPU explicit and transparent using these commands. Calling .cuda() on a model/Tensor/Variable sends it to the GPU. In order to train a model on the GPU, all the relevant parameters and Variables must be sent to the GPU using .cuda().
+PyTorch makes the use of the GPU explicit and transparent using these commands. Calling `.cuda()` on a model/Tensor/Variable sends it to the GPU. In order to train a model on the GPU, all the relevant parameters and Variables must be sent to the GPU using `.cuda()`.
 
 ## **Painless Debugging**
 With its clean and minimal design, PyTorch makes debugging a breeze. You can place breakpoints using pdb.set_trace() at any line in your code. You can then execute further computations, examine the PyTorch Tensors/Variables and pinpoint the root cause of the error.
 
 
-That concludes the introduction to the PyTorch code examples. You can proceed to the Vision example and/or the NLP example to understand how we load data and define models specific to each domain.
+That concludes the introduction to the PyTorch code examples. You can proceed to the [Vision](/blog/HandSigns) example and/or the [NLP](/blog/NameEntity) example to understand how we load data and define models specific to each domain.
 
 
 

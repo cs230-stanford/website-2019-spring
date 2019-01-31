@@ -15,10 +15,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '/blog/Tensorflow'
+        url: '/blog/tensorflow'
     next:
         content: Next page
-        url: '/blog/DataPipeline'
+        url: '/blog/datapipeline'
 ---
 
 This post follows the [main post](https://cs230-stanford.github.io/project-code-examples.html) announcing the release of the CS230 code examples. We will explain here the TensorFlow part of the code, in our [github repository](https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensorflow).
@@ -42,9 +42,9 @@ This tutorial is among a series explaining how to structure a deep learning proj
 
 ## **Resources**
 
-For an official **introduction** to the Tensorflow concepts of Graph() and Session(), check out the [official introduction on tensorflow.org](https://www.tensorflow.org/tutorials/#tensorflow_core_tutorial).
+For an official **introduction** to the Tensorflow concepts of `Graph()` and `Session()`, check out the [official introduction on tensorflow.org](https://www.tensorflow.org/tutorials/#tensorflow_core_tutorial).
 
-For a **simple example on MNIST**, read the [official tutorial](https://www.tensorflow.org/tutorials/), but keep in mind that some of the techniques are not recommended for big projects (they use placeholders instead of the new tf.data pipeline, they don’t use tf.layers, etc.).
+For a **simple example on MNIST**, read the [official tutorial](https://www.tensorflow.org/tutorials/), but keep in mind that some of the techniques are not recommended for big projects (they use `placeholders` instead of the new `tf.data` pipeline, they don’t use `tf.layers`, etc.).
 
 For a more **detailed tour** of Tensorflow, reading the [programmer’s guide](https://www.tensorflow.org/guide/) is definitely worth the time. You’ll learn more about Tensors, Variables, Graphs and Sessions, as well as the saving mechanism or how to import data.
 
@@ -71,19 +71,19 @@ synthesize_results.py
 evaluate.py
 ```
 
-Here is each model/ file purpose:
-- model/input_fn.py: where you define the input data pipeline
-- model/model_fn.py: creates the deep learning model
-- model/utils.py: utility functions for handling hyperparams / logging
-- model/training.py: utility functions to train a model
-- model/evaluation.py: utility functions to evaluate a model
+Here is each `model/` file purpose:
+- `model/input_fn.py`: where you define the input data pipeline
+- `model/model_fn.py`: creates the deep learning model
+- `model/utils.py`: utility functions for handling hyperparams / logging
+- `model/training.py`: utility functions to train a model
+- `model/evaluation.py`: utility functions to evaluate a model
 
-We recommend reading through train.py to get a high-level overview.
+We recommend reading through `train.py` to get a high-level overview.
 
 Once you get the high-level idea, depending on your task and dataset, you might want to modify
-- model/model_fn.py to change the model’s architecture, i.e. how you transform your input into your prediction as well as your loss, etc.
-- model/input_fn to change the process of feeding data to the model.
-- train.py and evaluate.py to change the story-line (maybe you need to change the filenames, load a vocabulary, etc.)
+- `model/model_fn.py` to change the model’s architecture, i.e. how you transform your input into your prediction as well as your loss, etc.
+- `model/input_fn` to change the process of feeding data to the model.
+- `train.py` and `evaluate.py` to change the story-line (maybe you need to change the filenames, load a vocabulary, etc.)
 
 Once you get something working for your dataset, feel free to edit any part of the code to suit your own needs.
 
@@ -102,7 +102,7 @@ print(x)
 > Tensor("my-node-x:0", shape=(), dtype=float32)
 ```
 
-Now, let’s get to **step 2**, and evaluate this node. We’ll need to create a tf.Session that will take care of actually evaluating the graph
+Now, let’s get to **step 2**, and evaluate this node. We’ll need to create a `tf.Session` that will take care of actually evaluating the graph
 
 ```python
 with tf.Session() as sess:
@@ -111,12 +111,12 @@ with tf.Session() as sess:
 ```
 
 In the code examples,
-- **step 1** model/input_fn.py and model/model_fn
-- **step 2** model/training.py and model/evaluation.py
+- **step 1** `model/input_fn.py` and `model/model_fn`
+- **step 2** `model/training.py` and `model/evaluation.py`
 
 ## **A word about [variable scopes](https://www.tensorflow.org/guide/#the_problem)**
 
-When creating a node, Tensorflow will have a name for it. You can add a prefix to the nodes names. This is done with the variable_scope mechanism
+When creating a node, Tensorflow will have a name for it. You can add a prefix to the nodes names. This is done with the `variable_scope` mechanism
 
 ```python
 with tf.variable_scope('model'):
@@ -125,7 +125,7 @@ with tf.variable_scope('model'):
 > <tf.Variable 'model/x:0' shape=() dtype=float32_ref>
 ```
 
-What happens if I instantiate x twice ?
+What happens if I instantiate `x` twice ?
 
 ```python
 with tf.variable_scope('model'):
@@ -133,7 +133,7 @@ with tf.variable_scope('model'):
 > ValueError: Variable model/x already exists, disallowed.
 ```
 
-When trying to create a new variable named model/x, we run into an Exception as a variable with the same name already exists. Thanks to this naming mechanism, you can actually control which value you give to the different nodes, and at different points of your code, decide to have 2 python objects correspond to the same node !
+When trying to create a new variable named `model/x`, we run into an Exception as a variable with the same name already exists. Thanks to this naming mechanism, you can actually control which value you give to the different nodes, and at different points of your code, decide to have 2 python objects correspond to the same node !
 
 ```python
 with tf.variable_scope('model', reuse=True):
@@ -158,20 +158,20 @@ with tf.Session() as sess:
 
 Code examples design choice: theoretically, the graphs you define for training and inference can be different, but they still need to share their weights. To remedy this issue, there are two possibilities
 1. re-build the graph, create a new session and reload the weights from some file when we switch between training and inference.
-2. create all the nodes for training and inference in the graph and make sure that the python code does not create the nodes twice by using the reuse=True trick explained above.
+2. create all the nodes for training and inference in the graph and make sure that the python code does not create the nodes twice by using the `reuse=True` trick explained above.
 
-We decided to go for this option. As you’ll notice in train.py we give an extra argument when we build our graphs
+We decided to go for this option. As you’ll notice in `train.py` we give an extra argument when we build our graphs
 
 ```python
 train_model_spec = model_fn('train', train_inputs, params)
 eval_model_spec = model_fn('eval', eval_inputs, params, reuse=True)
 ```
 
-When we create the graph for the evaluation (eval_model_spec), the model_fn will encapsulate all the nodes in a tf.variable_scope("model", reuse=True) so that the nodes that have the same names than in the training graph share their weights !
+When we create the graph for the evaluation (`eval_model_spec`), the `model_fn` will encapsulate all the nodes in a `tf.variable_scope("model", reuse=True)` so that the nodes that have the same names than in the training graph share their weights !
 
 For those interested in the problem of making training and eval graphs coexist, you can read this [discussion](https://www.tensorflow.org/tutorials/) which advocates for the other option.
 
-As a side note, option 1 is also the one used in [tf.Estimator](https://www.tensorflow.org/guide/estimators).
+As a side note, option 1 is also the one used in [`tf.Estimator`](https://www.tensorflow.org/guide/estimators).
 
 Next page, you'll see how you can input data to your model.
 
