@@ -23,6 +23,10 @@ grid_navigation:
       excerpt: A quick introduction to gradient descent and backpropagation.
       cta: Read more
       url: /section/3
+    - title: Section 4
+      excerpt: TensorFlow Blitz with PyTorch Bits!
+      cta: Read more
+      url: /section/4
 
 ---
 
