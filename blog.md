@@ -13,7 +13,7 @@ grid_navigation:
     - title: Structuring and Improving Deep Neural Networks
       excerpt: 
       cta: Read more
-      url: '/blog/DataPreprocessing'
+      url: '/blog/datapreprocessing'
     - title: Introduction to Tensorflow
       excerpt: 
       cta: Read more
