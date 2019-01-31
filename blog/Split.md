@@ -15,10 +15,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '/blog/DataPreprocessing'
+        url: '/blog/datapreprocessing'
     next:
         content: Next page
-        url: '/blog/Hyperparameters'
+        url: '/blog/hyperparameters'
 ---
 Splitting your data into training, dev and test sets can be disastrous if not done correctly. In this short tutorial, we will explain the best practices when splitting your dataset.
 
@@ -77,11 +77,11 @@ Often a dataset will come either in one big set that you will split into train, 
 
 A good practice that is true for every software, but especially in machine learning, is to make every step of your project reproducible. It should be possible to start the project again from scratch and create the same exact split between train, dev and test sets.
 
-The cleanest way to do it is to have a build_dataset.py file that will be called once at the start of the project and will create the split into train, dev and test. Optionally, calling build_dataset.py can also download the dataset. We need to make sure that any randomness involved in build_dataset.py uses a **fixed seed** so that every call to python build_dataset.py will result in the same output.
+The cleanest way to do it is to have a `build_dataset.py` file that will be called once at the start of the project and will create the split into train, dev and test. Optionally, calling `build_dataset.py` can also download the dataset. We need to make sure that any randomness involved in `build_dataset.py` uses a **fixed seed** so that every call to `python build_dataset.py` will result in the same output.
 
 Never do the split manually (by moving files into different folders one by one), because you wouldn’t be able to reproduce it.
 
-An example build_dataset.py file is the one used [here](https://github.com/cs230-stanford/cs230-code-examples/blob/master/tensorflow/vision/build_dataset.py) in the vision example project.
+An example `build_dataset.py` file is the one used [here](https://github.com/cs230-stanford/cs230-code-examples/blob/master/tensorflow/vision/build_dataset.py) in the vision example project.
 
 ## **Details of implementation**
 
@@ -101,7 +101,7 @@ test_filenames = filenames[split_2:]
 
 Often we have a big dataset and want to split it into train, dev and test set. In most cases, each split will have the same distribution as the others.
 
-**What could go wrong?** Suppose that the first 100 images (img_000.jpg to img_099.jpg) have label 0, the 100 following label 1, … and the last 100 images have label 9. Then the above code will make the dev set only have label 8, and the test set only label 9.
+**What could go wrong?** Suppose that the first 100 images (`img_000.jpg` to `img_099.jpg`) have label 0, the 100 following label 1, … and the last 100 images have label 9. Then the above code will make the dev set only have label 8, and the test set only label 9.
 
 We therefore need to ensure that the filenames are correctly shuffled before splitting the data.
 
@@ -120,7 +120,7 @@ This should give approximately the same distribution for train, dev and test set
 
 **Make it reproducible**
 
-We talked earlier about making the script reproducible. Here we need to make sure that the train/dev/test split stays the same across every run of python build_dataset.py.
+We talked earlier about making the script reproducible. Here we need to make sure that the train/dev/test split stays the same across every run of `python build_dataset.py`.
 
 The code above doesn’t ensure reproducibility, since each time you run it you will have a different split.
 

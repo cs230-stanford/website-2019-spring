@@ -16,7 +16,7 @@ micro_nav: true
 page_nav:
     next:
         content: Next page
-        url: '/blog/MoreTensorflow'
+        url: '/blog/moretensorflow'
 ---
 
 In this hands-on session, you will use two files:
