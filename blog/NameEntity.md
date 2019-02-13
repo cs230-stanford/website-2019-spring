@@ -27,7 +27,7 @@ This tutorial is among a series explaining the code examples:
 
 - [getting started: installation, getting started with the code for the projects](/blog/tips)
 - [PyTorch Introduction: global structure of the PyTorch code examples](/blog/pytorch)
-- [Vision: predicting labels from images of hand signs](/blog/NameSigns)
+- [Vision: predicting labels from images of hand signs](/blog/handsigns)
 - this post: Named Entity Recognition (NER) tagging for sentences
 
 ## **Goals of this tutorial**
@@ -242,4 +242,4 @@ Remember, you can set a breakpoint using `pdb.set_trace()` at any place in the f
 - [Sequence to Sequence models](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html#sphx-glr-intermediate-seq2seq-translation-tutorial-py): a tutorial on translation
 
 
-That concludes the description of the PyTorch NLP code example. If you haven’t, take a look at the [Vision](/blog/HandSigns) example to understand how we load data and define models for images
+That concludes the description of the PyTorch NLP code example. If you haven’t, take a look at the [Vision](/blog/handsigns) example to understand how we load data and define models for images

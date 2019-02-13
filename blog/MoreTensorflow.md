@@ -21,7 +21,7 @@ page_nav:
         url: '/blog/datapipeline'
 ---
 
-This post follows the [main post](https://cs230-stanford.github.io/project-code-examples.html) announcing the release of the CS230 code examples. We will explain here the TensorFlow part of the code, in our [github repository](https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensorflow).
+This post follows the [main post](/blog/tips) announcing the release of the CS230 code examples. We will explain here the TensorFlow part of the code, in our [github repository](https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensorflow).
 
 ```python
 tensorflow/
@@ -30,10 +30,10 @@ tensorflow/
 ```
 
 This tutorial is among a series explaining how to structure a deep learning project:
-- [installation, get started with the code for the projects](blog/tips)
+- [installation, get started with the code for the projects](/blog/tips)
 - **this post: (TensorFlow) explain the global structure of the code**
-- [(TensorFlow) how to build the data pipeline](/blog/DataPipeline)
-- [(Tensorflow) how to build the model and train it](/blog/CreateTrainModel) 
+- [(TensorFlow) how to build the data pipeline](/blog/datapipeline)
+- [(Tensorflow) how to build the model and train it](/blog/createtrainmodel) 
 
 ## **Goals of this tutorial**
 - learn more about TensorFlow
