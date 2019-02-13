@@ -10,14 +10,10 @@ description: These notes and tutorials are meant to complement the material of S
 
 # Grid navigation
 grid_navigation:
-    - title: Getting Started in CS230
-      excerpt: 
-      cta: Read more
-      url: '/blog/gettingstarted'
     - title: Structuring and Improving Deep Neural Networks
       excerpt: 
       cta: Read more
-      url: '/blog/DataPreprocessing'
+      url: '/blog/datapreprocessing'
     - title: Introduction to Tensorflow
       excerpt: 
       cta: Read more

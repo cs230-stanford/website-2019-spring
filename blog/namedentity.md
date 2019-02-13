@@ -15,7 +15,7 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '/blog/HandSigns'
+        url: '/blog/handsigns'
     next:
         content: 
         url: '#'
@@ -27,7 +27,7 @@ This tutorial is among a series explaining the code examples:
 
 - [getting started: installation, getting started with the code for the projects](/blog/tips)
 - [PyTorch Introduction: global structure of the PyTorch code examples](/blog/pytorch)
-- [Vision: predicting labels from images of hand signs](/blog/NameSigns)
+- [Vision: predicting labels from images of hand signs](/blog/handsigns)
 - this post: Named Entity Recognition (NER) tagging for sentences
 
 ## **Goals of this tutorial**
@@ -45,7 +45,7 @@ John   lives in New   York
 B-PER  O     O  B-LOC I-LOC
 ```
 
-Our dataset will thus need to load both the sentences and labels. We will store those in 2 different files, a sentence.txt file containing the sentences (one per line) and a labels.txt containing the labels. For example:
+Our dataset will thus need to load both the sentences and labels. We will store those in 2 different files, a `sentence.txt` file containing the sentences (one per line) and a `labels.txt` containing the labels. For example:
 
 ```python
 #sentences.txt
@@ -59,7 +59,7 @@ B-PER O O B-LOC I-LOC
 O O B-PER O
 ```
 
-Here we assume that we ran the build_vocab.py script that creates a vocabulary file in our /data directory. Running the script gives us one file for the words and one file for the labels. They will contain one token per line. For instance
+Here we assume that we ran the `build_vocab.py` script that creates a vocabulary file in our `/data` directory. Running the script gives us one file for the words and one file for the labels. They will contain one token per line. For instance
 
 ```python
 #words.txt
@@ -80,7 +80,7 @@ B-LOC
 
 ## **Loading the Text Data**
 
-In NLP applications, a sentence is represented by the sequence of indices of the words in the sentence. For example if our vocabulary is {'is':1, 'John':2, 'Where':3, '.':4, '?':5} then the sentence “Where is John ?” is represented as [3,1,2,5]. We read the words.txt file and populate our vocabulary:
+In NLP applications, a sentence is represented by the sequence of indices of the words in the sentence. For example if our vocabulary is `{'is':1, 'John':2, 'Where':3, '.':4, '?':5}` then the sentence “Where is John ?” is represented as `[3,1,2,5]`. We read the `words.txt` file and populate our vocabulary:
 
 ```python
 vocab = {}
@@ -89,9 +89,9 @@ with open(words_path) as f:
         vocab[l] = i
 ```
 
-In a similar way, we load a mapping tag_map from our labels from tags.txt to indices. Doing so gives us indices for labels in the range [0,1,...,NUM_TAGS-1].
+In a similar way, we load a mapping `tag_map` from our labels from `tags.txt` to indices. Doing so gives us indices for labels in the range `[0,1,...,NUM_TAGS-1]`.
 
-In addition to words read from English sentences, words.txt contains two special tokens: an UNK token to represent any word that is not present in the vocabulary, and a PAD token that is used as a filler token at the end of a sentence when one batch has sentences of unequal lengths.
+In addition to words read from English sentences, `words.txt` contains two special tokens: an `UNK` token to represent any word that is not present in the vocabulary, and a `PAD` token that is used as a filler token at the end of a sentence when one batch has sentences of unequal lengths.
 
 We are now ready to load our data. We read the sentences in our dataset (either train, validation or test) and convert them to a sequence of indices by looking up the vocabulary:
 
@@ -119,7 +119,7 @@ We can load the validation and test data in a similar fashion.
 
 ## **Preparing a Batch**
 
-This is where it gets fun. When we sample a batch of sentences, not all the sentences usually have the same length. Let’s say we have a batch of sentences batch_sentences that is a Python list of lists, with its corresponding batch_tags which has a tag for each token in batch_sentences. We convert them into a batch of PyTorch Variables as follows:
+This is where it gets fun. When we sample a batch of sentences, not all the sentences usually have the same length. Let’s say we have a batch of sentences `batch_sentences` that is a Python list of lists, with its corresponding `batch_tags` which has a tag for each token in `batch_sentences`. We convert them into a batch of PyTorch Variables as follows:
 
 ```python
 #compute length of longest sentence in batch
@@ -144,9 +144,9 @@ batch_data, batch_labels = torch.LongTensor(batch_data), torch.LongTensor(batch_
 batch_data, batch_labels = Variable(batch_data), Variable(batch_labels)
 ```
 
-A lot of things happened in the above code. We first calculated the length of the longest sentence in the batch. We then initialized NumPy arrays of dimension (num_sentences, batch_max_len) for the sentence and labels, and filled them in from the lists. Since the values are indices (and not floats), PyTorch’s Embedding layer expects inputs to be of the Long type. We hence convert them to LongTensor.
+A lot of things happened in the above code. We first calculated the length of the longest sentence in the batch. We then initialized NumPy arrays of dimension `(num_sentences, batch_max_len)` for the sentence and labels, and filled them in from the lists. Since the values are indices (and not floats), PyTorch’s Embedding layer expects inputs to be of the `Long` type. We hence convert them to `LongTensor`.
 
-After filling them in, we observe that the sentences that are shorter than the longest sentence in the batch have the special token PAD to fill in the remaining space. Moreover, the PAD tokens, introduced as a result of packaging the sentences in a matrix, are assigned a label of -1. Doing so differentiates them from other tokens that have label indices in the range [0,1,...,NUM_TAGS-1]. This will be crucial when we calculate the loss for our model’s prediction, and we’ll come to that in a bit.
+After filling them in, we observe that the sentences that are shorter than the longest sentence in the batch have the special token `PAD` to fill in the remaining space. Moreover, the `PAD` tokens, introduced as a result of packaging the sentences in a matrix, are assigned a label of -1. Doing so differentiates them from other tokens that have label indices in the range `[0,1,...,NUM_TAGS-1]`. This will be crucial when we calculate the loss for our model’s prediction, and we’ll come to that in a bit.
 
 In our code, we package the above code in a custom data_iterator function. Hyperparameters are stored in a data structure called “params”. We can then use the generator as follows:
 
@@ -165,7 +165,7 @@ for _ in range(num_training_steps):
 
 ## **Recurrent Network Model**
 
-Now that we have figured out how to load our sentences and tags, let’s have a look at the Recurrent Neural Network model. As mentioned in the previous post, we first define the components of our model, followed by its functional form. Let’s have a look at the __init__ function for our model that takes in (batch_size, batch_max_len) dimensional data:
+Now that we have figured out how to load our sentences and tags, let’s have a look at the Recurrent Neural Network model. As mentioned in the [previous](/blog/pytorch) post, we first define the components of our model, followed by its functional form. Let’s have a look at the `__init__` function for our model that takes in `(batch_size, batch_max_len)` dimensional data:
 
 ```python
 import torch.nn as nn
@@ -185,7 +185,7 @@ class Net(nn.Module):
     self.fc = nn.Linear(params.lstm_hidden_dim, params.number_of_tags)
 ```
 
-We use an LSTM for the recurrent network. Before running the LSTM, we first transform each word in our sentence to a vector of dimension embedding_dim. We then run the LSTM over this sentence. Finally, we have a fully connected layer that transforms the output of the LSTM for each token to a distribution over tags. This is implemented in the forward propagation function:
+We use an LSTM for the recurrent network. Before running the LSTM, we first transform each word in our sentence to a vector of dimension `embedding_dim`. We then run the LSTM over this sentence. Finally, we have a fully connected layer that transforms the output of the LSTM for each token to a distribution over tags. This is implemented in the forward propagation function:
 
 ```python
 def forward(self, s):
@@ -204,15 +204,15 @@ def forward(self, s):
     return F.log_softmax(s, dim=1)   # dim: batch_size*batch_max_len x num_tags
 ```
 
-The embedding layer augments an extra dimension to our input which then has shape (batch_size, batch_max_len, embedding_dim). We run it through the LSTM which gives an output for each token of length lstm_hidden_dim. In the next step, we open up the 3D Variable and reshape it such that we get the hidden state for each token, i.e. the new dimension is (batch_size*batch_max_len, lstm_hidden_dim). Here the -1 is implicitly inferred to be equal to batch_size*batch_max_len. The reason behind this reshaping is that the fully connected layer assumes a 2D input, with one example along each row.
+The embedding layer augments an extra dimension to our input which then has shape `(batch_size, batch_max_len, embedding_dim)`. We run it through the LSTM which gives an output for each token of length `lstm_hidden_dim`. In the next step, we open up the 3D Variable and reshape it such that we get the hidden state for each token, i.e. the new dimension is `(batch_size*batch_max_len, lstm_hidden_dim)`. Here the `-1` is implicitly inferred to be equal to `batch_size*batch_max_len`. The reason behind this reshaping is that the fully connected layer assumes a 2D input, with one example along each row.
 
-After the reshaping, we apply the fully connected layer which gives a vector of NUM_TAGS for each token in each sentence. The output is a log_softmax over the tags for each token. We use log_softmax since it is numerically more stable than first taking the softmax and then the log.
+After the reshaping, we apply the fully connected layer which gives a vector of `NUM_TAGS` for each token in each sentence. The output is a log_softmax over the tags for each token. We use log_softmax since it is numerically more stable than first taking the softmax and then the log.
 
-All that is left is to compute the loss. But there’s a catch- we can’t use a torch.nn.loss function straight out of the box because that would add the loss from the PAD tokens as well. Here’s where the power of PyTorch comes into play- we can write our own custom loss function!
+All that is left is to compute the loss. But there’s a catch- we can’t use a `torch.nn.loss` function straight out of the box because that would add the loss from the `PAD` tokens as well. Here’s where the power of PyTorch comes into play- we can write our own custom loss function!
 
 ## **Writing a Custom Loss Function**
 
-In the section on preparing batches, we ensured that the labels for the PAD tokens were set to -1. We can leverage this to filter out the PAD tokens when we compute the loss. Let us see how:
+In the section on preparing batches, we ensured that the labels for the `PAD` tokens were set to `-1`. We can leverage this to filter out the `PAD` tokens when we compute the loss. Let us see how:
 
 ```python
 def loss_fn(outputs, labels):
@@ -232,9 +232,9 @@ def loss_fn(outputs, labels):
     return -torch.sum(outputs)/num_tokens
 ```
 
-The input labels has dimension (batch_size, batch_max_len) while outputs has dimension (batch_size*batch_max_len, NUM_TAGS). We compute a mask using the fact that all PAD tokens in labels have the value -1. We then compute the Negative Log Likelihood Loss (remember the output from the network is already softmax-ed and log-ed!) for all the non PAD tokens. We can now compute derivates by simply calling .backward() on the loss returned by this function.
+The input labels has dimension `(batch_size, batch_max_len)` while outputs has dimension `(batch_size*batch_max_len, NUM_TAGS)`. We compute a mask using the fact that all `PAD` tokens in `labels` have the value `-1`. We then compute the Negative Log Likelihood Loss (remember the output from the network is already softmax-ed and log-ed!) for all the non `PAD` tokens. We can now compute derivates by simply calling `.backward()` on the loss returned by this function.
 
-Remember, you can set a breakpoint using pdb.set_trace() at any place in the forward function, loss function or virtually anywhere and examine the dimensions of the Variables, tinker around and diagnose what’s going wrong. That’s the beauty of PyTorch :).
+Remember, you can set a breakpoint using `pdb.set_trace()` at any place in the forward function, loss function or virtually anywhere and examine the dimensions of the Variables, tinker around and diagnose what’s going wrong. That’s the beauty of PyTorch :).
 
 ## **Resources**
 
