@@ -17,7 +17,7 @@ page_nav:
         content: Next page
         url: '/blog/handsigns'
 ---
-This post follows the [main](https://cs230-stanford.github.io/project-code-examples.html) post announcing the CS230 Project Code Examples. Here we explain some details of the PyTorch part of the code from our [github repository](https://github.com/cs230-stanford/cs230-code-examples).
+This post follows the [main](/blog/tips) post announcing the CS230 Project Code Examples. Here we explain some details of the PyTorch part of the code from our [github repository](https://github.com/cs230-stanford/cs230-code-examples).
 
 ```python
 pytorch/
@@ -29,8 +29,8 @@ This tutorial is among a series explaining the code examples:
 
 - [getting started: installation, getting started with the code for the projects](/blog/tips)
 - this post: global structure of the PyTorch code
-- [predicting labels from images of hand signs](/blog/HandSigns)
-- [NLP: Named Entity Recognition (NER) tagging for sentences](NameEntity)
+- [predicting labels from images of hand signs](/blog/handsigns)
+- [NLP: Named Entity Recognition (NER) tagging for sentences](/blog/namedentity)
 
 ## **Goals of this tutorial**
 - learn more about PyTorch
@@ -120,7 +120,7 @@ Variable containing:
 [torch.FloatTensor of size 2x2]
 ```
 
-This prelude should give you a sense of the things to come. PyTorch packs elegance and expressiveness in its minimalist and intuitive syntax. Familiarize yourself with some more examples from the [Resources](https://cs230-stanford.github.io/pytorch-getting-started.html#resources) section before moving ahead.
+This prelude should give you a sense of the things to come. PyTorch packs elegance and expressiveness in its minimalist and intuitive syntax. Familiarize yourself with some more examples from the [Resources](/blog/pytorch) section before moving ahead.
 
 ## **Core Training Step**
 Let’s begin with a look at what the heart of our training algorithm looks like. The five lines below pass a batch of inputs through the model, calculate the loss, perform backpropagation and update the parameters.
@@ -209,7 +209,7 @@ def myCrossEntropyLoss(outputs, labels):
     return -torch.sum(outputs)/num_examples
 ```
 
-This was a fairly simple example of writing our own loss function. In the section on [NLP](/blog/NameEntity), we’ll see an interesting use of custom loss functions.
+This was a fairly simple example of writing our own loss function. In the section on [NLP](/blog/namedentity), we’ll see an interesting use of custom loss functions.
 
 ## **Optimizer**
 
@@ -289,7 +289,7 @@ PyTorch makes the use of the GPU explicit and transparent using these commands. 
 With its clean and minimal design, PyTorch makes debugging a breeze. You can place breakpoints using pdb.set_trace() at any line in your code. You can then execute further computations, examine the PyTorch Tensors/Variables and pinpoint the root cause of the error.
 
 
-That concludes the introduction to the PyTorch code examples. You can proceed to the [Vision](/blog/HandSigns) example and/or the [NLP](/blog/NameEntity) example to understand how we load data and define models specific to each domain.
+That concludes the introduction to the PyTorch code examples. You can proceed to the [Vision](/blog/handsigns) example and/or the [NLP](/blog/namedentity) example to understand how we load data and define models specific to each domain.
 
 
 

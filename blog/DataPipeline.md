@@ -28,9 +28,9 @@ Building the input pipeline in a machine learning project is always long and pai
 This tutorial is among a series explaining how to structure a deep learning project:
 This tutorial is among a series explaining how to structure a deep learning project:
 - [installation, get started with the code for the projects](/blog/tips)
-- [(TensorFlow) how to build the data pipeline](/blog/tensorflow)
-- this post: how to build the model and train it
-- [(Tensorflow) how to build the model and train it](/blog/CreateTrainModel)
+- [(TensorFlow) explain the global structure of the code](/blog/tensorflow)
+- **this post: how to build the data pipeline**
+- [(Tensorflow) how to build the model and train it](/blog/createtrainmodel)
 
 ## **Goals of this tutorial**
 
@@ -192,14 +192,14 @@ iterator_init_op = iterator.initializer
 inputs = {'images': images, 'labels': labels, 'iterator_init_op': iterator_init_op}
 ```
 
-This dictionary of inputs will be passed to the model function, which we will detail in the [next post](/blog/CreateTrainModel).
+This dictionary of inputs will be passed to the model function, which we will detail in the [next post](/blog/createtrainmodel).
 
 ## **Building an image data pipeline**
 
 Here is what a Dataset for images might look like. Here we already have a list of `filenames` to jpeg images and a corresponding list of `labels`. We apply the following steps for training:
 
 1. Create the dataset from slices of the filenames and labels
-2. Shuffle the data with a buffer size equal to the length of the dataset. This ensures good shuffling (cf. [this answer](https://stackoverflow.com/questions/46444018/meaning-of-buffer-size-in-dataset-map-dataset-prefetch-and-dataset-shuffle/48096625#48096625)
+2. Shuffle the data with a buffer size equal to the length of the dataset. This ensures good shuffling (cf. [this answer](https://stackoverflow.com/questions/46444018/meaning-of-buffer-size-in-dataset-map-dataset-prefetch-and-dataset-shuffle/48096625#48096625))
 3. Parse the images from filename to the pixel values. Use multiple threads to improve the speed of preprocessing
 4. (Optional for training) Data augmentation for the images. Use multiple threads to improve the speed of preprocessing
 5. Batch the images
