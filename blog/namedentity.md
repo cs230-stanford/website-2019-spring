@@ -242,4 +242,4 @@ Remember, you can set a breakpoint using `pdb.set_trace()` at any place in the f
 - [Sequence to Sequence models](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html#sphx-glr-intermediate-seq2seq-translation-tutorial-py): a tutorial on translation
 
 
-That concludes the description of the PyTorch NLP code example. If you haven’t, take a look at the [Vision](/blog/HandSigns) example to understand how we load data and define models for images
+That concludes the description of the PyTorch NLP code example. If you haven’t, take a look at the [Vision](/blog/handsigns) example to understand how we load data and define models for images

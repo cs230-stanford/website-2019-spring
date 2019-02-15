@@ -91,7 +91,7 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 01/22 </td>
             <td>
-                <strong>Topic:</strong> Deep Learning Intuition <a href="/fall2018/slides_week2.pdf">(slides)</a>
+                <strong>Topic:</strong> Deep Learning Intuition <a href="/lectures/2019/winter/3.pdf">(slides)</a>
                 <ul>
                     <li>How to frame a machine learning problem?</li>
                     <li>How to choose your loss function?</li>
@@ -132,8 +132,7 @@ micro_nav: false
             <td>
                 <strong>Topics:</strong>
                 <ul>
-                    <li>Attacking neural networks with Adversarial examples <a href="/fall2018/slides_week4.pdf">(slides)</a></li>
-                    <li>Generative Adversarial Networks <a href="/fall2018/slides_week4.pdf">(slides)</a></li>
+                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks<a href="/lectures/2019/winter/4.pdf"> (slides)</a></li>
                 </ul>
                 <strong>Optional Readings:</strong>
                 <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
@@ -169,21 +168,17 @@ micro_nav: false
             </td>
         </tr>
         <tr>
-            <td>Lecture 5</td>
-            <td>02/05</td>
+            <td>Lecture&nbsp;5</td>
+            <td> 02/05 </td>
             <td>
-                <strong>Topics:</strong>
-                <ul>
-                    <li>AI in Health Care (Guest speaker: Pranav Rajpurkar)</li>
-                    <li>Live-cell segmentation Case Study by Kian Katanforoosh <a href="/fall2018/case_study_week5.pdf">(slides)</a></li>
-                </ul>
+                <strong>Topic:</strong> Deep Learning Project strategy - Case studies
             </td>
             <td>
                 <strong>Completed modules:</strong>
                 <ul>
-                    <li>C2M3: Hyperparameter Tuning, Batch Normalization <a href="files/C2M3.pdf">(slides)</a></li>
-                    <li>C3M1: ML Strategy (1) <a href="files/C3M1.pdf">(slides)</a></li>
-                    <li>C3M2: ML Strategy (2) <a href="files/C3M2.pdf">(slides)</a></li>
+                    <li>C2M3: Hyperparameter Tuning, Batch Normalization <a href="/files/C2M3.pdf">(slides)</a></li>
+                    <li>C3M1: ML Strategy (1) <a href="/files/C3M1.pdf">(slides)</a></li>
+                    <li>C3M2: ML Strategy (2) <a href="/files/C3M2.pdf">(slides)</a></li>
                 </ul>
             </td>
             <td>
@@ -204,25 +199,24 @@ micro_nav: false
             <td>02/08</td>
             <td><strong>Past midterms:</strong>
                 <ul>
-                    <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="./files/cs230exam_win18_soln.pdf">with solutions</a></li>
-                    <li>Spring 2018 Midterm <a href="/files/cs230exam_spr18.pdf">(without solutions</a>, <a href="./files/cs230exam_spr18_soln.pdf">with solutions)</a></li>
-                    <li>Fall 2018 Midterm <a href="/files/cs230exam_aut18.pdf">(without solutions</a>, <a href="/files/cs230exam_aut18_soln.pdf">with solutions)</a></li>
+                    <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
+                    <li>Spring 2018 Midterm <a href="/files/cs230exam_spr18.pdf">(without solutions</a>, <a href="/files/cs230exam_spr18_soln.pdf">with solutions)</a></li>
+                    <!-- <li>Fall 2018 Midterm <a href="/files/cs230exam_aut18.pdf">(without solutions</a>, <a href="/files/cs230exam_aut18_soln.pdf">with solutions)</a></li> -->
                 </ul>
             </td>
             <td>
-                <a href="/fall2018/midterm_review.pdf">Midterm Review Slides</a>, <a href="fall2018/optimization_initialization.pdf">Optimization and Initialization Slides</a>, <a href="/fall2018/adversarial_examples.pdf">Adversarial Examples Notes</a>, <a href="/fall2018/adversarial_examples.ipynb">Adversarial Examples Jupyter Notebook</a>
+                <!-- <a href="/fall2018/midterm_review.pdf">Midterm Review Slides</a>, <a href="fall2018/optimization_initialization.pdf">Optimization and Initialization Slides</a>, <a href="/fall2018/adversarial_examples.pdf">Adversarial Examples Notes</a>, <a href="/fall2018/adversarial_examples.ipynb">Adversarial Examples Jupyter Notebook</a> -->
             </td>
         </tr>
         <tr>
-            <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Lecture&nbsp;6</td>
-            <td> 02/12 </td>
+            <td>Lecture 6</td>
+            <td>02/12</td>
             <td>
-                <strong>Topic:</strong> Deep Learning Project strategy - Case studies
+                <strong>Topics:</strong>
+                <ul>
+                    <li>AI in Health Care (Guest speaker: Pranav Rajpurkar)</li>
+                    <li>Live-cell segmentation Case Study by Kian Katanforoosh <a href="/fall2018/case_study_week5.pdf">(slides)</a></li>
+                </ul>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -246,6 +240,11 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
+        <tr>
+            <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
+                <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
+            </td>
+        </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Midterm</strong></td>
             <td><strong>02/13</strong></td>
@@ -255,7 +254,7 @@ micro_nav: false
                 <ul>
                     <li>Date: Feburary 13, 2019</li>
                     <li>Time: 6 - 9pm</li>
-                    <li>Locations: Cubberley Aud. and Bishop Aud.</li>
+                    <li>Locations: Cubberley Aud. (last names A-L) and Bishop Aud. (last names M-Z)</li>
                 </ul>
             </td>
             <td>
@@ -411,8 +410,8 @@ micro_nav: false
                 <strong>Poster Session</strong>
                 <ul>
                     <li>Date: March 20, Wednesday</li>
-                    <li>Time: 12:15pm - 2:15pm</li>
-                    <li>Location: TBD</li>
+                    <li>Time: 12:15pm - 3:15pm</li>
+                    <li>Location: ACSR Basketball Courts</li>
                 </ul>
             </td>
             <td></td>

@@ -23,6 +23,10 @@ Below is the breakdown of class grade:
  * 2%: Attendance
 
 
+## What material is allowed on the midterm? 
+Students are allowed to bring a two-sided A4 sheet of notes to the midterm.
+
+
 ## What are the deliverables as part of the term project?
 The project has four deliverables:
  * Proposal
