@@ -36,15 +36,15 @@ This post will help you familiarize with the Project Code Examples, and introduc
 **Tensorflow**
 
 - [introduction to Tensorflow](/blog/tensorflow)
--[more in Tensorflow](/blog/MoreTensorflow)
-- [how to build the data pipeline with tf.data](/blog/DataPipeline)
-- [how to create and train a model](/blog/CreateTrainModel)
+-[more in Tensorflow](/blog/moretensorflow)
+- [how to build the data pipeline with tf.data](/blog/datapipeline)
+- [how to create and train a model](/blog/createtrainmodel)
 
 **PyTorch**
 
 - [introduction to PyTorch](/blog/pytorch)
-- [Vision- predicting labels from images of hand signs](/blog/HandSigns)
-- [NLP- Named Entity Recognition (NER) tagging for sentences](/blog/NameEntity)
+- [Vision- predicting labels from images of hand signs](/blog/handsigns)
+- [NLP- Named Entity Recognition (NER) tagging for sentences](/blog/namedentity)
 
 **Goals of the code examples**
 

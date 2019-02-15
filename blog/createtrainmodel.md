@@ -24,9 +24,9 @@ This post is part of a series of post explaining how to structure a deep learnin
 
 This tutorial is among a series explaining how to structure a deep learning project:
 - [installation, get started with the code for the projects](/blog/tips)
-- [(TensorFlow only): explain the global structure of the code](/blog/MoreTensorflow)
-- [(TensorFlow only): how to feed data into the model using `tf.data`](/blog/DataPipeline)
-- this post: how to create the model and train it
+- [(TensorFlow only): explain the global structure of the code](/blog/moretensorflow)
+- [(TensorFlow only): how to feed data into the model using `tf.data`](/blog/datapipeline)
+- **this post: how to create the model and train it**
 
 ## **Goals of this tutorial**
 
