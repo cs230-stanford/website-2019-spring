@@ -1,0 +1,61 @@
+---
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
+title: Midterm Section
+description: In this section we will introduce Xavier Initialization then review additional material that will be on the midterm exam.
+
+
+# Micro navigation
+micro_nav: true
+
+---
+
+
+
+# Xavier Initialization
+
+Two weeks ago we discussed backpropagation and optimization techniques for deep learning models.  All the optimization methods we discussed involve an initialization for the weight parameters.  **Will the choice of the initialization have an effect on training?**
+
+Explore the first visualization in this [article](https://rawgit.com/danielkunin/Deeplearning-Visualizations/master/initialization/index.html) to gain intuition on the effect of the initialization. **What makes a good initialization?  Or rather what makes a bad initialization?** 
+
+<!-- {% include image.html description="" link="https://rawgit.com/danielkunin/Deeplearning-Visualizations/master/initialization/index.html" image="section/review/initialization.png" caption="false"%} -->
+
+An initialization that is "too large" leads to the exploding gradient problem.  An initialization that is "too small" leads to the vanishing gradient problem.
+
+{% include image.html description="A visualization for the exploding and vanishing gradient problem in a deep linear network." link="https://rawgit.com/danielkunin/Deeplearning-Visualizations/master/initialization/index.html" image="section/review/exploding-vanishing.png" caption="true"%}
+
+
+The **goal** of Xavier Initialization is to find an initialization such that the variance of the activations are the same across every layer to prevent the signal from exploding or vanishing.  To achieve this we will make the following simplifying **assumptions**:
+
+  * Weights and inputs are distributed around zero and biases are zero
+  * Weights are independent and identically distributed
+  * Inputs are independent and identically distributed
+  * Weights and inputs are mutually independent
+
+Xavier Initialization is the following initilization rule:
+
+{% include image.html description="" link="" image="section/review/rule.png" caption="false"%}
+
+We will now show how this initialization leads to the property of a constant variance between layers.
+
+{% include image.html description="" link="" image="section/review/proof.png" caption="false"%}
+
+Check out this [article](https://rawgit.com/danielkunin/Deeplearning-Visualizations/master/initialization/index.html) to read more about initializations in deep learning.
+
+
+# Midterm Review
+
+We will now review additional material that will appear on the midterm exam.  
+
+  * [Slides](https://docs.google.com/presentation/d/1Vgbv1D212r67qAFODDlxvCka-huBoqGWYXJ8PkHu2-o/edit?usp=sharing)
+  * [Questions](https://www.mentimeter.com/s/1925b59f81e274227476440ee78bb318/099a806113b9)
+
+
+
+
+
+

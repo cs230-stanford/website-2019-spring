@@ -27,38 +27,13 @@ grid_navigation:
       excerpt: TensorFlow Blitz with PyTorch Bits!
       cta: Read more
       url: /section/4
+    - title: Midterm Section
+      excerpt: Introduction to Xavier Initialization and midterm review.
+      cta: Read more
+      url: /section/
+    - title: Section 6
+      excerpt: A deep dive into regularization in theory and code!
+      cta: Read more
+      url: /section/6
 
 ---
-
-<!--     - title: Week 2
-      excerpt: Section description
-      cta: Read more
-      url: '#'
-    - title: Week 3
-      excerpt: Section description
-      cta: Read more
-      url: '#'
-    - title: Week 4
-      excerpt: Section description
-      cta: Read more
-      url: '#'
-    - title: Week 5
-      excerpt: Section description
-      cta: Read more
-      url: '#'
-    - title: Week 6
-      excerpt: Section description
-      cta: Read more
-      url: '#'
-    - title: Week 7
-      excerpt: Section description
-      cta: Read more
-      url: '#'
-    - title: Week 8
-      excerpt: Section description
-      cta: Read more
-      url: '#'
-    - title: Week 9
-      excerpt: Section description
-      cta: Read more
-      url: '#' -->

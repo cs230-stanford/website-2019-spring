@@ -169,9 +169,54 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;5</td>
-            <td> 02/12 </td>
+            <td> 02/05 </td>
             <td>
                 <strong>Topic:</strong> Deep Learning Project strategy - Case studies
+            </td>
+            <td>
+                <strong>Completed modules:</strong>
+                <ul>
+                    <li>C2M3: Hyperparameter Tuning, Batch Normalization <a href="/files/C2M3.pdf">(slides)</a></li>
+                    <li>C3M1: ML Strategy (1) <a href="/files/C3M1.pdf">(slides)</a></li>
+                    <li>C3M2: ML Strategy (2) <a href="/files/C3M2.pdf">(slides)</a></li>
+                </ul>
+            </td>
+            <td>
+                <strong>Quizzes (due at 10am):</strong>
+                <ul>
+                    <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
+                    <li>Bird recognition in the city of Peacetopia (case study)</li>
+                    <li>Autonomous driving (case study)</li>
+                </ul>
+                <strong>Programming Assignments (due at 10am):</strong>
+                <ul>
+                    <li>Tensorflow</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Midterm Review</td>
+            <td>02/08</td>
+            <td><strong>Past midterms:</strong>
+                <ul>
+                    <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
+                    <li>Spring 2018 Midterm <a href="/files/cs230exam_spr18.pdf">(without solutions</a>, <a href="/files/cs230exam_spr18_soln.pdf">with solutions)</a></li>
+                    <!-- <li>Fall 2018 Midterm <a href="/files/cs230exam_aut18.pdf">(without solutions</a>, <a href="/files/cs230exam_aut18_soln.pdf">with solutions)</a></li> -->
+                </ul>
+            </td>
+            <td>
+                <!-- <a href="/fall2018/midterm_review.pdf">Midterm Review Slides</a>, <a href="fall2018/optimization_initialization.pdf">Optimization and Initialization Slides</a>, <a href="/fall2018/adversarial_examples.pdf">Adversarial Examples Notes</a>, <a href="/fall2018/adversarial_examples.ipynb">Adversarial Examples Jupyter Notebook</a> -->
+            </td>
+        </tr>
+        <tr>
+            <td>Lecture 6</td>
+            <td>02/12</td>
+            <td>
+                <strong>Topics:</strong>
+                <ul>
+                    <li>AI in Health Care (Guest speaker: Pranav Rajpurkar)</li>
+                    <li>Live-cell segmentation Case Study by Kian Katanforoosh <a href="/fall2018/case_study_week5.pdf">(slides)</a></li>
+                </ul>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -196,51 +241,6 @@ micro_nav: false
             </td>
         </tr>
         <tr>
-            <td>Midterm Review</td>
-            <td>02/08</td>
-            <td><strong>Past midterms:</strong>
-                <ul>
-                    <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
-                    <li>Spring 2018 Midterm <a href="/files/cs230exam_spr18.pdf">(without solutions</a>, <a href="/files/cs230exam_spr18_soln.pdf">with solutions)</a></li>
-                    <!-- <li>Fall 2018 Midterm <a href="/files/cs230exam_aut18.pdf">(without solutions</a>, <a href="/files/cs230exam_aut18_soln.pdf">with solutions)</a></li> -->
-                </ul>
-            </td>
-            <td>
-                <!-- <a href="/fall2018/midterm_review.pdf">Midterm Review Slides</a>, <a href="fall2018/optimization_initialization.pdf">Optimization and Initialization Slides</a>, <a href="/fall2018/adversarial_examples.pdf">Adversarial Examples Notes</a>, <a href="/fall2018/adversarial_examples.ipynb">Adversarial Examples Jupyter Notebook</a> -->
-            </td>
-        </tr>
-        <tr>
-            <td>Lecture 6</td>
-            <td>02/05</td>
-            <td>
-                <strong>Topics:</strong>
-                <ul>
-                    <li>AI in Health Care (Guest speaker: Pranav Rajpurkar)</li>
-                    <li>Live-cell segmentation Case Study by Kian Katanforoosh <a href="/fall2018/case_study_week5.pdf">(slides)</a></li>
-                </ul>
-            </td>
-            <td>
-                <strong>Completed modules:</strong>
-                <ul>
-                    <li>C2M3: Hyperparameter Tuning, Batch Normalization <a href="/files/C2M3.pdf">(slides)</a></li>
-                    <li>C3M1: ML Strategy (1) <a href="/files/C3M1.pdf">(slides)</a></li>
-                    <li>C3M2: ML Strategy (2) <a href="/files/C3M2.pdf">(slides)</a></li>
-                </ul>
-            </td>
-            <td>
-                <strong>Quizzes (due at 10am):</strong>
-                <ul>
-                    <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
-                    <li>Bird recognition in the city of Peacetopia (case study)</li>
-                    <li>Autonomous driving (case study)</li>
-                </ul>
-                <strong>Programming Assignments (due at 10am):</strong>
-                <ul>
-                    <li>Tensorflow</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
             <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
                 <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
             </td>
@@ -254,7 +254,7 @@ micro_nav: false
                 <ul>
                     <li>Date: Feburary 13, 2019</li>
                     <li>Time: 6 - 9pm</li>
-                    <li>Locations: Cubberley Aud. and Bishop Aud.</li>
+                    <li>Locations: Cubberley Aud. (last names A-L) and Bishop Aud. (last names M-Z)</li>
                 </ul>
             </td>
             <td>
@@ -410,7 +410,7 @@ micro_nav: false
                 <strong>Poster Session</strong>
                 <ul>
                     <li>Date: March 20, Wednesday</li>
-                    <li>Time: 12:15pm - 2:15pm</li>
+                    <li>Time: 12:15pm - 3:15pm</li>
                     <li>Location: ACSR Basketball Courts</li>
                 </ul>
             </td>
