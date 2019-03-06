@@ -105,6 +105,14 @@ Presenting pointers to one relevant dataset and one example of prior research on
 
 The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the milestone (and final report) keeping in mind that the intended audience is Profs. Ng and Katanforoosh and the TAs. Thus, for example, you should not spend two pages explaining what logistic regression is. Your milestone should include the full names of all your team members and state the full title of your project. **Note:** We will expect your final writeup to be on the same topic as your milestone. In order to help you the most, we expect you to submit your running code. Your code should contain a baseline model for your application. Along with your baseline model, you are welcome to submit additional parts of your code such as data pre-processing, data augmentation, accuracy matric(s), and/or other models you have tried. Please clean your code before submitting, comment on it, and cite any resources you used. Please **do not submit your dataset**. However, you may include a few samples of your data in the report if you wish.
 
+Your milestone should be **at most 3 pages**, excluding references. Similar to to the proposal, it should include
+  - Title, Author(s)
+  - Introduction: this section introduces your project, why it’s important or interesting.
+  - Make sure to submit your code (or Github URL). Do not submit your dataset. It is okay to include a few samples though.
+  - Details on the dataset
+  - Approach: Describe the current steps you have done. If you are implementing an algorithm, you should have started implementation and ideally have some early stage results. Describe precisely the remaining work you expect to complete. We ideally would like to see a model description and a training strategy (loss function for instance).
+
+
 ## Poster
 
 **Date:** March 20th, Wednesday 12:15pm-3:15pm

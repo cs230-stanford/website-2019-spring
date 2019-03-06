@@ -107,9 +107,11 @@ From the Coursera sessions (accessible from the invite you receive by email), yo
 You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope]().
 
 #### Late assignments
-Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment (which could be a programming assignment, a quiz or a project submission.) 
+Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment and is per student. 
 
 **For example**, if one quiz and one programming assignment are submitted 3 hours after the deadline, this results in 2 late days being used.
+
+**For example**, if a group submitted their project proposal 23 hours after the deadline, this results in 1 late days being used per student.
 
 Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
 

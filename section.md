@@ -30,10 +30,18 @@ grid_navigation:
     - title: Midterm Section
       excerpt: Introduction to Xavier Initialization and midterm review.
       cta: Read more
-      url: /section/
+      url: /section/review
     - title: Section 6
-      excerpt: A deep dive into regularization in theory and code!
+      excerpt: Regularization in theory and code!
       cta: Read more
       url: /section/6
+    - title: Section 7
+      excerpt: An introduction to hyperparameter tuning and cloud computing.
+      cta: Read more
+      url: /section/7
+    - title: Section 8
+      excerpt: Reading research papers efficiently.
+      cta: Read more
+      url: /section/8
 
 ---
