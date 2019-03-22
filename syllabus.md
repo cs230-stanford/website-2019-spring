@@ -396,7 +396,7 @@ micro_nav: false
             <td><strong>Final Poster and Project Report Due</strong></td>
             <td><strong>03/19<br>Tuesday, 11:59pm</strong></td>
             <td>
-                Instructions for <a href="/project/#final-report">Poster</a> and <a href="/project/#final-report">Project Report</a>
+                Instructions for <a href="/project/#poster">Poster</a> and <a href="/project/#final-report">Project Report</a>
             </td>
             <td>
             </td>

@@ -43,5 +43,13 @@ grid_navigation:
       excerpt: Reading research papers efficiently.
       cta: Read more
       url: /section/8
+    - title: Section 9
+      excerpt: An overview of evaluation metrics.
+      cta: Read more
+      url: /section/9
+    - title: Section 10
+      excerpt: Writting your final report.
+      cta: Read more
+      url: /section/10
 
 ---

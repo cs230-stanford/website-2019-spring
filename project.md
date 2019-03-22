@@ -105,13 +105,30 @@ Presenting pointers to one relevant dataset and one example of prior research on
 
 The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the milestone (and final report) keeping in mind that the intended audience is Profs. Ng and Katanforoosh and the TAs. Thus, for example, you should not spend two pages explaining what logistic regression is. Your milestone should include the full names of all your team members and state the full title of your project. **Note:** We will expect your final writeup to be on the same topic as your milestone. In order to help you the most, we expect you to submit your running code. Your code should contain a baseline model for your application. Along with your baseline model, you are welcome to submit additional parts of your code such as data pre-processing, data augmentation, accuracy matric(s), and/or other models you have tried. Please clean your code before submitting, comment on it, and cite any resources you used. Please **do not submit your dataset**. However, you may include a few samples of your data in the report if you wish.
 
-Your milestone should be **at most 3 pages**, excluding references. Similar to to the proposal, it should include
-  - Title, Author(s)
-  - Introduction: this section introduces your project, why it’s important or interesting.
-  - Make sure to submit your code (or Github URL). Do not submit your dataset. It is okay to include a few samples though.
-  - Details on the dataset
-  - Approach: Describe the current steps you have done. If you are implementing an algorithm, you should have started implementation and ideally have some early stage results. Describe precisely the remaining work you expect to complete. We ideally would like to see a model description and a training strategy (loss function for instance).
-
+<table>
+    <tbody>
+        <tr>
+        	<td><b>Format</b></td>
+            <td>Your milestone should be <b>at most 3 pages</b>, excluding references. Similar to to the proposal, it should include:
+            	<ul>
+					<li>Title, Author(s)</li>
+					<li>Introduction: this section introduces your project, why it’s important or interesting.</li>
+					<li>Make sure to submit your code (or Github URL). Do not submit your dataset. It is okay to include a few samples though.</li>
+					<li>Details on the dataset</li>
+					<li>Approach: Describe the current steps you have done. If you are implementing an algorithm, you should have started implementation and ideally have some early stage results. Describe precisely the remaining work you expect to complete. We ideally would like to see a model description and a training strategy (loss function for instance).</li>
+				</ul>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Grading</b></td>
+            <td>The milestone is mostly intended to get feedback from TAs to make sure you’re making reasonable progress. As long as your milestone follows the instructions and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well on the milestone.</td>
+        </tr>
+        <tr>
+            <td><b>Submission</b></td>
+            <td>Submit on Gradescope. Code can either be a link to a github repository, or the relevant files themselves.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Poster
 
@@ -119,6 +136,10 @@ Your milestone should be **at most 3 pages**, excluding references. Similar to t
 **Location:** ACSR Basketball Courts 
 
 Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.
+
+| **Format** | Here are some [poster guidelines](/files/poster-guidelines.pdf) (please note that 36x24 in means 36 in wide by 24 in tall, i.e. it's better if your poster is formatted landscape). You can also look at posters from previous years in CS229/CS231N/CS224N.
+| **Grading** | We will be grading posters on the poster quality and clarity, the technical content of the poster, as well as the knowledge demonstrated by the team when discussing their work with teaching staff at the poster session. **Note:** Posters with nice, illustrative figures are preferred over posters with lots of text.
+| **Submission** | Submit on Gradescope.
 
 ## Final Report
 
@@ -135,3 +156,9 @@ The final report should contain a comprehensive account of your project. We expe
  * References
 
  After the class, we will post all the final writeups online so that you can read about each other’s work. If you do not want your write-up to be posted online, then please create a private Piazza post. 
+
+ | **Format** | Final project writeups can be **at most 5 pages** long (including appendices and figures). We will allow for extra pages containing only references. If you did this work in collaboration with someone else, or if someone else (such as another professor) had advised you on this work, your write-up must fully acknowledge their contributions. For shared projects, we also require that you submit the final report from the class you're sharing the project with. You are strongly encouraged to use this [format](/files/formatting-instructions-cs230.pdf) (here's a link to the [overleaf files](https://www.overleaf.com/read/jcqmtbqhkrxg)). If you are not using this format, make sure to include all sections given in the format.
+ | **Contributions** | Please include a section that describes what each team member worked on and contributed to the project.
+ | **Code** | Please include a link to a Github repository with the code for your final project. You do not have to include the data or additional libraries.
+ | **Grading** | The final report will be judged based off of the clarity of the report, the relevance of the project to topics taught in CS230, the novelty of the problem, and the technical quality and significance of the work.
+ | **Submission** | Submit on Gradescope.
