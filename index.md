@@ -13,7 +13,7 @@ buttons:
       external_url: false
     - icon: 
       content: Piazza
-      url: 'https://piazza.com/class/jqlmsmrpyak1oz'
+      url: 'https://piazza.com/class/jtknb0phre45ev'
       external_url: true
 
 # Author box
@@ -21,26 +21,26 @@ author:
     title: Syllabus
     title_url: '/syllabus'
     external_url: false
-    description: Tue 10:30 AM - 11:50 AM <br> NVIDIA Auditorium
+    description: Tue 9:00 AM - 10:20 AM <br> NVIDIA Auditorium
 
 ---
 
 ## Course Information
 
-- This quarter (Winter 2019), CS230 meets for in-class lecture Tue 10:30 AM - 11:50 AM, NVIDIA Auditorium.
-- All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jqlmsmrpyak1oz). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
+- This quarter (Spring 2019), CS230 meets for in-class lecture Tue 9:00 AM - 10:20 AM, NVIDIA Auditorium.
+- All class communication happens on the [CS230 Piazza forum](https://piazza.com/class/jtknb0phre45ev). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments are listed in our [syllabus](/syllabus).
 
 
 ## Course Staff
 {% include instructor.html name="Andrew Ng<br>(Instructor)" link="https://www.andrewng.org/" image="andrew.jpg" %} {% include instructor.html name="Kian Katanforoosh<br>(Instructor)" link="https://www.linkedin.com/in/kiankatan/" image="kian.jpg" %}
 {% include instructor.html name="Swati Dube<br>(Coordinator)" link="http://www.linkedin.com/in/swatidube/" image="swati.jpg"%}
-{% include instructor.html name="Abhijeet Shenoi<br>(Head TA)" link="https://www.linkedin.com/in/ashenoi/" image="abhijeet.jpg"%}
+
 
 #### On Campus Course Assistants
 
-{% include instructor.html name="Shervine Amidi" link="https://stanford.edu/~shervine/" image="shervine.jpg" %}
-{% include instructor.html name="Cristian Bartolome" link="https://www.linkedin.com/in/cristian-bartolom%C3%A9-ar%C3%A1mburu-66768056/en" image="cristian.jpg" %}
+{% include instructor.html name="Bloopity blop" link="https://falafel.com" image="pic.jpg" %}
+<!--{% include instructor.html name="Cristian Bartolome" link="https://www.linkedin.com/in/cristian-bartolom%C3%A9-ar%C3%A1mburu-66768056/en" image="cristian.jpg" %}
 {% include instructor.html name="Kaidi Cao" link="https://ai.stanford.edu/~kaidicao/" image="kaidi.jpg" %}
 {% include instructor.html name="Gael Colas" link="https://www.linkedin.com/in/gael-colas/" image="gael.jpg" %}
 {% include instructor.html name="Farzan Farnia" link="https://linkedin.com/in/farzan-farnia-00798335" image="farzan.jpg" %}
@@ -48,19 +48,22 @@ author:
 {% include instructor.html name="Ahmad Momeni" link="https://www.linkedin.com/in/ahmadreza-momeni-07a75589" image="ahmad.jpg" %}
 {% include instructor.html name="Sarah Najmark" link="https://www.linkedin.com/in/sarah-najmark-706b80131/" image="sarah.jpg" %}
 {% include instructor.html name="Hoormazd Rezaei" link="https://www.linkedin.com/in/hoormazd-rezaei/" image="hoormazd.jpg" %}
-{% include instructor.html name="Weini Yu" link="https://www.linkedin.com/in/weiniyu" image="weini.jpg" %}
+{% include instructor.html name="Weini Yu" link="https://www.linkedin.com/in/weiniyu" image="weini.jpg" %}-->
 
 #### Off Campus Course Assistants
-{% include instructor.html name="Hojat Ghorbani" link="https://www.linkedin.com/in/hojat-ghorbanidehno/" image="hojat.jpg" %}
+<!--{% include instructor.html name="Hojat Ghorbani" link="https://www.linkedin.com/in/hojat-ghorbanidehno/" image="hojat.jpg" %}
 {% include instructor.html name="Sagar Honnungar" link="https://www.linkedin.com/in/sagar-honnungar-1882b888/" image="sagar.jpg" %}
 {% include instructor.html name="Ishan Patil" link="https://www.linkedin.com/in/ishan-patil-0805b364/" image="ishan.jpg" %}
-
-
+-->
 ## Logistics
+All course announcements take place through the [class Piazza forum](https://piazza.com/class/jtknb0phre45ev). Please make sure to join!
+#### Class components
 
-#### Before the first class
-
-If you are enrolled in CS230, you will receive an email from Coursera the day before the first day of class to join a private session of the course "Neural Networks and Deep Learning". Follow the instructions to setup your Coursera account with your Stanford email.
+CS230 has the following components:
+* In class lecture - once a week
+* Video lectures, programming assignments, and quizzes on Coursera
+* [The final project](/project)
+* [Weekly TA-led sections](/section)
 
 #### The flipped classroom format
 
@@ -111,7 +114,7 @@ Each student will have a total of ten free late (calendar) days to use for progr
 
 **For example**, if one quiz and one programming assignment are submitted 3 hours after the deadline, this results in 2 late days being used.
 
-**For example**, if a group submitted their project proposal 23 hours after the deadline, this results in 1 late days being used per student.
+**For example**, if a group submitted their project proposal 23 hours after the deadline, this results in 1 late day being used per student.
 
 Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
 
