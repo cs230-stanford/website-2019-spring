@@ -39,7 +39,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;1</td>
-            <td> 01/08 </td>
+            <td> 04/02 </td>
             <td>
                 <strong>Topic:</strong>
                 <ul>
@@ -50,7 +50,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                No online modules. If you are enrolled in CS230, you will receive an email on 01/07 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
+                No online modules. If you are enrolled in CS230, you will receive an email on 04/01 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
             </td>
             <td>
                 No assignments.
@@ -58,7 +58,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;2</td>
-            <td> 01/15 </td>
+            <td> 04/09 </td>
             <td>
                 <strong>Topic:</strong> Full-cycle of a deep learning project
             </td>
@@ -70,12 +70,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due 01/15 at 10am):</strong>
+                <strong>Quizzes (due 04/09 at 8:30am):</strong>
                 <ul>
                     <li>Introduction to deep learning</li>
                     <li>Neural Networks Basics</li>
                 </ul>
-                <strong>Programming Assignments (due 01/15 at 10am)</strong>
+                <strong>Programming Assignments (due 04/09 at 8:30am)</strong>
                 <ul>
                     <li>Python Basics with Numpy (Optional)</li>
                     <li>Logistic Regression with a neural network mindset</li>
@@ -89,7 +89,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;3</td>
-            <td> 01/22 </td>
+            <td> 04/16 </td>
             <td>
                 <strong>Topic:</strong> Deep Learning Intuition <a href="/lectures/2019/winter/3.pdf">(slides)</a>
                 <ul>
@@ -106,12 +106,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 10am):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Shallow Neural Networks</li>
                     <li>Key concepts on Deep Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at 10am):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Planar data classification with a hidden layer</li>
                     <li>Building your Deep Neural Network: step by step</li>
@@ -121,14 +121,14 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Proposal Due</strong></td>
-            <td><strong>01/22<br>Tuesday<br>11:59PM</strong></td>
+            <td><strong>TBD<br>TBD<br>TBD</strong></td>
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Lecture&nbsp;4</td>
-            <td> 01/29 </td>
+            <td> 04/23 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -148,12 +148,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 10am):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Practical aspects of deep learning</li>
                     <li>Optimization Algorithms</li>
                 </ul>
-                <strong>Programming Assignments (due at 10am):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Initialization</li>
                     <li>Regularization</li>
@@ -169,8 +169,8 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;5</td>
-            <td> 02/05 </td>
-            <td>
+            <td> 04/30 </td>
+            <td
                 <strong>Topic:</strong> Deep Learning Project strategy - Case studies
             </td>
             <td>
@@ -182,13 +182,13 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 10am):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
                     <li>Bird recognition in the city of Peacetopia (case study)</li>
                     <li>Autonomous driving (case study)</li>
                 </ul>
-                <strong>Programming Assignments (due at 10am):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Tensorflow</li>
                 </ul>
@@ -196,12 +196,12 @@ micro_nav: false
         </tr>
         <tr>
             <td>Midterm Review</td>
-            <td>02/08</td>
+            <td>TBD</td>
             <td><strong>Past midterms:</strong>
                 <ul>
                     <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
                     <li>Spring 2018 Midterm <a href="/files/cs230exam_spr18.pdf">(without solutions</a>, <a href="/files/cs230exam_spr18_soln.pdf">with solutions)</a></li>
-                    <!-- <li>Fall 2018 Midterm <a href="/files/cs230exam_aut18.pdf">(without solutions</a>, <a href="/files/cs230exam_aut18_soln.pdf">with solutions)</a></li> -->
+                    <li>Fall 2018 Midterm <a href="/files/cs230exam_aut18.pdf">(without solutions</a>, <a href="/files/cs230exam_aut18_soln.pdf">with solutions)</a></li>
                 </ul>
             </td>
             <td>
@@ -210,7 +210,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture 6</td>
-            <td>02/12</td>
+            <td>05/07</td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -226,12 +226,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 10am):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>The basics of ConvNets</li>
                     <li>Convolutional models</li>
                 </ul>
-                <strong>Programming Assignments (due at 10am):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Convolutional Neural Network - Step by Step</li>
                     <li>Convolutional Neural Network - Application</li>
@@ -247,28 +247,28 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Midterm</strong></td>
-            <td><strong>02/13</strong></td>
+            <td><strong>TBD</strong></td>
             <td></td>
             <td>
                 <strong>Midterm</strong>
                 <ul>
-                    <li>Date: Feburary 13, 2019</li>
-                    <li>Time: 6 - 9pm</li>
-                    <li>Locations: Cubberley Aud. (last names A-L) and Bishop Aud. (last names M-Z)</li>
+                    <li>Date: TBD</li>
+                    <li>Time: TBD</li>
+                    <li>Locations: TBD</li>
                 </ul>
             </td>
             <td>
                 <strong>Alternate Midterm</strong>
                 <ul>
-                    <li>Date: February 14, 2019</li>
-                    <li>Time: 6 - 9pm</li>
-                    <li>Location: 370-370</li>
+                    <li>Date: TBD</li>
+                    <li>Time: TBD</li>
+                    <li>Location: TBD</li>
                 </ul>
             </td>
         </tr>
         <tr>
             <td>Lecture&nbsp;7</td>
-            <td> 02/19 </td>
+            <td> 05/14 </td>
             <td>
                 <strong>Topic:</strong> Interpretability of Neural Network <a href="/fall2018/slides_week7.pdf">(slides)</a>
                 <br>
@@ -283,12 +283,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 10am):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Detection Algorithms</li>
                     <li>Special Applications: Face Recognition and Neural Style Transfer</li>
                 </ul>
-                <strong>Programming Assignments (due at 10am):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Car Detection with YOLOv2</li>
                     <li>Art Generation with Neural Style Transfer</li>
@@ -298,7 +298,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Milestone Due</strong></td>
-            <td><strong>02/19 at 11:59pm</strong></td>
+            <td><strong>TBD</strong></td>
             <td>
                 <a href="/project/#milestone">Instructions</a></td>
             <td>
@@ -312,7 +312,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;8</td>
-            <td> 02/26 </td>
+            <td> 05/21 </td>
             <td>
                 <strong>Topic:</strong>
                 <ul>
@@ -332,11 +332,11 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 10am):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Recurrent Neural Networks</li>
                 </ul>
-                <strong>Programming Assignments (due at 10am):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Building a Recurrent Neural Network - Step by Step</li>
                     <li>Dinosaur Land -- Character-level Language Modeling</li>
@@ -346,7 +346,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;9</td>
-            <td> 03/05 </td>
+            <td> 05/28 </td>
             <td>
                 <strong>Topic:</strong> Deep Reinforcement Learning <a href="/files/Lecture9.pdf">(slides)</a>
                 <br>
@@ -365,12 +365,12 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 10am):</strong>
+                <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Natural Language Processing and Word Embeddings</li>
                     <li>Sequence Models and Attention Mechanism</li>
                 </ul>
-                <strong>Programming Assignments (due at 10am):</strong>
+                <strong>Programming Assignments (due at 8:30am):</strong>
                 <ul>
                     <li>Operations on Word Vectors - Debiasing</li>
                     <li>Emojify!</li>
@@ -381,7 +381,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;10</td>
-            <td> 03/12 </td>
+            <td> 06/04 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -394,7 +394,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Final Poster and Project Report Due</strong></td>
-            <td><strong>03/19<br>Tuesday, 11:59pm</strong></td>
+            <td><strong>TBD<br>TBD</strong></td>
             <td>
                 Instructions for <a href="/project/#poster">Poster</a> and <a href="/project/#final-report">Project Report</a>
             </td>
@@ -404,14 +404,14 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Poster Session</strong></td>
-            <td><strong>03/20<br>Wednesday</strong></td>
+            <td><strong>06/10<br>Monday</strong></td>
             <td></td>
             <td>
                 <strong>Poster Session</strong>
                 <ul>
-                    <li>Date: March 20, Wednesday</li>
-                    <li>Time: 12:15pm - 3:15pm</li>
-                    <li>Location: ACSR Basketball Courts</li>
+                    <li>Date: June 10, Monday</li>
+                    <li>Time: 8:30am - 11:30am</li>
+                    <li>Location: TBD</li>
                 </ul>
             </td>
             <td></td>
