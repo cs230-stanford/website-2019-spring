@@ -121,7 +121,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Proposal Due</strong></td>
-            <td><strong>TBD<br>TBD<br>TBD</strong></td>
+            <td><strong>04/16<br>Tuesday<br>11:59PM</strong></td>
             <td><a href="/project/#proposal">Instructions</a></td>
             <td></td>
             <td></td>
@@ -298,7 +298,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Project Milestone Due</strong></td>
-            <td><strong>TBD</strong></td>
+            <td><strong>Tuesday 05/14 at 11:59PM</strong></td>
             <td>
                 <a href="/project/#milestone">Instructions</a></td>
             <td>
@@ -394,7 +394,7 @@ micro_nav: false
         </tr>
         <tr style="background-color:#b7ffbf">
             <td><strong>Final Poster and Project Report Due</strong></td>
-            <td><strong>TBD<br>TBD</strong></td>
+            <td><strong>06/09<br>11:59pm</strong></td>
             <td>
                 Instructions for <a href="/project/#poster">Poster</a> and <a href="/project/#final-report">Project Report</a>
             </td>
