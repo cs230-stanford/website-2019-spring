@@ -29,9 +29,6 @@ author:
 
 ---
 
-<iframe width="300" height="200" src="https://www.youtube.com/embed/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=2&t=0s" frameborder="0" allowfullscreen></iframe>
-
-
 ## Course Information
 
 - This quarter (Spring 2019), CS230 meets for in-class lecture Tue 9:00 AM - 10:20 AM, NVIDIA Auditorium.

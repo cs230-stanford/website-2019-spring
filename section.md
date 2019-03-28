@@ -27,10 +27,10 @@ grid_navigation:
       excerpt: TensorFlow Blitz with PyTorch Bits!
       cta: Read more
       url: /section/4
-    - title: Midterm Section
+    - title: Section 5
       excerpt: Introduction to Xavier Initialization and midterm review.
       cta: Read more
-      url: /section/review
+      url: /section/5
     - title: Section 6
       excerpt: Regularization in theory and code!
       cta: Read more
