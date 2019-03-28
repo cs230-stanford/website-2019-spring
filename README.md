@@ -20,11 +20,11 @@ Open the Markdown file (`.md`) for the page you want to edit. Generally, don't e
 
 ### Generate a publishable version
 
-From terminal run `JEKYLL\_ENV=production jekyll build` in the top folder for a local version of the website. A publishable HTML version of the website will be available in the `\_site` folder.
+From terminal run `JEKYLL_ENV=production jekyll build` in the top folder for a local version of the website. A publishable HTML version of the website will be available in the `_site` folder.
 
 ### Transfer content to server
 
-Transfer the content of the `\_site` folder to Stanford's AFS server with either the [web interface](https://afs.stanford.edu/) or SFTP tools.  CS230's website folder is located at `/afs/ir/class/cs230/WWW`.  For more information on transferring files to AFS read [here](https://uit.stanford.edu/service/afs/file-transfer).
+Transfer the content of the `_site` folder to Stanford's AFS server with either the [web interface](https://afs.stanford.edu/) or SFTP tools.  CS230's website folder is located at `/afs/ir/class/cs230/WWW`.  For more information on transferring files to AFS read [here](https://uit.stanford.edu/service/afs/file-transfer).
 
 
 # Helpful hints
