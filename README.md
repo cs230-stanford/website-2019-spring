@@ -7,7 +7,7 @@ This repository contains the code for the new CS230 website (launched in January
 
 - Clone a local copy of this repository.
 - Unzip the folder and `cd` into it from terminal.
-- If you haven't already installed Jekyll](https://jekyllrb.com/), then run `gem install bundler jekyll` or `sudo gem install bundler jekyll`.
+- If you haven't already installed [Jekyll](https://jekyllrb.com/), then run `gem install bundler jekyll` or `sudo gem install bundler jekyll`.
 - Run `jekyll serve`.
 - A local version of the website should be accessible at `http://127.0.0.1:4000`.
 
@@ -38,11 +38,7 @@ For external links use `[link](https://...)` and for local links use `[link](/pa
 The raw images should go in the following folder `doks-theme/assets/images/[article type]/[number]`. Instead of using `![Alt text](image.png)` use the following `{% include image.html description="add description" link="external url image source" image="[article type]/[number]/[image.png]" caption="true"%}`.
 
 ### Latex
-This repository uses [MathJax](https://www.mathjax.org/) to render Latex.  Simply write normal Latex code in the Markdown files and surround it in dollar signs.  For `$$inline math$$` simply put it directly in a sentence, while for
-
-<center>`$$centered math$$`</center>
-
-put it on a newline.
+This repository uses [MathJax](https://www.mathjax.org/) to render Latex.  Simply write normal Latex code in the Markdown files and surround it in dollar signs.  For `$$inline math$$` simply put it directly in a sentence, while for `$$centered math$$` put it on its own line.
 
 # What can be improved
 
