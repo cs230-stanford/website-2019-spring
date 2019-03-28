@@ -40,7 +40,7 @@ The raw images should go in the following folder `doks-theme/assets/images/[arti
 ### Latex
 This repository uses [MathJax](https://www.mathjax.org/) to render Latex.  Simply write normal Latex code in the Markdown files and surround it in dollar signs.  For `$$inline math$$` simply put it directly in a sentence, while for `$$centered math$$` put it on its own line.
 
-### Coments
+### Comments
 You can comment out Markdown with HTML comment symbols.  That is surround the text you would like not to display with `<!--` and `-->`.
 
 # What can be improved
