@@ -3,7 +3,7 @@ This repository contains the code for the new CS230 website (launched in January
 
 # How to Edit a Page?
 
-### (1) get a local version of the website running
+### Get a local version of the website running
 
 - Clone a local copy of this repository.
 - Unzip the folder and `cd` into it from terminal.
@@ -11,25 +11,23 @@ This repository contains the code for the new CS230 website (launched in January
 - Run `jekyll serve`.
 - A local version of the website should be accessible at `http://127.0.0.1:4000`.
 
-### (2) edit the Markdown file
+### Edit the Markdown file
 
 Open the Markdown file (`.md`) for the page you want to edit. Generally, don't edit the first few rows of text between `--` and `--`.  Notice that if you edit this page then reload the website, your changes will have been added. Don't forget to **commit your changes** to the Github page.
 
 
 # How to Publish a Page?
 
-### (1) generate a publishable version
+### Generate a publishable version
 
 From terminal run `JEKYLL\_ENV=production jekyll build` in the top folder for a local version of the website. A publishable HTML version of the website will be available in the `\_site` folder.
 
-### (2) transfer content to server
+### Transfer content to server
 
-Accessing Website:
- * The web interface for AFS: https://afs.stanford.edu/
- * The class folder is located at /afs/ir/class/cs230/WWW
+Transfer the content of the `\_site` folder to Stanford's AFS server with either the [web interface](https://afs.stanford.edu/) or SFTP tools.  CS230's website folder is located at `/afs/ir/class/cs230/WWW`.  For more information on transferring files to AFS read [here](https://uit.stanford.edu/service/afs/file-transfer).
 
 
-# Helpful hints!
+# Helpful hints
 
 For shortcuts to Markdown formatting check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  Below are specific formatting tricks for this repository.
 
@@ -46,7 +44,7 @@ This repository uses [MathJax](https://www.mathjax.org/) to render Latex.  Simpl
 
 put it on a newline.
 
-# What can be improved.
+# What can be improved
 
 Below is a list of suggested changes for the website and content:
 
