@@ -170,7 +170,7 @@ micro_nav: false
         <tr>
             <td>Lecture&nbsp;5</td>
             <td> 04/30 </td>
-            <td
+            <td>
                 <strong>Topic:</strong> Deep Learning Project strategy - Case studies
             </td>
             <td>
