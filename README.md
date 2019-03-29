@@ -48,13 +48,20 @@ You can comment out Markdown with HTML comment symbols.  That is surround the te
 Below is a list of suggested changes for the website and content:
 
 General:
+- Should modify image.html include to take width as an argument.
 - Standardize previous project list and make a standardized method for adding new ones.
 - Add a toggle answer include for the FAQ, Sections, and Lectures.
 - Clean up file structure on server.
 - Add Google Analytics by editing the `_config.yml` file.
 
 Section:
- - Section 3 should use the notation introduced in class.
- - Section 6 add Pytorch code as well as Tensorflow.
- - Section 9 extend to regression metrics and AUC.
- - Section 10 is very minimal and needs more content.
+- Section 3 should use the notation introduced in class.
+- Section 6 add Pytorch code as well as Tensorflow.
+- Section 9 extend to regression metrics and AUC.
+- Section 10 is very minimal and needs more content.
+
+Lecture:
+- Images need to be added to all lectures.
+- Lectures 8, 9, 10 are unfinished.
+- Keep a consistent style to all lectures.
+- Should merge lecture notes 4a and 4b into just 4.
