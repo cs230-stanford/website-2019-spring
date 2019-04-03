@@ -46,7 +46,7 @@ micro_nav: false
                     <li>Class introduction</li>
                     <li>Examples of deep learning projects</li>
                     <li>Course details</li>
-                    <li><a href="/fall2018/CS230_Lecture1.pdf">Slides</a> and <a href="/files/Notation.pdf">Class notation</a></li>
+                    <li><a href="/spring2019/cs230_lecture1.pdf">Slides</a> and <a href="/files/Notation.pdf">Class notation</a></li>
                 </ul>
             </td>
             <td>

@@ -69,7 +69,7 @@ In order to highlight these components, it is important you present a solid disc
 
 ## Proposal
 
-**Deadline:** January 22nd, Tuesday 11:59 PM
+**Deadline:** April 16th, Tuesday 11:59 PM
 
 In the project proposal, you'll pick a project idea to work on early and receive feedback from the TAs. If your proposed project will be done jointly with a different class' project, you should obtain approval from the other instructor and approval from us. Please come to the project office hours to discuss with us if you would like to do a joint project. You should submit your proposals on Gradescope. All students should already be added to the course page on Gradescope via your SUNet IDs. If you are not, please create an account with **your Stanford email** and enroll in CS230.
 
@@ -101,7 +101,7 @@ Presenting pointers to one relevant dataset and one example of prior research on
 
 ## Milestone
 
-**Deadline:** February 19th, Tuesday 11:59pm
+**Deadline:** May 14th, Tuesday 11:59pm
 
 The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the milestone (and final report) keeping in mind that the intended audience is Profs. Ng and Katanforoosh and the TAs. Thus, for example, you should not spend two pages explaining what logistic regression is. Your milestone should include the full names of all your team members and state the full title of your project. **Note:** We will expect your final writeup to be on the same topic as your milestone. In order to help you the most, we expect you to submit your running code. Your code should contain a baseline model for your application. Along with your baseline model, you are welcome to submit additional parts of your code such as data pre-processing, data augmentation, accuracy matric(s), and/or other models you have tried. Please clean your code before submitting, comment on it, and cite any resources you used. Please **do not submit your dataset**. However, you may include a few samples of your data in the report if you wish.
 
@@ -132,8 +132,9 @@ The milestone will help you make sure you're on track, and should describe what 
 
 ## Poster
 
-**Date:** March 20th, Wednesday 12:15pm-3:15pm
-**Location:** ACSR Basketball Courts 
+**Deadline:** June 9th, Sunday 11:59pm
+**Poster Session:** June 10th, Monday 8:30am - 11:30am
+**Location:** TBD
 
 Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.
 
@@ -143,7 +144,7 @@ Your poster is required to be a 24" by 36" summary of your work. Include diagram
 
 ## Final Report
 
-**Deadline:**  March 19th, Tuesday 11:59pm
+**Deadline:**  June 9th, Sunday 11:59pm
 
 The final report should contain a comprehensive account of your project. We expect the report to be thorough, yet concise. Broadly, we will be looking for the following:
 

@@ -39,25 +39,21 @@ author:
 ## Course Staff
 {% include instructor.html name="Andrew Ng<br>(Instructor)" link="https://www.andrewng.org/" image="andrew.jpg" %} {% include instructor.html name="Kian Katanforoosh<br>(Instructor)" link="https://www.linkedin.com/in/kiankatan/" image="kian.jpg" %}
 {% include instructor.html name="Swati Dube<br>(Coordinator)" link="http://www.linkedin.com/in/swatidube/" image="swati.jpg"%}
-{% include instructor.html name="Aarti Bagul<br>(Head TA)" link="" image="nophoto.jpg" %}
+{% include instructor.html name="Younes Mourri<br>(Course Advisor)" link="https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9/" image="younes.jpg"%}
+{% include instructor.html name="Aarti Bagul<br>(Head TA)" link="https://www.linkedin.com/in/aartibagul" image="aarti.jpg" %}
 
 
 #### On Campus Course Assistants
-{% include instructor.html name="Steven Chen" link="" image="nophoto.jpg" %}
-{% include instructor.html name="Patrick Cho" link="" image="nophoto.jpg" %}
+{% include instructor.html name="Steven Chen" link="http://www.stevenzc.com/" image="steven.jpg" %}
+{% include instructor.html name="Patrick Cho" link="https://www.linkedin.com/in/patrickchochungting/" image="patrick.jpg" %}
 {% include instructor.html name="Ahmad Momeni" link="https://www.linkedin.com/in/ahmadreza-momeni-07a75589" image="ahmad.jpg" %}
 {% include instructor.html name="Sarah Najmark" link="https://www.linkedin.com/in/sarah-najmark-706b80131/" image="sarah.jpg" %}
-{% include instructor.html name="Suvadip Paul" link="" image="nophoto.jpg" %}
+{% include instructor.html name="Suvadip Paul" link="https://www.linkedin.com/in/suvadippaul" image="suvadip.jpg" %}
 {% include instructor.html name="Hoormazd Rezaei" link="https://www.linkedin.com/in/hoormazd-rezaei/" image="hoormazd.jpg" %}
-{% include instructor.html name="Ashwin Sreenivas" link="" image="nophoto.jpg" %}
-{% include instructor.html name="Tugce Tasci" link="" image="nophoto.jpg" %}
-{% include instructor.html name="Jay Whang" link="" image="nophoto.jpg" %}
+{% include instructor.html name="Ashwin Sreenivas" link="https://www.linkedin.com/in/sreenivasashwin/" image="ashwin.png" %}
+{% include instructor.html name="Tugce Tasci" link="https://www.linkedin.com/in/tugcetasci/" image="tugce.png" %}
+{% include instructor.html name="Jay Whang" link="http://jaywhang.com" image="jay.jpg" %}
 {% include instructor.html name="Weini Yu" link="https://www.linkedin.com/in/weiniyu" image="weini.jpg" %}
-
-#### Off Campus Course Assistants
-{% include instructor.html name="Hojat Ghorbani" link="https://www.linkedin.com/in/hojat-ghorbanidehno/" image="hojat.jpg" %}
-{% include instructor.html name="Sagar Honnungar" link="https://www.linkedin.com/in/sagar-honnungar-1882b888/" image="sagar.jpg" %}
-{% include instructor.html name="Ishan Patil" link="https://www.linkedin.com/in/ishan-patil-0805b364/" image="ishan.jpg" %}
 
 ## Logistics
 All course announcements take place through the [class Piazza forum](https://piazza.com/class/jtknb0phre45ev). Please make sure to join!
