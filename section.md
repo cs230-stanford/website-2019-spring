@@ -12,43 +12,43 @@ buttons:
 # Grid navigation
 grid_navigation:
     - title: Section 1
-      excerpt: Getting started on your project.
+      excerpt: Getting Started with Your Project
       cta: Read more
       url: /section/1
     - title: Section 2
-      excerpt: Going from an idea to an implementation. 
+      excerpt: Implementation First Steps - Codebases, Baselines, and AWS
       cta: Read more
       url: /section/2
     - title: Section 3
-      excerpt: A quick introduction to gradient descent and backpropagation.
+      excerpt: Understanding Gradient Descent and Backpropagation
       cta: Read more
       url: /section/3
     - title: Section 4
-      excerpt: TensorFlow Blitz with PyTorch Bits!
+      excerpt: Xavier Initialization and Regularization
       cta: Read more
       url: /section/4
     - title: Section 5
-      excerpt: Introduction to Xavier Initialization and midterm review.
+      excerpt: Tensorflow and PyTorch
       cta: Read more
       url: /section/5
     - title: Section 6
-      excerpt: Regularization in theory and code!
+      excerpt: Midterm Week
       cta: Read more
       url: /section/6
     - title: Section 7
-      excerpt: An introduction to hyperparameter tuning and cloud computing.
+      excerpt: Advanced Evaluation Metrics
       cta: Read more
       url: /section/7
     - title: Section 8
-      excerpt: Reading research papers efficiently.
+      excerpt: Hyperparameter Tuning and Tensorboard
       cta: Read more
       url: /section/8
     - title: Section 9
-      excerpt: An overview of evaluation metrics.
+      excerpt: Modern Deep Learning Applications
       cta: Read more
       url: /section/9
     - title: Section 10
-      excerpt: Writting your final report.
+      excerpt: Writing Your Final Report
       cta: Read more
       url: /section/10
 
