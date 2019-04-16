@@ -16,7 +16,11 @@ buttons:
       url: 'https://piazza.com/class/jtknb0phre45ev'
       external_url: true
     - icon: 
-      content: Lecture videos
+      content: Lecture videos (Canvas)
+      url: 'https://canvas.stanford.edu/courses/100571/external_tools/3367'
+      external_url: true
+    - icon: 
+      content: Lecture videos (Fall 2018)
       url: 'http://onlinehub.stanford.edu/cs230'
       external_url: true
 
