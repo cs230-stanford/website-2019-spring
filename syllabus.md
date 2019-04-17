@@ -91,11 +91,12 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 04/16 </td>
             <td>
-                <strong>Topic:</strong> Deep Learning Intuition <a href="/lectures/2019/winter/3.pdf">(slides)</a>
+                <strong>Topic:</strong> Deep Learning Intuition
                 <ul>
                     <li>How to frame a machine learning problem?</li>
                     <li>How to choose your loss function?</li>
                     <li>Intuition behind various real-world application of deep learning.</li>
+                    <li><a href="/spring2019/cs230_lecture3.pdf">Slides</a></li>
                 </ul>
             </td>
             <td>
