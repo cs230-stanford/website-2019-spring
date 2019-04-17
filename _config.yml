@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: "http://cs230.stanford.edu"
+    baseurl: "//cs230.stanford.edu"
     color_theme: red
     header:
         logo:
