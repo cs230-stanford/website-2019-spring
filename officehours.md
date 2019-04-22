@@ -24,21 +24,21 @@ micro_nav: false
 </div>
 
 
-## Location and Zoom ID
+## Course Staff Zoom IDs
 
-|    TA     |   Location     | Zoom ID (SCPD) |
-|:---------:|----------------|---------------:|
-| Aarti  	| TBD            | TBD            |
-| Steven    | TBD            | TBD            |
-| Patrick   | TBD            | TBD            |
-| Ahmad     | TBD            | TBD            |
-| Sarah     | TBD            | TBD            |
-| Suvadip   | TBD            | TBD            |
-| Hoormazd  | TBD            | TBD            |
-| Ashwin    | TBD            | TBD            |
-| Tugce     | TBD            | TBD            |
-| Jay       | TBD            | TBD            |
-| Weini     | TBD            | TBD            |
+|    TA     | Zoom ID (SCPD) |
+|:---------:|---------------:|
+| Aarti  	| 774-152-6846            |
+| Steven    | 631-363-7785            |
+| Patrick   | 234-847-0469            |
+| Ahmad     | 582-402-6341            |
+| Sarah     | 964-301-5961            |
+| Suvadip   | 598-266-0159            |
+| Hoormazd  | 339-569-9541            |
+| Ashwin    | 247-106-5427            |
+| Tugce     | 940-178-3273            |
+| Jay       | 754-389-2619            |
+| Weini     | 987-188-2593            |
 
 <!---
 | Aarti  	| TBD            | 452-715-0895   |
