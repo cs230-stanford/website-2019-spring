@@ -248,21 +248,22 @@ micro_nav: false
         </tr>
         <tr style="background-color:#ffcece" id="midterm">
             <td><strong>Midterm</strong></td>
-            <td><strong>TBD</strong></td>
+            <td><strong>05/09</strong></td>
             <td></td>
             <td>
                 <strong>Midterm</strong>
                 <ul>
-                    <li>Date: TBD</li>
-                    <li>Time: TBD</li>
-                    <li>Locations: TBD</li>
+                    <li>Date: Thursday, May 9th</li>
+                    <li>Time: 6pm-9pm</li>
+                    <li>Last names A-K: <a href="https://campus-map.stanford.edu/?id=07-200&lat=37.43065713&lng=-122.17143743&zoom=17&srch=stlc">STLC 111</a> </li>
+                    <li>Last names L-Z: <a href="https://campus-map.stanford.edu/?id=08-350&lat=37.4292801717259&lng=-122.16731208647946&zoom=17">Bishop Auditorium</a> </li>
                 </ul>
             </td>
             <td>
-                <strong>Alternate Midterm</strong>
+                <strong>Alternate Midterm</strong><br>(Only for students with valid, approved reason)
                 <ul>
-                    <li>Date: TBD</li>
-                    <li>Time: TBD</li>
+                    <li>Date: Friday, May 10th</li>
+                    <li>Time: 6pm-9pm</li>
                     <li>Location: TBD</li>
                 </ul>
             </td>
