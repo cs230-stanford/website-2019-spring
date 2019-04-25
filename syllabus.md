@@ -260,10 +260,10 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Alternate Midterm</strong>
+                <strong>Alternate Midterm</strong><br>(Only for students with valid, approved reason)
                 <ul>
-                    <li>Date: TBD</li>
-                    <li>Time: TBD</li>
+                    <li>Date: Friday, May 10th</li>
+                    <li>Time: 6pm-9pm</li>
                     <li>Location: TBD</li>
                 </ul>
             </td>
