@@ -12,6 +12,10 @@ buttons:
       url: '/syllabus'
       external_url: false
     - icon: 
+      content: Syllabus
+      url: '/syllabus'
+      external_url: false
+    - icon: 
       content: Piazza
       url: 'https://piazza.com/class/jtknb0phre45ev'
       external_url: true
@@ -21,8 +25,8 @@ buttons:
       external_url: true
     - icon: 
       content: Lecture videos (Fall 2018)
-      url: 'http://onlinehub.stanford.edu/cs230'
-      external_url: true
+      url: '/lecture/'
+      external_url: false
 
 # Author box
 author:

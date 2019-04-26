@@ -7,8 +7,6 @@ doks:
             text: CS230
             image: true
         nav:
-            # - item_name: Lecture
-            #   item_url: '/lecture'
             - item_name: Syllabus
               item_url: '/syllabus'
             - item_name: Office Hours
@@ -17,6 +15,8 @@ doks:
               item_url: '/project'
             - item_name: Section
               item_url: '/section'
+            - item_name: Lecture
+              item_url: '/lecture'
             - item_name: Blog
               item_url: '/blog'
             - item_name: FAQ
