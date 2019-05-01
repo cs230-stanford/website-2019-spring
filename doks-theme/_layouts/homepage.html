@@ -69,7 +69,7 @@
 								<div class="row">
 									{% for item in page.grid_navigation %}
 										<div class="col-sm-6 col-lg-4">
-											<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ item.url }}" class="nav-grid__item">
+											<a href="{{ item.url }}" class="nav-grid__item">
 												<div class="nav-grid__content" data-mh>
 													<h2 class="nav-grid__title">{{ item.title }}</h2>
 													<p>{{ item.excerpt }}</p>
