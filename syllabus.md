@@ -203,7 +203,7 @@ micro_nav: false
                     <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
                     <li>Spring 2018 Midterm <a href="/files/cs230exam_spr18.pdf">(without solutions</a>, <a href="/files/cs230exam_spr18_soln.pdf">with solutions)</a></li>
                     <li>Fall 2018 Midterm <a href="/files/cs230exam_fall18.pdf">(without solutions</a>, <a href="/files/cs230exam_fall18_soln.pdf">with solutions)</a></li>
-                    <li>Winter 2019 Midterm <a href="/files/cs230exam_win19_soln.pdf">(with solutions)</a></li>
+                    <li>Winter 2019 Midterm <a href="/files/cs230exam_win19.pdf">(without solutions)</a>, <a href="/files/cs230exam_win19_soln.pdf">(with solutions)</a></li>
                 </ul>
             </td>
             <td>
