@@ -28,11 +28,11 @@ grid_navigation:
       cta: Read more
       url: /section/4
     - title: Section 5
-      excerpt: Tensorflow and PyTorch
+      excerpt: TensorFlow and PyTorch
       cta: Read more
       url: /section/5
-    - title: Section 6
-      excerpt: Midterm Week
+    - title: Week 6 (No Section)
+      excerpt: Midterm Week (No Section)
       cta: Read more
       url: /section/6
     - title: Section 7
