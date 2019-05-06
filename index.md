@@ -12,10 +12,6 @@ buttons:
       url: '/syllabus'
       external_url: false
     - icon: 
-      content: Syllabus
-      url: '/syllabus'
-      external_url: false
-    - icon: 
       content: Piazza
       url: 'https://piazza.com/class/jtknb0phre45ev'
       external_url: true
