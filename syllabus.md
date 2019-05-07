@@ -217,7 +217,8 @@ micro_nav: false
                 <strong>Topics:</strong>
                 <ul>
                     <li>AI in Health Care (Guest speaker: Pranav Rajpurkar)</li>
-                    <li>Live-cell segmentation Case Study by Kian Katanforoosh <a href="/fall2018/case_study_week5.pdf">(slides)</a></li>
+                    <li>Live-cell segmentation Case Study by Kian Katanforoosh</li>
+                    <li><a href="/spring2019/cs230_lecture6.pdf">Slides</a></li>
                 </ul>
             </td>
             <td>
