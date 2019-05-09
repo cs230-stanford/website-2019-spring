@@ -196,21 +196,6 @@ micro_nav: false
             </td>
         </tr>
         <tr>
-            <td>Midterm Review</td>
-            <td>TBD</td>
-            <td><strong>Past midterms:</strong>
-                <ul>
-                    <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
-                    <li>Spring 2018 Midterm <a href="/files/cs230exam_spr18.pdf">(without solutions</a>, <a href="/files/cs230exam_spr18_soln.pdf">with solutions)</a></li>
-                    <li>Fall 2018 Midterm <a href="/files/cs230exam_fall18.pdf">(without solutions</a>, <a href="/files/cs230exam_fall18_soln.pdf">with solutions)</a></li>
-                    <li>Winter 2019 Midterm <a href="/files/cs230exam_win19.pdf">(without solutions)</a>, <a href="/files/cs230exam_win19_soln.pdf">(with solutions)</a></li>
-                </ul>
-            </td>
-            <td>
-                <!-- <a href="/fall2018/midterm_review.pdf">Midterm Review Slides</a>, <a href="fall2018/optimization_initialization.pdf">Optimization and Initialization Slides</a>, <a href="/fall2018/adversarial_examples.pdf">Adversarial Examples Notes</a>, <a href="/fall2018/adversarial_examples.ipynb">Adversarial Examples Jupyter Notebook</a> -->
-            </td>
-        </tr>
-        <tr>
             <td>Lecture 6</td>
             <td>05/07</td>
             <td>
@@ -240,6 +225,25 @@ micro_nav: false
                     <li>Convolutional Neural Network - Application</li>
                     <li>Keras Tutorial: This assignment is optional.</li>
                     <li>Residual Networks</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Midterm Review</td>
+            <td>05/08</td>
+            <td><strong>Past midterms:</strong>
+                <ul>
+                    <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a></li>
+                    <li>Spring 2018 Midterm <a href="/files/cs230exam_spr18.pdf">(without solutions</a>, <a href="/files/cs230exam_spr18_soln.pdf">with solutions)</a></li>
+                    <li>Fall 2018 Midterm <a href="/files/cs230exam_fall18.pdf">(without solutions</a>, <a href="/files/cs230exam_fall18_soln.pdf">with solutions)</a></li>
+                    <li>Winter 2019 Midterm <a href="/files/cs230exam_win19.pdf">(without solutions)</a>, <a href="/files/cs230exam_win19_soln.pdf">(with solutions)</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Date & Time: May 8, 3-4pm</li>
+                    <li>Location: EDUC 128</li>
+                    <li><a href="/spring2019/cs230_midterm_review.pdf">Midterm Review Slides</a></li>
                 </ul>
             </td>
         </tr>
