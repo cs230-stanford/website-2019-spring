@@ -44,12 +44,12 @@ grid_navigation:
       cta: Read more
       url: /section/8
     - title: Section 9
-      excerpt: Modern Deep Learning Applications
-      cta: Read more
-      url: /section/9
-    - title: Section 10
       excerpt: Writing Your Final Report
       cta: Read more
-      url: /section/10
+      url: /section/9
+#     - title: Section 10
+#       excerpt: Writing Your Final Report
+#       cta: Read more
+#       url: /section/10
 
 ---
