@@ -407,6 +407,7 @@ micro_nav: false
                 Instructions for <a href="/project/#poster">Poster</a> and <a href="/project/#final-report">Project Report</a>
             </td>
             <td>
+            <strong>Note: Late days cannot be applied to the final poster and report.</strong>
             </td>
             <td></td>
         </tr>

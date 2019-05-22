@@ -132,9 +132,14 @@ The milestone will help you make sure you're on track, and should describe what 
 
 ## Poster
 
-**Deadline:** June 9th, Sunday 11:59pm
+**Submission Deadline:** June 9th, Sunday 11:59pm **(No late days allowed)**
+
 **Poster Session:** June 10th, Monday 8:30am - 11:30am
+
 **Location:** TBD
+
+**Note: If your team is a mix of on-campus and SCPD students, all on-campus students are required to attend the poster session, unless approved by the teaching staff beforehand.
+Please make a private Piazza request if you have special circumstances.** 
 
 Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.
 
@@ -144,7 +149,7 @@ Your poster is required to be a 24" by 36" summary of your work. Include diagram
 
 ## Final Report
 
-**Deadline:**  June 9th, Sunday 11:59pm
+**Deadline:**  June 9th, Sunday 11:59pm **(No late days allowed)**
 
 The final report should contain a comprehensive account of your project. We expect the report to be thorough, yet concise. Broadly, we will be looking for the following:
 
