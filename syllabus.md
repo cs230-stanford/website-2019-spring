@@ -41,7 +41,7 @@ micro_nav: false
             <td>Lecture&nbsp;1</td>
             <td> 04/02 </td>
             <td>
-                <strong>Topic:</strong>
+                <strong>Topics:</strong>
                 <ul>
                     <li>Class introduction</li>
                     <li>Examples of deep learning projects</li>
@@ -60,7 +60,7 @@ micro_nav: false
             <td>Lecture&nbsp;2</td>
             <td> 04/09 </td>
             <td>
-                <strong>Topic:</strong> Full-cycle of a deep learning project
+                <strong>Topics:</strong> Full-cycle of a deep learning project
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -91,7 +91,7 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 04/16 </td>
             <td>
-                <strong>Topic:</strong> Deep Learning Intuition
+                <strong>Topics:</strong> Deep Learning Intuition
                 <ul>
                     <li>How to frame a machine learning problem?</li>
                     <li>How to choose your loss function?</li>
@@ -172,7 +172,7 @@ micro_nav: false
             <td>Lecture&nbsp;5</td>
             <td> 04/30 </td>
             <td>
-                <strong>Topic:</strong> Deep Learning Project strategy - Case studies
+                <strong>Topics:</strong> Deep Learning Project strategy - Case studies
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -278,7 +278,7 @@ micro_nav: false
             <td>Lecture&nbsp;7</td>
             <td> 05/14 </td>
             <td>
-                <strong>Topic:</strong> Interpretability of Neural Network <a href="/fall2018/slides_week7.pdf">(slides)</a>
+                <strong>Topics:</strong> Interpretability of Neural Network <a href="/fall2018/slides_week7.pdf">(slides)</a>
                 <br>
                 <br>
                 <strong>Optional Reading:</strong> <a href="https://arxiv.org/pdf/1603.07285.pdf">A guide to convolution arithmetic for deep learning</a>, <a href="https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf">Is the deconvolution layer the same as a convolutional layer?</a>, <a href="https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf">Visualizing and Understanding Convolutional Networks</a>, <a href="https://arxiv.org/pdf/1312.6034.pdf">Deep Inside Convolutional Networks: Visualizing Image Classification Models and Saliency Maps</a>, <a href="https://arxiv.org/pdf/1506.06579.pdf">Understanding Neural Networks Through Deep Visualization</a>, <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">Learning Deep Features for Discriminative Localization</a>
@@ -322,7 +322,7 @@ micro_nav: false
             <td>Lecture&nbsp;8</td>
             <td> 05/21 </td>
             <td>
-                <strong>Topic:</strong>
+                <strong>Topics:</strong>
                 <ul>
                     <li>Career Advice</li>
                     <li>Reading Research Papers</li>
@@ -356,8 +356,11 @@ micro_nav: false
             <td>Lecture&nbsp;9</td>
             <td> 05/28 </td>
             <td>
-                <strong>Topic:</strong> Deep Reinforcement Learning <a href="/files/Lecture9.pdf">(slides)</a>
-                <br>
+                <strong>Topics:</strong>
+                <ul>
+                    <li>Deep Reinforcement Learning</li>
+                    <li><a href="/spring2019/cs230_lecture9.pdf">Slides</a></li>
+                </ul>
                 <br>
                 <strong>Optional Reading:</strong>
                 <ul>
