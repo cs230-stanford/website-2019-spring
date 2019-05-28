@@ -423,7 +423,7 @@ micro_nav: false
                 <ul>
                     <li>Date: June 10, Monday</li>
                     <li>Time: 8:30am - 11:30am</li>
-                    <li>Location: TBD</li>
+                    <li>Location: <a href="https://alumni.stanford.edu/get/page/resources/alumnicenter/directions">Alumni Center</a></li>
                 </ul>
             </td>
             <td></td>
