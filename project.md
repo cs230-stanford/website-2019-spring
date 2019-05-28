@@ -136,7 +136,7 @@ The milestone will help you make sure you're on track, and should describe what 
 
 **Poster Session:** June 10th, Monday 8:30am - 11:30am
 
-**Location:** TBD
+**Location:** [Alumni Center](https://alumni.stanford.edu/get/page/resources/alumnicenter/directions)
 
 **Note: If your team is a mix of on-campus and SCPD students, all on-campus students are required to attend the poster session, unless approved by the teaching staff beforehand.
 Please make a private Piazza request if you have special circumstances.** 
