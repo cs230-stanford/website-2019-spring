@@ -396,8 +396,9 @@ micro_nav: false
             <td>
                 <strong>Topics:</strong>
                 <ul>
-                    <li>Conversational Assistants <a href="/fall2018/lecture10.pdf">(slides)</a></li>
+                    <li>Class wrap-up</li>
                     <li>What's next?</li>
+                    <li><a href="/spring2019/cs230_lecture10.pdf">Slides</a></li>
                 </ul>
             </td>
             <td>
