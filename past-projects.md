@@ -155,7 +155,19 @@ micro_nav: true
 
 ## Final Project Prize Winners
 
+<ul>
+    <li><a href="http://cs230.stanford.edu/projects_winter_2019/reports/15811409.pdf"><strong>Real-Time Trading Card Recognition in Live Video</strong></a> by Kevin Culberg</li>
+    <li><a href="http://cs230.stanford.edu/projects_winter_2019/reports/15813477.pdf"><strong>Crop Type Mapping with Multi-Temporal and Multi-Spatial Satellite Imagery</strong></a> by Rose Marie Rustowicz, Robin Cheong, Lijing Wang</li>
+    <li><a href="http://cs230.stanford.edu/projects_winter_2019/reports/15808865.pdf"><strong>Listen, Speak in Hindi!</strong></a> by Dinesh Chaudhary</li>
+</ul>
+
 ## Outstanding Posters
+
+<ul>
+    <li><a href="http://cs230.stanford.edu/projects_winter_2019/posters/15811620.pdf"><strong>Learning Joint Acoustic-Phonetic Word Embeddings</strong></a> by Mohamed G Mahmoud</li>
+    <li><a href="http://cs230.stanford.edu/projects_winter_2019/posters/15811797.pdf"><strong>Deep Learning for Well Data History Analysis</strong></a> by Ruixiao Sun, Yuanjun Li</li>
+    <li><a href="http://cs230.stanford.edu/projects_winter_2019/posters/15813437.pdf"><strong>Improving Mobile Robot Navigation with Deep Neural Control and Search-based Motion Planning</strong></a> by Max Kristian Fergusonposter</li>
+</ul>
 
 ## Submissions
 
@@ -217,8 +229,7 @@ micro_nav: true
     <li><strong>DeepASPECTS</strong> by Salmonn Talebi, Rukhsana Yeasmin, Tony Joseph: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15808695.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15808846.pdf">poster</a></li>
     <li><strong>Runway Recognition</strong> by Michael William Hardt, Grzegorz Marian Kawiecki, Carlos Querejeta Masaveu: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15773386.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15786104.pdf">poster</a></li>
     <li><strong>Predicting Loan Default</strong> by Robert Wanjau Kinini, Prinslou Kipchumba Tare, Ken Mutethia Nturibi: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15813330.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15812840.pdf">poster</a></li>
-    <li><strong>Transfer Learning-based CNN Classification for
-    Simpsons Characters</strong> by Yueheng Li: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15811843.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15812344.pdf">poster</a></li>
+    <li><strong>Transfer Learning-based CNN Classification for Simpsons Characters</strong> by Yueheng Li: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15811843.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15812344.pdf">poster</a></li>
     <li><strong>Nuclear segmentation with Deep Learning</strong> by Antoine Barge: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15810728.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15809503.pdf">poster</a></li>
     <li><strong>Make yourself into a work of art</strong> by Kiah Hardcastle, Julie Myriam Makelberge: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15809694.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15809580.pdf">poster</a></li>
     <li><strong>Predicting programming success using deep learning</strong> by Ben Alan Stenhaug, Raejoon Jung, Neeraj Mathur: <a href="http://cs230.stanford.edu/projects_winter_2019/reports/15812415.pdf">report</a> <a href="http://cs230.stanford.edu/projects_winter_2019/posters/15812353.pdf">poster</a></li>
