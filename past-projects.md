@@ -39,7 +39,22 @@ micro_nav: true
 
 ## Final Project Prize Winners -- TBD
 
+<ul>
+    <li><strong>A Computational Knowledge Engine for Human Neuroscience</strong> by Elizabeth Beam</li>
+    <li><strong>Recovery of Latent Vectors and Exploration of Latent Space from StyleGAN</strong> by Chenyu You, Hao Wang</li>
+    <li><a href="http://cs230.stanford.edu/projects_spring_2019/reports/18681694.pdf"><strong>Who is Ernie and if so how many? A multitasking Bert for question answering with discrete reasoning</strong></a> by Barthold Immanuel Albrecht, Xiaofang Zhu, Yanzhuo Wang</li>
+    <li><strong>Tackling Obstacle Tower Challenge</strong> by Hanchul Choi</li>
+    <li><a href="http://cs230.stanford.edu/projects_spring_2019/reports/18676218.pdf"><strong>NBA 2K19 DeepBot: A Neural Network Controlled Real-Time Video Game AI</strong></a> by Kylan Sakata, Pablo Santos, Wyatt Pontius</li>
+</ul>
+
 ## Outstanding Posters -- TBD
+<ul>
+    <li><a href="http://cs230.stanford.edu/projects_spring_2019/posters/18678916.pdf"><strong>Typing Biometrics for User Authentication - a One-Shot Approach</strong></a> by Hannes Lindström, Josef Malmström (cs229)</li>
+    <li><strong>Predicting Gene Expression State from 3D DNA Architecture</strong> by Aparna R Rajpurkar</li>
+    <li><a href="http://cs230.stanford.edu/projects_spring_2019/posters/18681572.pdf"><strong>ElderNet: Automated Electroencephalography Sleep Stage Scoring for Elderly Patient Populations</strong></a> by Abhijeet Rajendra Phatak, Michael Paul Silvernagel, Spyridon Baltsavias</li>
+    <li><a href="http://cs230.stanford.edu/projects_spring_2019/posters/18676948.pdf"><strong>Deep Attentive Neural Models for Algorithmic Trading</strong></a> by Will Geoghegan</li>
+    <li><a href="http://cs230.stanford.edu/projects_spring_2019/posters/18681454.pdf"><strong>Attacking Autonomous Driving ML Algorithms with Adversarial Examples</strong></a> by Koosha Nassiri Nazif, Stephanie Tietz</li>
+</ul>
 
 ## Submissions
 
