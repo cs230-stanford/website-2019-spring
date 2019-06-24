@@ -37,7 +37,7 @@ micro_nav: true
 
 # Spring 2019
 
-## Final Project Prize Winners -- TBD
+## Final Project Prize Winners
 
 <ul>
     <li><strong>A Computational Knowledge Engine for Human Neuroscience</strong> by Elizabeth Beam</li>
@@ -47,7 +47,7 @@ micro_nav: true
     <li><a href="http://cs230.stanford.edu/projects_spring_2019/reports/18676218.pdf"><strong>NBA 2K19 DeepBot: A Neural Network Controlled Real-Time Video Game AI</strong></a> by Kylan Sakata, Pablo Santos, Wyatt Pontius</li>
 </ul>
 
-## Outstanding Posters -- TBD
+## Outstanding Posters
 <ul>
     <li><a href="http://cs230.stanford.edu/projects_spring_2019/posters/18678916.pdf"><strong>Typing Biometrics for User Authentication - a One-Shot Approach</strong></a> by Hannes Lindström, Josef Malmström (cs229)</li>
     <li><strong>Predicting Gene Expression State from 3D DNA Architecture</strong> by Aparna R Rajpurkar</li>
